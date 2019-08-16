@@ -238,18 +238,6 @@
         }
       ]
     },
-    "mainhead-color": {
-      "label": "Color",
-      "type": "select",
-      "options": [
-        {
-          "caption": "Light"
-        }, {
-          "caption": "Dark",
-          "value": "m-mainhead--dark"
-        }
-      ]
-    },
     "feature-cols": {
       "label": "Layout",
       "type": "select",

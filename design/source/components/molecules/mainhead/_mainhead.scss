@@ -4,64 +4,65 @@
   padding-bottom: $space-l;
   margin-bottom: $space-xl;
 
-  .a-wallpaper {
-    display: none;
-  }
-
   .a-pattern {
     @extend %viewport-width;
     position: absolute;
     top: auto;
-    height: 304px - $space-l;
+    height: 200px - $space-l;
     bottom: 0;
-  }
 
-  &__eagle {
-    position: absolute;
-    transform: scaleX(-1);
-    width: 34px;
-    height: 68px;
-    right: calc((50vw - 143px) / 2);
-    top: -46px;
+    &::after {
+      content: '';
+      display: block;
+      position: absolute;
+      background-image: url('../assets/patterns/mainhead.svg');
+      background-size: 150% auto;
+      background-position: center bottom;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 0;
+      padding-top: 150%;
+      bottom: 0;
+    }
   }
 
   &__title {
     @extend %font-xxl;
+    position: relative;
   }
 
   &__text {
     @extend %font-speciallead;
+    position: relative;
     margin-top: $space-s / 2;
     margin-bottom: $space-m;
   }
 
   .a-button {
+    position: relative;
     margin-bottom: $space-l;
   }
 
   &__showcase {
+    @extend %box-shadow;
     position: relative;
-    width: 440px;
-    margin-left: -150px;
+    width: calc(100vw - 2 * #{$space-m});
+    margin-left: calc((100% - (100vw - 2 * #{$space-m})) / 2);
   }
 
   &__fg {
-    position: absolute;
-    height: 83%;
-    width: 77.5%;
-    top: 7%;
-    left: 11%;
+    width: 100%;
   }
 
   @include media-query (tablet) {
     padding-bottom: $space-xl;
 
     .a-pattern {
-      height: 585px - $space-xl;
-    }
+      height: 480px - $space-xl;
 
-    &__eagle {
-      right: calc((50vw - 306px) / 2);
+      &::after {
+        background-size: auto auto;
+      }
     }
 
     &__text {
@@ -69,25 +70,8 @@
     }
 
     &__showcase {
-      width: 840px;
-      margin-left: -240px;
-    }
-  }
-
-  @include media-query (desktop) {
-    .a-pattern {
-      height: 676px - $space-xl;
-    }
-
-    &__eagle {
-      right: calc(50vw - 410px - #{$space-xl});
-    }
-
-    &__showcase {
-      width: 996px;
-      margin-left: calc((100% - 996px) / 2);
+      width: 775px;
+      margin-left: calc((100% - 775px) / 2);
     }
   }
 }
-
-@import 'mainhead-dark';
