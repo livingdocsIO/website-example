@@ -61,7 +61,7 @@ module.exports = function getHeaderComponent (tree,
   for (const node of menuNodes) {
     const breadcrumbItemContent = getHeaderItemContent(node)
     if (breadcrumbItemContent.text === 'Home') {
-      breadcrumbItemContent.text = 'Livingdocs'
+      breadcrumbItemContent.text = 'MyStartUp'
     }
     breadcrumbItemComponent.setContent(breadcrumbItemContent)
 
