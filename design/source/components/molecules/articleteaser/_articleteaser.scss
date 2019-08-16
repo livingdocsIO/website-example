@@ -1,0 +1,62 @@
+.m-articleteaser {
+  @extend %unlink;
+  display: block;
+  width: 100%;
+  margin-bottom: $space-xl;
+
+  &__image {
+    @extend %blackandwhite;
+    height: 3 * $space-l;
+    margin-left: calc((100% - 100vw) / 2);
+    margin-right: calc((100% - 100vw) / 2);
+    background-size: cover;
+    background-position: center center;
+  }
+
+  &__text {
+    position: relative;
+    padding: $space-m $space-m 0;
+    margin-top: -$space-l;
+    margin-left: -$space-m;
+    margin-right: -$space-m;
+    background-color: $color-white;
+  }
+
+  &__topline {
+    @extend %font-l;
+    color: $color-green;
+
+    &::after {
+      content: ' /';
+    }
+  }
+
+  &__title {
+    @extend %font-l;
+    margin-top: $space-s / 2;
+  }
+
+  &__lead {
+    margin-top: $space-s;
+  }
+
+  @include media-query (tablet) {
+    &:nth-of-type(2) {
+      margin-left: $space-xl;
+    }
+
+    .m-articleteaser {
+      &__image {
+        height: 2 * $space-xl;
+        margin-left: -$space-xl - $space-m;
+        margin-right: - $space-m;
+      }
+
+      &__text {
+        margin-top: -$space-xl;
+      }
+    }
+  }
+}
+
+@import 'editor';

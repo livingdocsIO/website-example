@@ -1,0 +1,55 @@
+.o-listicle {
+  margin-bottom: $space-xl;
+
+  &__icon {
+    display: none;
+    max-width: $col-width-tablet-desktop;
+    max-height: 1.5 * $space-xl;
+    position: absolute;
+    bottom: calc(100% + #{$space-m});
+  }
+
+  &__content {
+    position: relative;
+    padding: $space-m $space-m 0;
+    margin-left: -$space-m;
+    margin-right: -$space-m;
+    margin-top: -1.5 * $space-xl;
+    background-color: $color-white;
+  }
+
+  &__col2 {
+    margin-top: $space-l;
+  }
+
+  &__title {
+    @extend %font-l;
+    margin-bottom: $space-s;
+  }
+
+  .a-button {
+    margin-top: $space-xl;
+    margin-bottom: 0;
+  }
+
+  @include media-query (tablet) {
+    &__icon {
+      display: block;
+    }
+
+    &__content {
+      display: flex;
+      justify-content: space-between;
+      margin-top: -2 * $space-xl;
+    }
+
+    &__col2 {
+      min-width: $col-width-tablet-desktop;
+      max-width: $col-width-tablet-desktop;
+      margin-left: $space-m;
+      margin-top: 0;
+    }
+  }
+}
+
+@import 'listicle-single-col';

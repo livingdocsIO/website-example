@@ -1,0 +1,16 @@
+.m-frontandback {
+  &.is-flipped {
+    transform: scale(1.1);
+    z-index: 1;
+
+    .m-frontandback {
+      &__front {
+        transform: rotateY(180deg);
+      }
+
+      &__back {
+        transform: rotateY(360deg);
+      }
+    }
+  }
+}

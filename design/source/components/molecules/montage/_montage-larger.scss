@@ -1,0 +1,6 @@
+.m-montage--larger {
+	@include media-query (desktop) {
+    width: $extended-width-tablet-desktop;
+    margin-left: ($content-width-tablet-desktop - $extended-width-tablet-desktop) / 2;
+  }
+}

@@ -1,0 +1,18 @@
+.a-decoration--upleft {
+  @extend %a-decoration--downleft;
+
+  .a-decoration {
+    &__box {
+      top: auto;
+      transform: translateY(-100%);
+    }
+  }
+
+  @media only screen and (min-width: 2 * 6 * $space-xl + $content-width-tablet-desktop) {
+    .a-decoration {
+      &__box {
+        margin-top: 0;
+      }
+    }
+  }
+}

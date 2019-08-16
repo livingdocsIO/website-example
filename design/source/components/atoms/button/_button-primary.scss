@@ -1,0 +1,11 @@
+%a-button--primary,
+.a-button--primary {
+  background: $color-green;
+  color: $color-white;
+
+  &:hover {
+    color: $color-white;
+    border-color: $color-grey-dark;
+    background-color: $color-grey-dark;
+  }
+}

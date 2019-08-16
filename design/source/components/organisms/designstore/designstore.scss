@@ -1,0 +1,67 @@
+.o-designstore {
+  @extend %viewport-width;
+  padding: $space-xl 0 0;
+  margin-bottom: $space-xl;
+  color: $color-white;
+  overflow: hidden;
+
+  .a-wallpaper {
+    &__image {
+      background-image: url('../assets/backgrounds/darkpage.jpg');
+    }
+  }
+
+  &__designs {
+    position: relative;
+    width: $content-width-mobile;
+    margin: 0 auto;
+  }
+
+  .a-button {
+    &:hover {
+      color: $color-white;
+      border-color: $color-white;
+    }
+  }
+
+  .m-buttonblock--primary {
+    .a-button {
+      color: $color-black;
+
+      &:hover {
+        color: $color-black;
+        background-color: $color-white;
+        border-color: $color-white;
+      }
+    }
+  }
+
+  &__instructions {
+    position: relative;
+    width: $content-width-mobile;
+    margin: 0 auto;
+  }
+
+	@include media-query (tablet) {
+    &__designs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      width: $content-width-tablet-desktop;
+    }
+
+    .m-designstoreitem {
+      width: calc(50% - (#{$space-m} / 2));
+    }
+
+    &__instructions {
+      width: $content-width-tablet-desktop;
+    }
+  }
+
+  @include media-query (desktop) {
+    &__designs {
+      width: $content-width-desktop-wide;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.m-calltoaction {
+  margin-bottom: $space-xl;
+  text-align: center;
+
+  &__title {
+    @extend %font-l;
+    margin-bottom: $space-m;
+  }
+}
+
+@import 'calltoaction-primary';

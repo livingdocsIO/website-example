@@ -1,0 +1,38 @@
+<script type="ld-conf">
+{
+  "name": "videoshowcase",
+  "label": "Video Showcase",
+  "description": "Present your product in a video",
+  "directives": {
+    "list-entries": {
+      "allowedChildren": ["listitem"],
+      "defaultContent": [
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        }
+      ]
+    }
+  },
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_video_block.svg"
+}
+</script>
+
+<div class="m-videoshowcase">
+  <div class="m-videoshowcase__text">
+    <ol class="m-list m-list--numbered" doc-container="list-entries"></ol>
+  </div>
+  <div class="m-videoshowcase__video">
+    <div class="m-video m-video--browserbar">
+      <div class="a-browserbar">
+        <img class="a-browserbar__image" src="//livingdocs-designs-dev.s3-eu-west-1.amazonaws.com/livingdocssite/1.0.3/demos/browser-bar.svg" />
+      </div>
+      <div class="a-iframe" doc-html="iframe"></div>
+    </div>
+  </div>
+</div>

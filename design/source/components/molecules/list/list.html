@@ -1,0 +1,27 @@
+<script type="ld-conf">
+{
+  "name": "list",
+  "label": "List",
+  "description": "Numbered or plain List of Text",
+  "directives": {
+    "list-entries": {
+      "allowedChildren": ["listitem"],
+      "defaultContent": [
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        }
+      ]
+    }
+  },
+  "properties": ["list-type"],
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_unordered_list.svg"
+}
+</script>
+
+<ol class="m-list" doc-container="list-entries"></ol>

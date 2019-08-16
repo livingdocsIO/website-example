@@ -1,0 +1,5 @@
+.m-montage--blackandwhite {
+  .m-image {
+    @extend %m-image--blackandwhite;
+  }
+}

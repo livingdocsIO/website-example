@@ -1,0 +1,9 @@
+.liEditor {
+  .a-decoration {
+    @extend %a-placeholder;
+
+    &::before {
+      content: 'decoration';
+    }
+  }
+}

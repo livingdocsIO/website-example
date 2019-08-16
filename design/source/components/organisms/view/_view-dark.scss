@@ -1,0 +1,127 @@
+.o-view--dark {
+  background-color: $color-black-deep;
+  color: $color-grey-ultralight;
+
+  main {
+    position: relative;
+  }
+
+  .a-wallpaper {
+    position: fixed;
+
+    &__image {
+      background-image: url('../assets/backgrounds/darkpage.jpg');
+    }
+  }
+
+  .o-header {
+    background-color: $color-black-deep;
+
+    &__dot {
+      filter: invert(1) grayscale(1) brightness(2) contrast(1.75);
+    }
+
+    .a-breadcrumbitem {
+      color: $color-grey-ultralight;
+
+      &::before {
+        filter: invert(1) grayscale(1) brightness(1.2);
+      }
+
+      &:hover {
+        color: $color-white;
+      }
+
+      &.is-active {
+        color: $color-white;
+      }
+    }
+
+    .a-headeritem {
+      color: $color-grey-light;
+
+      &:hover {
+        color: $color-white;
+      }
+
+      &.is-active {
+        color: $color-white;
+      }
+    }
+
+    .a-button {
+      color: $color-grey-ultralight;
+      border-color: $color-grey-ultralight;
+
+      &:hover {
+        color: $color-white;
+        border-color: $color-white;
+      }
+    }
+
+    .a-burger {
+      &__bar {
+        background-color: $color-grey-ultralight;
+      }
+
+      &:hover {
+        .a-burger {
+          &__bar {
+            background-color: $color-white;
+          }
+        }
+      }
+    }
+  }
+
+  .m-pagehead {
+    .a-pattern {
+      @extend %blackandwhite;
+    }
+
+    &__title {
+      span {
+        background-color: $color-black-deep;
+      }
+    }
+
+    &__text {
+      background-color: $color-black-deep;
+    }
+  }
+
+  .a-button {
+    &:hover {
+      color: $color-grey-ultralight;
+      border-color: $color-grey-ultralight;
+    }
+  }
+
+  .m-buttonblock--primary {
+    .a-button {
+      color: $color-black-deep;
+
+      &:hover {
+        color: $color-black-deep;
+        background-color: $color-grey-ultralight;
+        border-color: $color-grey-ultralight;
+      }
+    }
+  }
+
+  .a-separator {
+    border-top-color: $color-grey-mid;
+  }
+
+  .o-footer {
+    border-top-color: $color-grey-mid;
+
+    &__logo {
+      filter: invert(1) grayscale(1) brightness(2) contrast(1.75);
+    }
+
+    &__social {
+      filter: invert(1) grayscale(1) brightness(1.2);
+    }
+  }
+}

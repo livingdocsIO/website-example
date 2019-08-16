@@ -1,0 +1,42 @@
+.m-brandimage--square {
+  @include media-query (tablet) {
+    .m-brandimage {
+      &__text {
+        width: calc(50vw - 215px);
+        top: auto;
+        bottom: calc((50vw + 135px) / 2 + #{$space-xl} + #{$space-m});
+        left: calc(50vw + 135px + #{$space-m});
+      }
+    }
+
+    .a-pattern {
+      width: calc(100vw - #{$space-xl});
+      height: calc((50vw + 135px) / 2 + #{$space-xl});
+    }
+  }
+
+  @include media-query (desktop) {
+    .m-brandimage {
+      &__image {
+        width: $extended-width-tablet-desktop;
+        height: $extended-width-tablet-desktop;
+        transform: translateX(calc(-#{$extended-width-tablet-desktop} / 2));
+      }
+
+      &__text {
+        width: 200px;
+        left: 0;
+        top: auto;
+        bottom: $extended-width-tablet-desktop / 2 + $space-xl + $space-m;
+        margin-left: calc(50vw + (#{$extended-width-tablet-desktop} / 2) + #{$space-m});
+        transform: none;
+      }
+    }
+
+    .a-pattern {
+      width: calc(50vw + (#{$extended-width-tablet-desktop} / 2) + #{$space-xl});
+      height: $extended-width-tablet-desktop / 2 + $space-xl;
+      margin-left: calc(50vw - (#{$extended-width-tablet-desktop} / 2) - #{$space-xl});
+    }
+  }
+}

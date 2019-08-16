@@ -1,0 +1,27 @@
+.a-popnavisubitem {
+  display: inline;
+  font-weight: 400;
+  color: $color-grey-light;
+
+  &:not(:first-child) {
+    &::before {
+      content: ' / ';
+      color: inherit;
+    }
+  }
+
+  &.is-active {
+    color: $color-white;
+  }
+
+  &__link {
+    @extend %unlink;
+  }
+
+  @include media-query (tablet) {
+    &::before {
+      content: ' / ';
+      color: inherit;
+    }
+  }
+}

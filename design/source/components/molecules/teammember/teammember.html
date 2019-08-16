@@ -1,0 +1,25 @@
+<script type="ld-conf">
+{
+  "name": "teammember",
+  "label": "Team Member",
+  "description": "Introduce your Team",
+  "allowedParents": ["team"],
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_text_and_image.svg"
+}
+</script>
+
+<div class="m-teammember">
+  <div class="m-frontandback">
+    <div class="m-frontandback__front">
+      <div class="a-memberportrait" doc-image="image"></div>
+    </div>
+    <div class="m-frontandback__back">
+      <div class="a-memberinfo">
+        <h4 class="a-memberinfo__name" doc-editable="name">Name</h4>
+        <p doc-editable="function" doc-optional>Function</p>
+        <p><a doc-link="link" doc-editable="email" doc-optional>Email</a></p>
+        <img class="a-memberinfo__icon" src="//livingdocs-designs-dev.s3-eu-west-1.amazonaws.com/livingdocssite/1.0.3/icons/eagle.svg" />
+      </div>
+    </div>
+  </div>
+</div>

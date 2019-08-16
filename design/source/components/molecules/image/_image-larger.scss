@@ -1,0 +1,22 @@
+.m-image--larger {
+  .m-image {
+    &__image {
+      width: calc(100vw - 2 * #{$space-m});
+      max-width: none;
+      margin-left: calc(#{$content-width-mobile} / 2 - 50vw + #{$space-m});
+    }
+
+    @include media-query (tablet) {
+      &__image {
+        margin-left: calc(#{$content-width-tablet-desktop} / 2 - 50vw + #{$space-m});
+      }
+    }
+
+    @include media-query (desktop) {
+      &__image {
+        width: $content-width-desktop-wide;
+        margin-left: calc(#{$content-width-tablet-desktop} / 2 - #{$content-width-desktop-wide} / 2);
+      }
+    }
+  }
+}

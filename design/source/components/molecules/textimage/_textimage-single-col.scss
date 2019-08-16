@@ -1,0 +1,11 @@
+.m-textimage--single-col {
+  .m-textimage {
+    &__col1 {
+      width: 100%;
+    }
+
+    &__col2 {
+      display: none;
+    }
+  }
+}

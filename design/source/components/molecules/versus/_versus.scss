@@ -1,0 +1,35 @@
+.m-versus {
+  margin-bottom: $space-xl;
+
+  &__col {
+    border-left: 1px solid $color-green;
+    padding-left: $space-m;
+
+    &:first-child {
+      margin-bottom: $space-l;
+    }
+  }
+
+  &__title {
+    @extend %font-m;
+    margin-bottom: $space-s;
+  }
+
+  .m-list {
+    margin-bottom: 0;
+  }
+
+  @include media-query (tablet) {
+    display: flex;
+    align-items: flex-start;
+
+    &__col {
+      width: $col-width-tablet-desktop;
+
+      &:first-child {
+        margin-bottom: 0;
+        margin-right: $space-m;
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+:-ms-lang(x), .m-popnavi {
+  display: none;
+  transform: none;
+  clip-path: none;
+  transition: none;
+
+  &.is-active {
+    display: block;
+  }
+}

@@ -1,0 +1,46 @@
+.m-textimage {
+  @extend %viewport-width;
+  padding: $space-xl 0;
+  margin-bottom: $space-xl;
+  color: $color-white;
+  background-color: $color-black;
+
+  &__text {
+    position: relative;
+    width: $content-width-mobile;
+    margin: 0 auto;
+  }
+
+  &__col1 {
+    @extend %font-l;
+  }
+
+  &__col2 {
+    margin-top: $space-m;
+  }
+}
+
+@include media-query (tablet) {
+  .m-textimage {
+    padding-top: 2 * $space-xl;
+    padding-bottom: 2 * $space-xl;
+
+    &__text {
+      display: flex;
+      width: $content-width-tablet-desktop;
+    }
+
+    &__col1 {
+      width: calc(50% - #{$space-m / 2});
+    }
+
+    &__col2 {
+      width: calc(50% - #{$space-m / 2});
+      margin-top: 6px;
+      margin-left: $space-m;
+    }
+  }
+}
+
+@import 'textimage-light';
+@import 'textimage-single-col';

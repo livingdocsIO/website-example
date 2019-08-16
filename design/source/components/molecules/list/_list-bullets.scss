@@ -1,0 +1,24 @@
+.m-list--bullets {
+  .a-listitem {
+    margin-bottom: $space-s;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    h4 {
+      display: none !important;
+    }
+
+    p {
+      margin-left: $space-m;
+      text-indent: -$space-s;
+
+      &::before {
+        content: '–';
+        display: inline-block;
+        width: $space-s;
+      }
+    }
+  }
+}

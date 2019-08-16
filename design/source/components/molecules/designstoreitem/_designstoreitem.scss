@@ -1,0 +1,24 @@
+.m-designstoreitem {
+  margin-bottom: $space-xl;
+  width: 100%;
+
+  &__image {
+    width: 100%;
+  }
+
+  &__title {
+    @extend %font-xl;
+    margin-top: $space-m;
+  }
+
+  &__text {
+    margin-top: $space-s;
+  }
+
+  .m-buttonblock {
+    display: inline-block;
+    margin-top: $space-m;
+    margin-right: $space-m;
+    margin-bottom: 0;
+  }
+}

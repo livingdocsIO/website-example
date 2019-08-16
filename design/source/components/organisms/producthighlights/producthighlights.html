@@ -1,0 +1,37 @@
+<script type="ld-conf">
+  {
+    "name": "producthighlights",
+    "label": "Product Highlights",
+    "directives": {
+      "images": {
+        "allowedChildren": ["image"],
+        "defaultContent": [
+          {
+            "component": "image"
+          },
+          {
+            "component": "image"
+          },
+          {
+            "component": "image"
+          },
+          {
+            "component": "image"
+          }
+        ]
+      }
+    },
+    "description": "Present your Products",
+    "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_text_and_image.svg"
+  }
+</script>
+
+<div class="o-producthighlights">
+  <div class="o-producthighlights__titlebar">
+    <img class="o-producthighlights__icon" doc-image="icon" />
+    <h2 class="o-producthighlights__title" doc-editable="mainimage">This Highlight's Title</h2>
+  </div>
+  <p class="o-producthighlights__text" doc-editable="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt magna aliquyam erat, sed diam voluptua.</p>
+  <a class="a-button a-button--primary" doc-link="link" doc-editable="buttontext" doc-optional>Button</a>
+  <div class="o-producthighlights__images" doc-container="images"></div>
+</div>

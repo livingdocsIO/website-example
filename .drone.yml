@@ -1,0 +1,58 @@
+---
+kind: pipeline
+name: default
+
+clone:
+  depth: 50
+
+steps:
+- name: eslint
+  image: marcbachmann/eslint:5.10.1
+  environment:
+    GH_TOKEN:
+      from_secret: GH_TOKEN
+
+- name: docker
+  image: plugins/docker
+  settings:
+    repo: livingdocs/website
+    tags: ["sha-${DRONE_COMMIT_SHA}"]
+    username:
+      from_secret: DOCKER_USERNAME
+    password:
+      from_secret: DOCKER_PASSWORD
+
+- name: publish
+  image: livingdocs/semantic-release:v1.0.0
+  environment:
+    GH_TOKEN:
+      from_secret: GH_TOKEN
+
+trigger:
+  event: [push]
+
+---
+kind: pipeline
+name: publish
+
+clone:
+  depth: 50
+
+steps:
+- name: docker-release
+  image: plugins/docker
+  settings:
+    auto_tag: true
+    repo: livingdocs/website
+    username:
+      from_secret: DOCKER_USERNAME
+    password:
+      from_secret: DOCKER_PASSWORD
+
+trigger:
+  event: [tag]
+---
+kind: signature
+hmac: c378e0a54c14c271b6439ffb9371ade104401b6bab1e0d34dcac9657776058b2
+
+...

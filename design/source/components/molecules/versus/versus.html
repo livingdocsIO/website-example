@@ -1,0 +1,49 @@
+<script type="ld-conf">
+{
+  "name": "versus",
+  "label": "Versus",
+  "description": "Two Column Comparison",
+  "directives": {
+    "list-entries1": {
+      "allowedChildren": ["listitem"],
+      "defaultContent": [
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        }
+      ]
+    },
+    "list-entries2": {
+      "allowedChildren": ["listitem"],
+      "defaultContent": [
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        },
+        {
+          "component": "listitem"
+        }
+      ]
+    }
+  },
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_2_columns.svg"
+}
+</script>
+
+<div class="m-versus">
+  <div class="m-versus__col">
+    <h4 class="m-versus__title" doc-editable="title1">Let's compare this</h4>
+    <ul class="m-list m-list--bullets" doc-container="list-entries1"></ul>
+  </div>
+  <div class="m-versus__col">
+    <h4 class="m-versus__title" doc-editable="title2">With this</h4>
+    <ul class="m-list m-list--bullets" doc-container="list-entries2"></ul>
+  </div>
+</div>

@@ -1,0 +1,397 @@
+{
+  "id": 21805,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21805,
+    "contentType": "page-dark",
+    "documentType": "page",
+    "layout": "page-dark",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {},
+  "content": [
+    {
+      "identifier": "livingdocssite.page-head",
+      "id": "doc-1dgcaoeo30",
+      "content": {
+        "title": "Work with<br>Powerful Features",
+        "text": "Livingdocs is built to make you more productive. Our set of features empowers you to create exactly the project you need."
+      }
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg7akp0",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/collaboration.svg?id=MQkvMjAxOS83LzIzL2ZjODQ5ODg2LTBlMjQtNDc4Yy05YTkwLTJjZjk0NWM1MjcxMi5zdmcJNDg1",
+          "width": 37,
+          "height": 33,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Collaboration at the Core",
+        "image1": {
+          "url": "https://server.livingdocs.io/api/v1/images/changes.svg?id=MQkvMjAxOS83LzIzLzQ1N2ZlNTgyLWFhNjUtNDJhZS1iY2Y5LTE4Yzk5MzMxMzZmZi5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title1": "History and track changes",
+        "text1": "Visually keep track of every change in your documents and easily go back and forth in your editing history.",
+        "image2": {
+          "url": "https://server.livingdocs.io/api/v1/images/comments.svg?id=MQkvMjAxOS83LzIzL2UyNDY2MDNkLTg5YWUtNDJmOS04YzIyLTQ4ZGZiM2Y5Mzc1ZS5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title2": "Comments and threads",
+        "text2": "Discuss with your fellow writers how to best come up with the content you need, write comments, build discussion threads and resolve conversations as you go."
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg7b890",
+            "content": {
+              "title": "Workflows",
+              "text": "Organize workflows from proofreading to translations in kanban boards and always see what needs to be done next."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg7b891",
+            "content": {
+              "title": "Realtime collaboration",
+              "text": "Always see who is editing the same document with you and easily exchange the lead."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg7b892",
+            "content": {
+              "title": "Lock",
+              "text": "Sometimes you want to edit alone. The lock plugin allows you to set time-limited locks on a document where only you can edit."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgcg7ed60"
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg7h520",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/control.svg?id=MQkvMjAxOS83LzIzLzVlZjQ5Yjc0LTMwMWMtNGU1Ni1iYmM2LTJkY2QzMDhkNWNkZC5zdmcJNDg1",
+          "width": 31,
+          "height": 30,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Layouts &amp; Rules at Your Control",
+        "image1": {
+          "url": "https://server.livingdocs.io/api/v1/images/lego.svg?id=MQkvMjAxOS83LzIzLzQxZjUyMmY0LTNlYjMtNGJjYi1iNGY0LWE2MDViMjBiZDQyNS5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title1": "Build sites like using Lego",
+        "text1": "The Livingdocs building blocks technology allows you to build beautiful layouts and freely arrange content and teasers on them using drag and drop.",
+        "image2": {
+          "url": "https://server.livingdocs.io/api/v1/images/rules.svg?id=MQkvMjAxOS83LzIzLzkxOWY3ODgwLWFiYzctNDUwNy05NWUwLTE2MDA0YzBkMmZiZS5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title2": "Automate sites with powerful rules",
+        "text2": "Build whole newspaper front site with powerful automation that decides what teaser goes where and the ability to manually set focus where you need to."
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg7hjf0",
+            "content": {
+              "title": "Scheduled sites",
+              "text": "Schedule content publication dates as well as automation rules to fully schedule a page. Great if you want to take the weekend off and let your pages run itself."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg7hjf1",
+            "content": {
+              "title": "Menus",
+              "text": "Intuitively build site navigations using drag and drop."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg7hjf2",
+            "content": {
+              "title": "Multi-Language",
+              "text": "Offer your pages and content in multiple languages and setup translation workflows where necessary."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgcg7jh10"
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg8b800",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/assets.svg?id=MQkvMjAxOS83LzIzL2UwZWMxMWZjLWNlZjEtNGI4Ny04YjZmLWY4ZTEwNjM1YzQyYS5zdmcJNDg1",
+          "width": 32,
+          "height": 28,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Smarter Assets Than Ever Before",
+        "image1": {
+          "url": "https://server.livingdocs.io/api/v1/images/smart-assets.svg?id=MQkvMjAxOS83LzIzLzE2MjEzMDQ0LTczY2UtNGZkOC1iY2EzLTk4MzlhYjFhOTAzNi5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title1": "Smarter work thanks to machine learning",
+        "text1": "Use our media library to quickly access images that have been auto-tagged with Google’s powerful Vision machine learning algorithms.",
+        "image2": {
+          "url": "https://server.livingdocs.io/api/v1/images/size.svg?id=MQkvMjAxOS83LzIzL2ZiMmZmZTQ4LWZkYTItNGJmMi05MzdlLTExZGNiYjI4YzJjMS5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title2": "Never worry about size",
+        "text2": "Livingdocs uses modern storage, search and delivery technology and easily scales to millions of assets. We deliver images directly to your customers over our highly available CDNs."
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8bq90",
+            "content": {
+              "title": "Inline image editing",
+              "text": "Easily crop images from within documents and define different aspect ratios for optimal presentation on every device."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8bq91",
+            "content": {
+              "title": "Work with web assets",
+              "text": "Embed Tweets, Videos, Instagram and more easily inline and arrange them on your documents."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgcg88c90"
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg8e2n0",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/organize.svg?id=MQkvMjAxOS83LzIzLzI2MDFiYmI3LTY4MjMtNDI0Yy05YjY4LTQzNzhiYmE2NTBlZS5zdmcJNDg1",
+          "width": 36,
+          "height": 45,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Fully Organized Content",
+        "image1": {
+          "url": "https://server.livingdocs.io/api/v1/images/dashboards.svg?id=MQkvMjAxOS83LzIzL2VjMjliYWE3LTFlNGQtNGEwYy1hMmRjLTlhNzJlOWU4NWE3MS5zdmcJNDg1",
+          "width": 510,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title1": "Dashboards",
+        "text1": "Use the power of customizable dashboards to give entry points to every possible user group, be it writers, proofreaders or editors-in-chief. Present content on your dashboards in lists, visual layouts or kanban boards."
+      },
+      "styles": {
+        "feature-cols": "o-feature--single-col"
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8elb0",
+            "content": {
+              "title": "Elastic Search",
+              "text": "Use our powerful ElasticSearch based search engine to find content and enable our Natural Language Processing module to automatically tag all content."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8elb1",
+            "content": {
+              "title": "Filters",
+              "text": "Use our predefined filters or create new ones for your use cases and organize filters in bookmarks for fast access."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgcg89da0"
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg8g6j0",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/scalability.svg?id=MQkvMjAxOS83LzIzLzUzNTk5YWY0LThkMmYtNGU0Ni1hNWFhLTc2NzU1OWVjMzQ0OS5zdmcJNDg1",
+          "width": 43,
+          "height": 35,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Scalability Made Easy",
+        "image1": {
+          "url": "https://server.livingdocs.io/api/v1/images/multi-channel.svg?id=MQkvMjAxOS83LzIzLzJkYWE2ZjJjLWY5MDUtNGFhOC04YmUxLTg3OWZiMmZhMjUyNy5zdmcJNDg1",
+          "width": 510,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title1": "Multi-project, multi-channel",
+        "text1": "Livingdocs was built to scale from day 1. We support multi-project setups and can run hundreds of publications on one instance for our customers delivering to thousands of channels."
+      },
+      "styles": {
+        "feature-cols": "o-feature--single-col"
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8gji2",
+            "content": {
+              "title": "Scales horizontally in the cloud",
+              "text": "– Thousands of concurrent writers<br>– Millions of documents<br>– Terrabytes of traffic in high-availability setups"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgcg877a0"
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg8j200",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/designers-devs.svg?id=MQkvMjAxOS83LzIzL2VjNmNhYTIwLWExYWQtNDIwZC05OWY0LWVhNDQ4YjViMjQ5Yi5zdmcJNDg1",
+          "width": 34,
+          "height": 31,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Loved by Developers and Designers",
+        "image1": {
+          "url": "https://server.livingdocs.io/api/v1/images/editor.svg?id=MQkvMjAxOS83LzIzLzE0NWFjYjNhLWNhNzAtNDgzZi1hMWQzLWQyMzc5MWQyYzhmNC5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title1": "Component editor",
+        "text1": "Use our unique design editor to create Livingdocs building block sets from scratch and define what your editorial users can work with.",
+        "image2": {
+          "url": "https://server.livingdocs.io/api/v1/images/headless.svg?id=MQkvMjAxOS83LzIzL2FjMjM4MDMzLTQwN2EtNDFkNS1hMjc2LTFjZmRhNzkyNmRkNS5zdmcJNDg1",
+          "width": 360,
+          "height": 360,
+          "mimeType": "image/svg+xml"
+        },
+        "title2": "Headless",
+        "text2": "Define every possible combination of structured data, stand-alone or assigned to documents. Editors can fill out your defined properties, write documents and our APIs offer all the content for you to work with in your frontends."
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8jjk0",
+            "content": {
+              "title": "All Javascript",
+              "text": "We are Javascript from front to back and offer you our rendering technology open-source via our Node SDK."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8jjk1",
+            "content": {
+              "title": "Cloud-ready",
+              "text": "We offer docker setups for Google Cloud Platform, Amazon AWS and Digital Ocean. Of course you can also just take our docker images and build your own infrastructure."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8jjk2",
+            "content": {
+              "title": "API power",
+              "text": "We run with ElasticSearch and its powerful search APIs as well as offering event-based notifications."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgch1r660",
+            "content": {
+              "title": "Admins love it",
+              "text": "Define roles and access rights for your user groups and easily manage users through our powerful administration backends."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgcg85vv0"
+    },
+    {
+      "identifier": "livingdocssite.feature",
+      "id": "doc-1dgcg8l3c0",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/integrations.svg?id=MQkvMjAxOS83LzIzLzViNTFjMWE0LWJhNzYtNGI2ZC1iMjg5LWVkMWYzYzExZjJjYy5zdmcJNDg1",
+          "width": 36,
+          "height": 37,
+          "mimeType": "image/svg+xml"
+        },
+        "title": "Integrations<br>"
+      },
+      "styles": {
+        "feature-cols": "o-feature--textonly"
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcg8lk90",
+            "content": {
+              "title": "«It’s not where you take things from – it’s where you take them to.» – Jean-Luc Godard",
+              "text": "<br>The Livingdocs Ecosystem enables media companies to succeed in their digital transformation. We built in a collection of best-of-breed modules in order to satisfy the whole lifecycle of a news publication.<br><br>- Planning, <a target=\"_blank\" href=\"https://desk-net.com/info/de/headless-cms-livingdocs\">DeskNet</a><br>- Machine Learning, <a target=\"_blank\" href=\"https://www.imatrics.com/\">iMatrics</a> and <a target=\"_blank\" href=\"https://cloud.google.com/vision/\">Google Vision</a><br>- Print, <a target=\"_blank\" href=\"https://www.a-f.ch/de/produkt/woodwing-enterprise-aurora\">WoodWing Enterprise</a><br>- Interactives and Graphics, <a target=\"_blank\" href=\"https://www.nzz.ch/storytelling/tech/\">NZZ Q</a><br>- Video, <a target=\"_blank\" href=\"https://www.brightcove.com\">Brightcove</a><br>- Push Notifications, <a target=\"_blank\" href=\"https://firebase.google.com/\">Google Firebase</a>&nbsp;and <a target=\"_blank\" href=\"https://ethinking.de/loesungen/push-notification-service\">e-thinking</a><br>- Feed management, alephDAM<br>- DAM / E-Paper, <a target=\"_blank\" href=\"https://www.sternwald.com/hugo/\">huGO+</a><br>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.buttonblock",
+      "id": "doc-1dgcg8sbp0",
+      "content": {
+        "link": "http://edit.livingdocs.io",
+        "text": "Try out Livingdocs"
+      },
+      "styles": {
+        "buttonblock-type": "m-buttonblock--primary"
+      }
+    }
+  ]
+}

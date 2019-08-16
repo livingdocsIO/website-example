@@ -1,0 +1,42 @@
+<script type="ld-conf">
+{
+  "name": "montage",
+  "label": "Montage",
+  "description": "A Collection of Images",
+  "properties": ["montage-type", "montage-size", "montage-border", "montage-colors"],
+  "directives": {
+    "montageimage1": {
+      "imageRatios": ["16:9", "1:1"],
+      "allowOriginalRatio": true
+    },
+    "montageimage2": {
+      "imageRatios": ["16:9", "1:1"],
+      "allowOriginalRatio": true
+    },
+    "montageimage3": {
+      "imageRatios": ["16:9", "1:1"],
+      "allowOriginalRatio": true
+    }
+  },
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_image_grid.svg"
+}
+</script>
+
+<div class="m-montage">
+  <div class="a-pattern a-pattern--dots-green"></div>
+  <div class="m-montage__image">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="montageimage1" />
+    </div>
+  </div>
+  <div class="m-montage__image">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="montageimage2" />
+    </div>
+  </div>
+  <div class="m-montage__image">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="montageimage3" />
+    </div>
+  </div>
+</div>

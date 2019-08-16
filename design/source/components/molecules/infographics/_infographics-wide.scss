@@ -1,0 +1,6 @@
+.m-infographics--wide {
+  @include media-query (desktop) {
+    width: $content-width-desktop-extrawide;
+    margin-left: ($content-width-tablet-desktop - $content-width-desktop-extrawide) / 2;
+  }
+}

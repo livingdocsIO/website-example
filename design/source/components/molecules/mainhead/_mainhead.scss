@@ -1,0 +1,93 @@
+.m-mainhead {
+  position: relative;
+  padding-top: $space-l;
+  padding-bottom: $space-l;
+  margin-bottom: $space-xl;
+
+  .a-wallpaper {
+    display: none;
+  }
+
+  .a-pattern {
+    @extend %viewport-width;
+    position: absolute;
+    top: auto;
+    height: 304px - $space-l;
+    bottom: 0;
+  }
+
+  &__eagle {
+    position: absolute;
+    transform: scaleX(-1);
+    width: 34px;
+    height: 68px;
+    right: calc((50vw - 143px) / 2);
+    top: -46px;
+  }
+
+  &__title {
+    @extend %font-xxl;
+  }
+
+  &__text {
+    @extend %font-speciallead;
+    margin-top: $space-s / 2;
+    margin-bottom: $space-m;
+  }
+
+  .a-button {
+    margin-bottom: $space-l;
+  }
+
+  &__showcase {
+    position: relative;
+    width: 440px;
+    margin-left: -150px;
+  }
+
+  &__fg {
+    position: absolute;
+    height: 83%;
+    width: 77.5%;
+    top: 7%;
+    left: 11%;
+  }
+
+  @include media-query (tablet) {
+    padding-bottom: $space-xl;
+
+    .a-pattern {
+      height: 585px - $space-xl;
+    }
+
+    &__eagle {
+      right: calc((50vw - 306px) / 2);
+    }
+
+    &__text {
+      margin-top: $space-s * 2 / 3;
+    }
+
+    &__showcase {
+      width: 840px;
+      margin-left: -240px;
+    }
+  }
+
+  @include media-query (desktop) {
+    .a-pattern {
+      height: 676px - $space-xl;
+    }
+
+    &__eagle {
+      right: calc(50vw - 410px - #{$space-xl});
+    }
+
+    &__showcase {
+      width: 996px;
+      margin-left: calc((100% - 996px) / 2);
+    }
+  }
+}
+
+@import 'mainhead-dark';

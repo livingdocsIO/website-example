@@ -1,0 +1,26 @@
+%a-decoration--downleft,
+.a-decoration--downleft {
+  margin-bottom: 0;
+
+  .a-decoration {
+    &__box {
+      position: absolute;
+      margin-left: -6 * $space-xl;
+      top: -$space-xl;
+      width: 5 * $space-xl;
+    }
+  }
+
+  @media only screen and (min-width: 2 * 6 * $space-xl + $content-width-tablet-desktop) {
+    position: static;
+
+    .a-decoration {
+      &__box {
+        left: 0;
+        top: auto;
+        margin-left: 0;
+        margin-top: -$space-xl;
+      }
+    }
+  }
+}

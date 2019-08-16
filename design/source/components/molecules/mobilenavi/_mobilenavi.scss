@@ -1,0 +1,29 @@
+.m-mobilenavi {
+  @extend %box-shadow;
+  width: 3 * $space-s;
+  height: 3 * $space-s;
+  padding: $space-s;
+  box-sizing: content-box;
+  position: fixed;
+  z-index: $z-mobilenavi;
+  bottom: -6 * $space-s;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: $color-white;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: bottom $transition-time;
+
+  &.is-active {
+    background-color: transparent;
+    box-shadow: none;
+  }
+
+  @include media-query (tablet) {
+    display: none;
+  }
+
+  &.is-visible {
+    bottom: $space-m;
+  }
+}

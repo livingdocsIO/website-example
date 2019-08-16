@@ -1,0 +1,25 @@
+%a-framedlogo--triangle,
+.a-framedlogo--triangle {
+  position: relative;
+  border: 0;
+  clip-path: polygon(50% 7%, 100% 93%, 0 93%);
+  background-color: $color-green;
+
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    clip-path: polygon(50% calc(7% + 2px), calc(100% - 1.5px) calc(93% - 1px), 1.5px calc(93% - 1px));
+    background-color: $color-white;
+  }
+
+  .a-framedlogo {
+    &__icon {
+      margin-top: 10%;
+    }
+  }
+}

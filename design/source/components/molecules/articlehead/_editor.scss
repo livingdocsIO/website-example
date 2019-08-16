@@ -1,0 +1,9 @@
+.liEditor {
+  .m-articlehead {
+    &__topline {
+      br[data-editable='remove'] {
+        display: none;
+      }
+    }
+  }
+}

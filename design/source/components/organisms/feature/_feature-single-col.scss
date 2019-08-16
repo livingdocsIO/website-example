@@ -1,0 +1,19 @@
+.o-feature--single-col {
+	.o-feature {
+		&__titlebar {
+			width: auto;
+			margin-left: 0;
+		}
+
+		&__images {
+			width: auto;
+			margin-left: 0;
+		}
+	}
+
+	.m-image {
+		&:last-child {
+			display: none;
+		}
+	}
+}

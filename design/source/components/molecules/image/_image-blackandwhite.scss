@@ -1,0 +1,8 @@
+%m-image--blackandwhite,
+.m-image--blackandwhite {
+  .m-image {
+    &__image {
+      @extend %blackandwhite;
+    }
+  }
+}

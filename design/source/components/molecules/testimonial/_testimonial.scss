@@ -1,0 +1,81 @@
+.m-testimonial {
+  margin-bottom: $space-xl;
+
+  &__col1 {
+    position: relative;
+  }
+
+  &__col2 {
+    width: 100%;
+    margin-top: $space-l;
+  }
+
+  &__icon {
+    width: 4 * $space-s;
+    height: 4 * $space-s;
+    margin-bottom: $space-m;
+  }
+
+  &__title {
+    @extend %font-l;
+  }
+
+  &__text {
+    margin-top: $space-s;
+  }
+
+  .a-button {
+    margin-top: $space-m;
+  }
+
+  &__quote {
+    @extend %font-m;
+    margin-bottom: $space-s;
+    color: $color-green;
+
+    &::before {
+      content: '«';
+    }
+
+    &::after {
+      content: '»';
+    }
+  }
+
+  &__caption {
+    @extend %font-s;
+    margin-top: $space-s / 2;
+    margin-bottom: $space-s;
+    color: $color-grey-light;
+  }
+
+  &__logo {
+    max-width: 5 * $space-s;
+    max-height: 4 * $space-s;
+    margin-top: $space-m;
+  }
+
+  @include media-query (tablet) {
+    display: flex;
+
+    &__col1 {
+      position: relative;
+      width: calc(50% - #{$space-m / 2});
+    }
+
+    &__col2 {
+      width: calc(50% - #{$space-m / 2});
+      margin-top: 4px;
+      margin-left: $space-m;
+    }
+
+    &__icon {
+      margin-bottom: $space-m;
+      position: absolute;
+      top: -6px;
+      left: -4 * $space-s - $space-m;
+    }
+  }
+}
+
+@import 'editor';

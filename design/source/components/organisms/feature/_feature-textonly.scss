@@ -1,0 +1,18 @@
+.o-feature--textonly {
+	.o-feature {
+		&__titlebar {
+			width: auto;
+			margin-left: 0;
+		}
+
+		&__images {
+			display: none;
+		}
+	}
+
+	.a-listitem {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}

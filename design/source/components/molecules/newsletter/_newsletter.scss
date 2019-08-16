@@ -1,0 +1,34 @@
+.m-newsletter {
+  margin-bottom: $space-xl;
+  text-align: center;
+
+  &__title {
+    @extend %font-l;
+    margin-bottom: $space-m;
+  }
+
+  &__form {
+    margin-bottom: $space-m;
+  }
+
+  .a-input {
+    margin-bottom: $space-m;
+  }
+
+  &__eagle {
+    display: inline;
+    height: $space-l;
+  }
+
+  @include media-query (tablet) {
+    &__form {
+      display: flex;
+      margin: 0 auto $space-m auto;
+    }
+
+    .a-input {
+      margin-right: $space-m;
+      margin-bottom: 0;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+.m-controlroom--single-pic {
+  grid-template-columns: auto;
+
+  .m-controlroom {
+    &__box1 {
+      grid-column: 1;
+      grid-row: 2;
+      height: 100%;
+      padding-bottom: 0;
+    }
+
+    &__box2,
+    &__box3,
+    &__box4 {
+      display: none;
+    }
+
+    &__box5 {
+      grid-column: 1;
+      grid-row: 1;
+    }
+  }
+
+  @include media-query (desktop) {
+    grid-template-columns: calc(25% - 15px) calc(25% - 15px) calc(25% - 15px) calc(25% - 15px);
+
+    .m-controlroom {
+      &__box1 {
+        grid-column: 1 / 3;
+        grid-row: 1 / 3;
+        height: 100%;
+        padding-bottom: 0;
+      }
+
+      &__box5 {
+        grid-column: 3 / 5;
+        grid-row: 1 / 3;
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+<script type="ld-conf">
+  {
+    "name": "designstore-item",
+    "label": "Design Store Item",
+    "description": "An Item for your Store",
+    "allowedParents": ["designstore"],
+    "directives": {
+      "buttons": {
+        "allowedChildren": ["buttonblock"],
+        "defaultContent": [
+          {
+            "component": "buttonblock"
+          },
+          {
+            "component": "buttonblock"
+          }
+        ]
+      }
+    },
+    "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_text_and_image.svg"
+  }
+</script>
+
+<div class="m-designstoreitem">
+  <img class="m-designstoreitem__image" doc-image="image" />
+  <h2 class="m-designstoreitem__title" doc-editable="title">Name your Design</h2>
+  <p class="m-designstoreitem__text" doc-editable="text">Describe what is special about this design and why people should use it.</p>
+  <div class="m-designstoreitem__buttons" doc-container="buttons"></div>
+</div>

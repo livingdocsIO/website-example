@@ -1,0 +1,36 @@
+.a-breadcrumbitem {
+  display: inline-block;
+  transition: color $transition-time;
+
+  &:first-child {
+    font-weight: 500;
+  }
+
+  &:nth-child(n+2) {
+    &::before {
+      content: '';
+      display: inline-block;
+      width: $space-s;
+      height: $space-s;
+      background-image: url('../assets/icons/breadcrumb-arrow.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center center;
+      margin-left: $space-s;
+      margin-right: -$space-s;
+    }
+
+    a {
+      padding-left: $space-m;
+    }
+  }
+
+  &:hover {
+    color: $color-grey-mid;
+  }
+
+  a {
+    @extend %unlink;
+    display: inline-block;
+  }
+}

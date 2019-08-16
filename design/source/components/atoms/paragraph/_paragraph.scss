@@ -1,0 +1,13 @@
+.a-paragraph {
+  margin-bottom: $space-xl;
+
+  & + .a-paragraph {
+    margin-top: $space-m - $space-xl;
+  }
+
+  &:empty {
+    display: none;
+  }
+}
+
+@import 'editor';

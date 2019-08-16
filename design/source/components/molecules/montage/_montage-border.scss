@@ -1,0 +1,5 @@
+.m-montage--border {
+  .m-image {
+    @extend %m-image--border;
+  }
+}

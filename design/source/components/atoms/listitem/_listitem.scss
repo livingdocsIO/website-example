@@ -1,0 +1,12 @@
+.a-listitem {
+  position: relative;
+  margin-bottom: $space-m;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  h4 {
+    @extend %font-l;
+  }
+}

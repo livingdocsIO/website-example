@@ -1,0 +1,11 @@
+.a-browserbar {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: calc(104% * 20 / 775);
+
+  &__image {
+    @extend %absolute-stretch;
+    height: 100%;
+  }
+}

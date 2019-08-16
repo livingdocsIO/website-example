@@ -1,0 +1,36 @@
+<script type="ld-conf">
+  {
+    "name": "featurelist-item",
+    "label": "Feature List Item",
+    "description": "Show off your Product's Features",
+    "allowedParents": ["featurelist"],
+    "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_unordered_list_item.svg"
+  }
+</script>
+
+<div class="m-featurelistitem">
+  <div class="m-featurelistitem__col1">
+    <img doc-image="icon" />
+    <h2 doc-editable="name">This Feature's Title</h2>
+    <p doc-editable="descriptionmain">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt magna aliquyam erat, sed diam voluptua.</p>
+  </div>
+  <div class="m-featurelistitem__col2">
+    <div class="m-featurelistitem__main" data-simpleTrigger="true">
+      <img doc-image="imagemain" />
+    </div>
+    <ul class="m-featurelistitem__minilist">
+      <li class="m-featurelistitem__miniitem" data-simpleTrigger="true"  data-triggerOrder="1">
+        <img doc-image="image1" />
+        <p doc-editable="description1">Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+      </li>
+      <li class="m-featurelistitem__miniitem" data-simpleTrigger="true"  data-triggerOrder="2">
+        <img doc-image="image2" />
+        <p doc-editable="description2">Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+      </li>
+      <li class="m-featurelistitem__miniitem" data-simpleTrigger="true"  data-triggerOrder="3">
+        <img doc-image="image3" />
+        <p  doc-editable="description3">Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,7 @@
+.liEditor {
+  .a-paragraph {
+    &:empty {
+      display: inherit;
+    }
+  }
+}

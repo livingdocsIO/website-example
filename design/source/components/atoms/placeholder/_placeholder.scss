@@ -1,0 +1,12 @@
+%a-placeholder,
+.a-placeholder {
+  border: 1px dashed $color-green;
+  color: $color-green;
+  text-align: center;
+  font-size: 12px;
+  line-height: $space-m;
+
+  &::before {
+    content: 'placeholder text';
+  }
+}

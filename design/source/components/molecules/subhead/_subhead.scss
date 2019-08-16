@@ -1,0 +1,51 @@
+.m-subhead {
+  position: relative;
+  margin-bottom: $space-xl;
+
+  &::before {
+    @extend %viewport-width;
+    content: '';
+    display: block;
+    border-top: 1px solid $color-green;
+  }
+
+  &__image {
+    @extend %viewport-width;
+    width: 100vw;
+    height: $space-xl;
+    background-image: url('../assets/patterns/subhead-mobile.svg');
+    background-size: 375px auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  &__title {
+    @extend %font-xxl;
+    margin-bottom: $space-m;
+  }
+
+  &__text {
+    @extend %font-speciallead;
+    margin-bottom: $space-m;
+  }
+
+  @include media-query (tablet) {
+    &__image {
+      background-image: url('../assets/patterns/subhead-tablet.svg');
+      background-size: $breakpoint-tablet auto;
+    }
+  }
+
+  @include media-query (desktop) {
+    &::before {
+      width: $content-width-desktop-wide;
+      left: calc((100% - #{$content-width-desktop-wide}) / 2);
+      right: calc((100% - #{$content-width-desktop-wide}) / 2);
+    }
+
+    &__image {
+      background-image: url('../assets/patterns/subhead-desktop.svg');
+      background-size: 1440px auto;
+    }
+  }
+}

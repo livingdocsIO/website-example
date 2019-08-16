@@ -1,0 +1,14 @@
+:-ms-lang(x), main {
+  *[data-simpleTrigger='true'] {
+    &:not([data-customAnimation='true']) {
+      transform: none;
+      clip-path: none;
+      opacity: 0;
+      transition: opacity 3 * $transition-time;
+
+      &.is-triggered {
+        opacity: 1;
+      }
+    }
+  }
+}

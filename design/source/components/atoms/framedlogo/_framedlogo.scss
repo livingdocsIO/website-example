@@ -1,0 +1,22 @@
+.a-framedlogo {
+  display: inline-flex;
+  box-sizing: content-box;
+  overflow: hidden;
+  position: relative;
+  width: $space-l;
+  height: $space-l;
+  padding: $space-s;
+  border: 1px solid $color-green;
+
+  	&__icon {
+    position: absolute;
+    max-width: $space-l;
+    max-height: $space-l;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }
+}
+
+@import 'framedlogo-circle';
+@import 'framedlogo-triangle';

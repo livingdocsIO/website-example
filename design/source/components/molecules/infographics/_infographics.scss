@@ -1,0 +1,41 @@
+.m-infographics {
+  clear: both;
+  margin-bottom: $space-xl;
+
+  &__content {
+    width: 100vw;
+    margin-left: calc((100% - 100vw) / 2);
+  }
+
+  &__caption {
+    font-weight: 500;
+    width: $col-width-tablet-desktop + $space-m;
+    flex-shrink: 0;
+    flex-grow: 0;
+    padding-right: $space-m;
+    padding-left: $space-m;
+    margin-top: $space-m;
+    border-left: 1px solid $color-green;
+  }
+
+  @include media-query (desktop) {
+    display: flex;
+    align-items: flex-start;
+    width: $content-width-desktop-wide;
+    margin-left: ($content-width-tablet-desktop - $content-width-desktop-wide) / 2;
+
+    &__content {
+      flex-grow: 1;
+      width: auto;
+      margin-left: 0;
+      order: 2;
+    }
+
+    &__caption {
+      order: 1;
+      margin-top: 0;
+    }
+  }
+}
+
+@import 'infographics-wide';

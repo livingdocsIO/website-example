@@ -1,0 +1,21 @@
+<script type="ld-conf">
+{
+  "name": "image",
+  "label": "Image",
+  "description": "Image, Title and Caption",
+  "properties": ["image-size", "image-border", "image-colors"],
+  "directives": {
+    "image": {
+        "imageRatios": ["16:9", "1:1"],
+        "allowOriginalRatio": true
+      }
+  },
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_image.svg"
+}
+</script>
+
+<div class="m-image">
+  <img class="m-image__image" doc-image="image" />
+  <h3 class="m-image__title" doc-editable="title" doc-optional>This Image's Title</h3>
+  <p class="m-image__text" doc-editable="text" doc-optional>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+</div>

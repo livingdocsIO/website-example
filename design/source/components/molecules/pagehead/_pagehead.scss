@@ -1,0 +1,70 @@
+.m-pagehead {
+  @extend %viewport-width;
+  position: relative;
+  padding-top: $space-l;
+  padding-bottom: $space-l;
+  margin-bottom: $space-xl;
+
+  .a-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  &__content {
+    box-sizing: content-box;
+    position: relative;
+    width: $content-width-mobile;
+    margin: 0 auto;
+  }
+
+  &__title {
+    width: 85%;
+
+    span {
+      @extend %font-xxl;
+      padding: 0 $space-s $space-s / 2 $space-s;
+      background-color: $color-white;
+      box-decoration-break: clone;
+    }
+  }
+
+  &__lead {
+    position: relative;
+    margin-top: $space-s / 2;
+  }
+
+  &__text {
+    @extend %font-speciallead;
+    display: inline;
+    padding: 2px $space-s;
+    background-color: $color-white;
+    box-decoration-break: clone;
+  }
+
+  &__eagle {
+    position: absolute;
+    transform: scaleX(-1);
+    width: 34px;
+    height: 68px;
+    max-width: none;
+    max-height: none;
+    left: -666666px;
+    top: -49px;
+  }
+
+  @include media-query (tablet) {
+    &__content {
+      width: $content-width-tablet-desktop;
+    }
+
+    &__lead {
+      margin-top: $space-s * 2 / 3;
+    }
+  }
+}
+
+@import 'pagehead-no-spacing';
+@import 'editor';

@@ -1,0 +1,25 @@
+<script type="ld-conf">
+{
+  "name": "infobox",
+  "label": "Infobox",
+  "description": "A Box with Contextual Content",
+  "directives": {
+    "image": {
+      "imageRatios": ["16:9", "1:1"],
+      "allowOriginalRatio": false
+    },
+    "m-image": {
+      "properties": ["image-border", "image-colors"]
+    }
+  },
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_information.svg"
+}
+</script>
+
+<div class="m-infobox">
+  <h4 class="m-infobox__title" doc-editable="title" doc-optional>The Box's Title</h4>
+  <p class="m-infobox__text" doc-editable="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt magna aliquyam erat, sed diam voluptua.</p>
+  <div class="m-image" doc-style="m-image">
+    <img class="m-image__image" doc-image="image" />
+  </div>
+</div>

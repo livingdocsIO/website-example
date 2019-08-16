@@ -1,0 +1,129 @@
+.m-logoblock {
+  @extend %unlink;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: $space-m;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto $space-xl;
+
+  &__box {
+    display: inline-grid;
+    width: (200px - (2 * $space-m)) / 3;
+    height: (200px - (2 * $space-m)) / 3;
+  }
+
+  &__logo {
+    max-width: 2.5 * $space-m;
+    margin: 0 auto;
+    margin-top: 50%;
+    transform: translateY(-50%);
+  }
+
+  @include media-query (tablet) {
+    display: block;
+    grid-template-columns: none;
+    grid-gap: 0;
+    width: 100vw;
+    height: auto;
+    position: relative;
+    left: calc((100% - 100vw) / 2);
+    right: calc((100% - 100vw) / 2);
+    text-align: center;
+    margin-top: -$space-l / 2;
+    margin-bottom: $space-xl - $space-l / 2;
+
+    &__box {
+      display: inline-block;
+      width: auto;
+      height: auto;
+      max-width: $space-xl;
+      margin: $space-l / 2;
+      vertical-align: middle;
+    }
+
+    &__logo {
+      display: inline-block;
+      min-width: $space-m;
+      max-width: 3.5 * $space-m;
+      margin-top: 0;
+      transform: none;
+    }
+
+    &--8 {
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--7 {
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--6 {
+      div[data-box='7'],
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--5 {
+      div[data-box='6'],
+      div[data-box='7'],
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--4 {
+      div[data-box='5'],
+      div[data-box='6'],
+      div[data-box='7'],
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--3 {
+      div[data-box='4'],
+      div[data-box='5'],
+      div[data-box='6'],
+      div[data-box='7'],
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--2 {
+      div[data-box='3'],
+      div[data-box='4'],
+      div[data-box='5'],
+      div[data-box='6'],
+      div[data-box='7'],
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+
+    &--1 {
+      div[data-box='2'],
+      div[data-box='3'],
+      div[data-box='4'],
+      div[data-box='5'],
+      div[data-box='6'],
+      div[data-box='7'],
+      div[data-box='8'],
+      div[data-box='9'] {
+        display: none;
+      }
+    }
+  }
+}

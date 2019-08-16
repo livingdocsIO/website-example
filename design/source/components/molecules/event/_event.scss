@@ -1,0 +1,21 @@
+.m-event {
+  position: relative;
+  margin-bottom: $space-xl;
+
+  &__title {
+    @extend %font-l;
+  }
+
+  &__text {
+    margin-top: $space-s;
+  }
+
+  & + .m-controlroom,
+  & + .m-image,
+  & + .m-montage {
+    margin-top: $space-m - $space-xl;
+  }
+}
+
+@import 'event-logocircle';
+@import 'event-logotriangle';

@@ -1,0 +1,43 @@
+.m-popnavi {
+  @extend %box-shadow;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  z-index: $z-popnavi;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: $space-l;
+  background-color: $color-grey-dark;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 150%;
+
+  clip-path: polygon(calc(100% - #{$space-xl}) 0, calc(100% - #{$space-xl}) 0, calc(100% - #{$space-xl}) 100%, calc(100% - #{$space-xl}) 100%);
+  transform: translateX($space-xl);
+  transition: clip-path 2.1 * $transition-time ease, transform 2 * $transition-time ease;
+
+  a {
+    transition: color $transition-time;
+
+    &:hover {
+      color: $color-white;
+    }
+  }
+
+  &.is-active {
+    clip-path: polygon(0 0, 200% 0, 200% 100%, 0 100%);
+    transform: translateX(0);
+  }
+
+  @include media-query (tablet) {
+    width: auto;
+    top: $space-s / 2;
+    left: auto;
+    right: $space-s / 2;
+    bottom: auto;
+  }
+}
+
+@import 'ms';

@@ -1,0 +1,21 @@
+.m-frontandback {
+  @extend %absolute-stretch;
+  @extend %box-shadow;
+  perspective: 100vw;
+  transition: transform $transition-time * 2;
+
+  &__front,
+  &__back {
+    @extend %absolute-stretch;
+    backface-visibility: hidden;
+    transition: transform $transition-time * 2;
+    background-color: $color-white;
+    overflow: hidden;
+  }
+
+  &__back {
+    transform: rotateY(180deg);
+  }
+}
+
+@import 'frontandback-is-flipped';

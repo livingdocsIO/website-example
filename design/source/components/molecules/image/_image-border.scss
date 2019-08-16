@@ -1,0 +1,8 @@
+%m-image--border,
+.m-image--border {
+  .m-image {
+    &__image {
+      border: 1px solid $color-grey-ultralight;
+    }
+  }
+}

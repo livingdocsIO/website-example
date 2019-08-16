@@ -1,0 +1,65 @@
+<script type="ld-conf">
+  {
+    "name": "designstore",
+    "label": "Design Store",
+    "description": "Show off your Design Themes",
+    "directives": {
+      "designs": {
+        "allowedChildren": ["designstore-item"],
+        "defaultContent": [
+          {
+            "component": "designstore-item",
+            "containers": {
+              "buttons": [
+                {
+                  "component": "buttonblock"
+                },
+                {
+                  "component": "buttonblock"
+                }
+              ]
+            }
+          },
+          {
+            "component": "designstore-item",
+            "containers": {
+              "buttons": [
+                {
+                  "component": "buttonblock"
+                },
+                {
+                  "component": "buttonblock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "list-entries": {
+        "allowedChildren": ["listitem"],
+        "defaultContent": [
+          {
+            "component": "listitem"
+          },
+          {
+            "component": "listitem"
+          },
+          {
+            "component": "listitem"
+          }
+        ]
+      }
+    },
+    "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_text_and_image.svg"
+  }
+</script>
+
+<div class="o-designstore">
+  <div class="a-wallpaper a-wallpaper--bottom">
+    <div class="a-wallpaper__image"></div>
+  </div>
+  <div class="o-designstore__designs" doc-container="designs"></div>
+  <div class="o-designstore__instructions">
+    <ol class="m-list" doc-container="list-entries"></ol>
+  </div>
+</div>

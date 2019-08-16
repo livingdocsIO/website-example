@@ -1,0 +1,20 @@
+.a-headeritem {
+  display: inline-block;
+  color: $color-green;
+  transition: color $transition-time;
+  cursor: pointer;
+
+  &:hover {
+    color: $color-grey-dark;
+  }
+
+  &.is-active {
+    color: $color-grey-dark;
+  }
+
+  &__link {
+    @extend %unlink;
+    display: block;
+    padding-right: $space-m;
+  }
+}

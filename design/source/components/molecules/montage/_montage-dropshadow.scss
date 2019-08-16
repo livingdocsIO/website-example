@@ -1,0 +1,5 @@
+.m-montage--dropshadow {
+  .m-image {
+    @extend %m-image--dropshadow;
+  }
+}

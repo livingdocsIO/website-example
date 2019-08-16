@@ -1,0 +1,68 @@
+.m-articlehead {
+  @extend %viewport-width;
+  position: relative;
+  padding-top: $space-xl;
+
+  .a-wallpaper {
+    bottom: auto;
+    height: 2 * $space-xl;
+  }
+
+  .a-pattern {
+    position: absolute;
+    top: 3 * $space-l;
+    left: 0;
+    width: calc(50vw + #{$space-l} + #{$space-m} + #{$content-width-mobile} / 2);
+    height: $space-l;
+    background-position: top right;
+  }
+
+  &__content {
+    box-sizing: content-box;
+    position: relative;
+    width: $content-width-mobile;
+    padding: $space-m $space-m 0;
+    margin: 0 auto;
+    background-color: $color-white;
+    border-bottom: $space-xl solid $color-white;
+  }
+
+  &__topline {
+    @extend %font-xxl;
+    color: $color-green;
+
+    &::after {
+      content: ' /';
+    }
+  }
+
+  &__title {
+    @extend %font-xxl;
+  }
+
+  &__lead {
+    @extend %font-speciallead;
+    margin-top: $space-s;
+  }
+
+  @include media-query (tablet) {
+    padding-top: 2 * $space-xl;
+
+    .a-wallpaper {
+      height: 4 * $space-xl;
+    }
+
+    .a-pattern {
+      top: 3 * $space-xl;
+      width: calc(50vw + #{$space-xl} + #{$space-m} + #{$content-width-tablet-desktop} / 2);
+      height: $space-xl;
+    }
+
+    &__content {
+      min-height: 80px;
+      width: $content-width-tablet-desktop;
+    }
+  }
+}
+
+@import 'editor';

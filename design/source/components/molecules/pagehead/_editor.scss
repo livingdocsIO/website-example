@@ -1,0 +1,14 @@
+.liEditor {
+  .m-pagehead {
+    &__title,
+    &__text {
+      br[data-editable='remove'] {
+        display: none;
+      }
+    }
+
+    &__eagle {
+      display: none;
+    }
+  }
+}

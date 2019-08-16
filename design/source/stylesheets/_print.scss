@@ -1,0 +1,21 @@
+@media print {
+  html,
+  body,
+  .o-view {
+    width: $breakpoint-desktop !important;
+  }
+
+  .a-decoration,
+  .a-wallpaper,
+  .o-header,
+  .cc-window {
+    display: none !important;
+  }
+
+  *[data-simpleTrigger="true"] {
+    transition: clip-path 0s ease, transform 0s ease !important;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%) !important;
+    transform: translateX(0) !important;
+    opacity: 1 !important;
+  }
+}

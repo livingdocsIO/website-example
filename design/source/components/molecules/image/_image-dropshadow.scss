@@ -1,0 +1,8 @@
+%m-image--dropshadow,
+.m-image--dropshadow {
+  .m-image {
+    &__image {
+      @extend %box-shadow;
+    }
+  }
+}

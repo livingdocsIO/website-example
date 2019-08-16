@@ -1,0 +1,55 @@
+.o-view {
+  padding-top: $header-height;
+  overflow: hidden;
+}
+
+main {
+  width: $content-width-mobile;
+  margin: 0 auto;
+
+  @mixin trigger-delay {
+    $from: 1;
+    $to: 6;
+
+    @for $i from $from through $to {
+      &[data-triggerOrder='#{$i}'] {
+        transition-delay: ($i - 1) * $transition-time;
+      }
+    }
+  }
+
+  *[data-simpleTrigger='true'] {
+    &:not([data-customAnimation='true']) {
+      clip-path: polygon($space-xl 0, $space-xl 0, $space-xl 100%, $space-xl 100%);
+      transform: translateX(-$space-xl);
+      transition: clip-path 3 * $transition-time ease, transform 3 * $transition-time ease;
+
+      &.is-triggered {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transform: translateX(0);
+      }
+
+      @include trigger-delay;
+    }
+  }
+}
+
+.intercom-launcher-frame {
+  display: none !important;
+  z-index: $z-intercom !important;
+  right: $space-m - 3px !important;
+  bottom: $space-m - 3px !important;
+  box-shadow: none !important;
+}
+
+@include media-query (tablet) {
+  main {
+    width: $content-width-tablet-desktop;
+  }
+}
+
+@import 'view-dark';
+@import 'view-start';
+@import 'view-regular';
+@import 'editor';
+@import 'ms';

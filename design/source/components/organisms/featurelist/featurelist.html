@@ -1,0 +1,28 @@
+<script type="ld-conf">
+  {
+    "name": "featurelist",
+    "label": "Feature List",
+    "description": "A List of Features you are offering",
+    "directives": {
+      "featurelist-item": {
+        "allowedChildren": ["featurelist-item", "buttonblock"],
+        "defaultContent": [
+          {
+            "component": "featurelist-item"
+          },
+          {
+            "component": "buttonblock"
+          }
+        ]
+      }
+    },
+    "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_text_and_image.svg"
+  }
+</script>
+
+<div class="o-featurelist">
+  <div class="a-wallpaper a-wallpaper--bottom">
+    <div class="a-wallpaper__image"></div>
+  </div>
+  <div class="o-featurelist__content" doc-container="featurelist-item"></div>
+</div>

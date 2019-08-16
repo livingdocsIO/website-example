@@ -1,0 +1,5 @@
+.m-buttonblock--primary {
+  .a-button {
+    @extend %a-button--primary;
+  }
+}

@@ -1,0 +1,48 @@
+<script type="ld-conf">
+{
+  "name": "productchoice",
+  "label": "Product Choice",
+  "properties": ["productchoice-cols"],
+  "directives": {
+    "button1": {
+      "allowedChildren": ["buttonblock"],
+      "defaultContent": [
+        {
+          "component": "buttonblock"
+        }
+      ]
+    },
+    "button2": {
+      "allowedChildren": ["buttonblock"],
+      "defaultContent": [
+        {
+          "component": "buttonblock"
+        }
+      ]
+    }
+  },
+  "description": "Text, Image and Button",
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_2_columns.svg"
+}
+</script>
+
+<div class="m-productchoice">
+  <div class="m-productchoice__grid">
+    <div data-box="1">
+      <img class="m-productchoice__icon" doc-image="icon1" />
+    </div>
+    <div data-box="4">
+      <img class="m-productchoice__icon" doc-image="icon2" />
+    </div>
+    <div data-box="2">
+      <h4 class="m-productchoice__title" doc-editable="title1">Choice One</h4>
+      <p doc-editable="text1">Let your visitors know, why they should go with choice one.</p>
+    </div>
+    <div data-box="5">
+      <h4 class="m-productchoice__title" doc-editable="title2">Choice Two</h4>
+      <p doc-editable="text2">Let your visitors know, why they should go with choice two.</p>
+    </div>
+    <div data-box="3" doc-container="button1"></div>
+    <div data-box="6" doc-container="button2"></div>
+  </div>
+</div>

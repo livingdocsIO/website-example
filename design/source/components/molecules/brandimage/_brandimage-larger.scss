@@ -1,0 +1,44 @@
+.m-brandimage--larger {
+  @include media-query (tablet) {
+    .m-brandimage {
+      &__image {
+        width: calc(50vw + ((#{$col-width-tablet-desktop} - #{$space-m}) / 2));
+        height: calc(50vw + ((#{$col-width-tablet-desktop} - #{$space-m}) / 2));
+        margin-left: 0;
+        margin-bottom: 0;
+        transform: none;
+      }
+
+      &__text {
+        position: static;
+        margin-top: $space-s;
+        margin-left: calc(50vw - #{$col-width-tablet-desktop} - #{$space-m} / 2);
+      }
+    }
+
+    .a-pattern {
+      width: 100vw;
+      height: calc(50vw + ((#{$col-width-tablet-desktop} - #{$space-m}) / 2));
+      margin-left: 0;
+      bottom: auto;
+    }
+  }
+
+  @include media-query (desktop) {
+    .m-brandimage {
+      &__image {
+        width: calc(50vw + 2 * #{$col-width-tablet-desktop} + 3 * #{$space-s});
+        height: calc((50vw + 2 * #{$col-width-tablet-desktop} + 3 * #{$space-s}) * 9 / 16);
+      }
+
+      &__text {
+        margin-left: calc(50vw - #{$extended-width-tablet-desktop} / 2);
+        transform: none;
+      }
+    }
+
+    .a-pattern {
+      height: calc((50vw + 2 * #{$col-width-tablet-desktop} + 3 * #{$space-s}) * 9 / 16);
+    }
+  }
+}

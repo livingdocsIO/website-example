@@ -1,0 +1,5 @@
+.o-view--start {
+  & ~ #intercom-container .intercom-launcher-frame {
+    display: block !important;
+  }
+}

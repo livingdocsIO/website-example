@@ -1,0 +1,5 @@
+.a-footeritem {
+	&__link {
+		@extend %unlink;
+	}
+}

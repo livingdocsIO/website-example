@@ -1,0 +1,32 @@
+<script type="ld-conf">
+{
+  "name": "listicle",
+  "label": "Listicle",
+  "properties": ["listicle-cols"],
+  "description": "Listicle Image and Text",
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_ordered_list.svg"
+}
+</script>
+
+<div class="o-listicle">
+  <div class="m-textimage">
+    <div class="a-wallpaper">
+      <div class="a-wallpaper__image" doc-image="image"></div>
+    </div>
+    <div class="m-textimage__text a-listnumber">
+      <img class="o-listicle__icon" doc-image="icon" />
+      <div class="m-textimage__col1" data-simpleTrigger="true" data-triggerOrder="1" doc-editable="col1">Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</div>
+      <div class="m-textimage__col2" data-simpleTrigger="true" data-triggerOrder="2" doc-editable="col2">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt magna aliquyam erat, sed diam voluptua.</div>
+    </div>
+  </div>
+  <div class="o-listicle__content">
+    <div class="o-listicle__col1">
+      <h4 class="o-listicle__title" doc-editable="listtitle1" doc-optional>Left Column's Title</h4>
+      <p class="o-listicle__text" doc-editable="listtext1">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt magna aliquyam erat, sed diam voluptua.</p>
+    </div>
+    <div class="o-listicle__col2">
+      <h4 class="o-listicle__title" doc-editable="listtitle2" doc-optional>Right Column's Title</h4>
+      <p class="o-listicle__text" doc-editable="listtext2">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt magna aliquyam erat, sed diam voluptua.</p>
+    </div>
+  </div>
+</div>

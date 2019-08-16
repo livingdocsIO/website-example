@@ -1,0 +1,583 @@
+{
+  "name": "livingdocssite",
+  "label": "Livingdocs Website",
+  "version": "2.0.0",
+  "author": "livingdocs.io",
+
+  "assets": {
+    "basePath": "https://cdn.livingdocs.io/designs/livingdocssite/2.0.0",
+    "css": ["./styles.css"],
+    "js": [
+      "./vendors.js",
+      "./commons.js",
+      "./scripts.js"
+    ]
+  },
+
+  "wrapper": "<div class='doc-section'></div>",
+
+  "componentProperties": {
+    "selected-menu": {
+      "label": "Selected Menu Item",
+      "type": "option",
+      "value": "is-active"
+    },
+    "controlroom-type": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Single Image",
+          "value": "m-controlroom--single-pic"
+        }
+      ]
+    },
+    "controlroom-colors": {
+      "label": "Image Colors",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Original"
+        }, {
+          "caption": "Black and White",
+          "value": "m-controlroom--blackandwhite"
+        }
+      ]
+    },
+    "controlroom-border": {
+      "label": "Image Borders",
+      "type": "select",
+      "options": [
+        {
+          "caption": "None"
+        }, {
+          "caption": "Border",
+          "value": "m-controlroom--border"
+        }, {
+          "caption": "Dropshadow",
+          "value": "m-controlroom--dropshadow"
+        }
+      ]
+    },
+    "montage-size": {
+      "label": "Size",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Larger",
+          "value": "m-montage--larger"
+        }
+      ]
+    },
+    "montage-colors": {
+      "label": "Image Colors",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Original"
+        }, {
+          "caption": "Black and White",
+          "value": "m-montage--blackandwhite"
+        }
+      ]
+    },
+    "montage-border": {
+      "label": "Image Borders",
+      "type": "select",
+      "options": [
+        {
+          "caption": "None"
+        }, {
+          "caption": "Border",
+          "value": "m-montage--border"
+        }, {
+          "caption": "Dropshadow",
+          "value": "m-montage--dropshadow"
+        }
+      ]
+    },
+    "montage-type": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Three Images"
+        }, {
+          "caption": "Two Images",
+          "value": "m-montage--two-pics"
+        }, {
+          "caption": "Single Image",
+          "value": "m-montage--single-pic"
+        }
+      ]
+    },
+    "video-type": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Browser Bar",
+          "value": "m-video--browserbar"
+        }
+      ]
+    },
+    "video-size": {
+      "label": "Size",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Larger",
+          "value": "m-video--larger"
+        }
+      ]
+    },
+    "image-colors": {
+      "label": "Colors",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Original"
+        }, {
+          "caption": "Black and White",
+          "value": "m-image--blackandwhite"
+        }
+      ]
+    },
+    "image-border": {
+      "label": "Border",
+      "type": "select",
+      "options": [
+        {
+          "caption": "None"
+        }, {
+          "caption": "Border",
+          "value": "m-image--border"
+        }, {
+          "caption": "Dropshadow",
+          "value": "m-image--dropshadow"
+        }
+      ]
+    },
+    "image-size": {
+      "label": "Size",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Larger",
+          "value": "m-image--larger"
+        }
+      ]
+    },
+    "infographics-type": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Wide",
+          "value": "m-infographics--wide"
+        }
+      ]
+    },
+    "event-logoframe": {
+      "label": "Logo Frame",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Square"
+        }, {
+          "caption": "Circle",
+          "value": "m-event--logocircle"
+        }, {
+          "caption": "Triangle",
+          "value": "m-event--logotriangle"
+        }
+      ]
+    },
+    "decoration-type": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "Down Left",
+          "value": "a-decoration--downleft"
+        }, {
+          "caption": "Up Left",
+          "value": "a-decoration--upleft"
+        }, {
+          "caption": "Down Right",
+          "value": "a-decoration--downright"
+        }, {
+          "caption": "Up Right",
+          "value": "a-decoration--upright"
+        }
+      ]
+    },
+    "pagehead-spacing": {
+      "label": "Bottom Spacing",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Regular"
+        }, {
+          "caption": "None",
+          "value": "m-pagehead--no-spacing"
+        }
+      ]
+    },
+    "mainhead-color": {
+      "label": "Color",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Light"
+        }, {
+          "caption": "Dark",
+          "value": "m-mainhead--dark"
+        }
+      ]
+    },
+    "feature-cols": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Two Columns"
+        }, {
+          "caption": "One Column",
+          "value": "o-feature--single-col"
+        }, {
+          "caption": "Text only",
+          "value": "o-feature--textonly"
+        }
+      ]
+    },
+    "listicle-cols": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Two Bottom Columns"
+        }, {
+          "caption": "One Bottom Column",
+          "value": "o-listicle--single-col"
+        }
+      ]
+    },
+    "productchoice-cols": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Two Columns"
+        }, {
+          "caption": "One Column",
+          "value": "m-productchoice--single-col"
+        }
+      ]
+    },
+    "list-type": {
+      "label": "List Type",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Standard"
+        }, {
+          "caption": "Numbered",
+          "value": "m-list--numbered"
+        }, {
+          "caption": "Bullets",
+          "value": "m-list--bullets"
+        }
+      ]
+    },
+    "logoblock-num-entries-desktop": {
+      "label": "Number of Entries on desktop",
+      "type": "select",
+      "options": [
+        {
+          "caption": "9"
+        }, {
+          "caption": "8",
+          "value": "m-logoblock--8"
+        }, {
+          "caption": "7",
+          "value": "m-logoblock--7"
+        }, {
+          "caption": "6",
+          "value": "m-logoblock--6"
+        }, {
+          "caption": "5",
+          "value": "m-logoblock--5"
+        }, {
+          "caption": "4",
+          "value": "m-logoblock--4"
+        }, {
+          "caption": "3",
+          "value": "m-logoblock--3"
+        }, {
+          "caption": "2",
+          "value": "m-logoblock--2"
+        }, {
+          "caption": "1",
+          "value": "m-logoblock--1"
+        }
+      ]
+    },
+    "brandimage-version": {
+      "label": "Variant",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Default"
+        }, {
+          "caption": "Larger",
+          "value": "m-brandimage--larger"
+        }, {
+          "caption": "Square",
+          "value": "m-brandimage--square"
+        }
+      ]
+    },
+    "calltoaction-type": {
+      "label": "Button Style",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Secondary"
+        }, {
+          "caption": "Primary",
+          "value": "m-calltoaction--primary"
+        }
+      ]
+    },
+    "buttonblock-type": {
+      "label": "Button Style",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Secondary"
+        }, {
+          "caption": "Primary",
+          "value": "m-buttonblock--primary"
+        }
+      ]
+    },
+    "textimage-color": {
+      "label": "Color",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Dark"
+        },
+        {
+          "caption": "Light",
+          "value": "m-textimage--light"
+        }
+      ]
+    },
+    "textimage-cols": {
+      "label": "Layout",
+      "type": "select",
+      "options": [
+        {
+          "caption": "Two Columns"
+        },
+        {
+          "caption": "One Column",
+          "value": "m-textimage--single-col"
+        }
+      ]
+    }
+  },
+
+  "defaultComponents": {
+    "paragraph": "paragraph",
+    "image": "image"
+  },
+
+  "layouts": [{
+    "name": "page",
+    "caption": "Page",
+    "wrapper": "<div class='liEditor doc-section o-view'></div>",
+    "defaultContent": [
+      { "identifier": "page-head" },
+      { "identifier": "paragraph" },
+      { "identifier": "paragraph" }
+    ],
+    "groups": [
+      {
+        "label": "Headers",
+        "components": ["page-head"]
+      }, {
+        "label": "Text",
+        "components": ["subtitle", "paragraph"]
+      }, {
+        "label": "Lists",
+        "components": ["list", "listitem"]
+      }, {
+        "label": "Structure",
+        "components": ["separator"]
+      }, {
+        "label": "Images",
+        "components": ["image", "textimage", "brandimage", "decoration"]
+      }, {
+        "label": "Interaction",
+        "components": ["buttonblock", "calltoaction", "newsletter", "productchoice"]
+      }, {
+        "label": "Showcase",
+        "components": ["testimonial", "logoblock", "video", "videoshowcase", "listicle", "producthighlights", "html"]
+      }, {
+        "label": "Design Store",
+        "components": ["designstore", "designstore-item"]
+      }, {
+        "label": "Teaser",
+        "components": ["articleteaser"]
+      }
+    ]
+  }, {
+    "name": "page-dark",
+    "caption": "Page",
+    "wrapper": "<div class='liEditor doc-section o-view o-view--dark'></div>",
+    "defaultContent": [
+      { "identifier": "page-head" },
+      { "identifier": "paragraph" },
+      { "identifier": "paragraph" }
+    ],
+    "groups": [
+      {
+        "label": "Headers",
+        "components": ["page-head"]
+      }, {
+        "label": "Text",
+        "components": ["subtitle", "paragraph"]
+      }, {
+        "label": "Lists",
+        "components": ["list", "listitem"]
+      }, {
+        "label": "Structure",
+        "components": ["separator"]
+      }, {
+        "label": "Interaction",
+        "components": ["buttonblock", "calltoaction"]
+      }, {
+        "label": "Showcase",
+        "components": ["feature", "html"]
+      }
+    ]
+  }, {
+    "name": "page-start",
+    "caption": "Page",
+    "wrapper": "<div class='liEditor doc-section o-view o-view--start'></div>",
+    "defaultContent": [
+      { "identifier": "main-head" },
+      { "identifier": "paragraph" },
+      { "identifier": "paragraph" }
+    ],
+    "groups": [
+      {
+        "label": "Headers",
+        "components": ["main-head", "sub-head"]
+      }, {
+        "label": "Text",
+        "components": ["subtitle", "paragraph"]
+      }, {
+        "label": "Lists",
+        "components": ["list", "listitem"]
+      }, {
+        "label": "Structure",
+        "components": ["separator"]
+      }, {
+        "label": "Images",
+        "components": ["image", "textimage", "brandimage", "decoration"]
+      }, {
+        "label": "Interaction",
+        "components": ["buttonblock", "calltoaction", "newsletter", "productchoice"]
+      }, {
+        "label": "Showcase",
+        "components": ["video", "testimonial", "logoblock", "html"]
+      }, {
+        "label": "Feature List",
+        "components": ["featurelist", "featurelist-item"]
+      }
+    ]
+  }, {
+    "name": "regular",
+    "caption": "Article",
+    "wrapper": "<div class='liEditor doc-section o-view o-view--regular'></div>",
+    "defaultContent": [
+      { "identifier": "article-head" },
+      { "identifier": "paragraph" },
+      { "identifier": "paragraph" }
+    ],
+    "groups": [
+      {
+        "label": "Headers",
+        "components": ["article-head"]
+      }, {
+        "label": "Text",
+        "components": ["subtitle", "paragraph", "infobox", "versus", "quote"]
+      }, {
+        "label": "Lists",
+        "components": ["list", "listitem"]
+      }, {
+        "label": "Structure",
+        "components": ["separator"]
+      }, {
+        "label": "Images",
+        "components": ["image", "montage", "decoration"]
+      }, {
+        "label": "Interaction",
+        "components": ["buttonblock", "calltoaction", "event"]
+      }, {
+        "label": "Showcase",
+        "components": ["video", "controlroom", "html"]
+      }, {
+        "label": "Team",
+        "components": ["team", "teammember"]
+      }, {
+        "label": "Infographics",
+        "components": ["infographics", "nzz-infograph-1", "nzz-infograph-2", "nzz-infograph-3", "sz-infograph-1", "swisscom-infograph-1", "swisscom-infograph-2"]
+      }
+    ]
+  }],
+
+  "prefilledComponents": {},
+
+  "metadata": [
+    {
+      "identifier": "title",
+      "type": "text",
+      "matches": ["main-head.title", "page-head.title", "article-head.title"]
+    },
+    {
+      "identifier": "description",
+      "type": "text",
+      "matches": ["main-head.text", "page-head.text", "article-head.text"]
+    }
+  ],
+
+  "imageRatios": {
+    "16:9": {
+      "label": "16:9",
+      "ratio": "16x9"
+    },
+    "1:1": {
+      "label": "1:1",
+      "ratio": "1x1"
+    }
+  }
+}

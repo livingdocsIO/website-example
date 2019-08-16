@@ -1,0 +1,9 @@
+.a-html {
+  margin-bottom: $space-xl;
+
+  .a-placeholder {
+    &::before {
+      content: 'html';
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.liEditor {
+  .m-testimonial {
+    &__quote {
+      br[data-editable='remove'] {
+        display: none;
+      }
+    }
+  }
+}

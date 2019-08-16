@@ -1,0 +1,40 @@
+.m-quote {
+  margin-bottom: $space-xl;
+
+  &__quote {
+    @extend %font-m;
+    margin-bottom: $space-s;
+    color: $color-green;
+
+    &::before {
+      content: '«';
+    }
+
+    &::after {
+      content: '»';
+    }
+  }
+
+  &__caption {
+    @extend %font-s;
+    margin-top: $space-s / 2;
+    color: $color-grey-light;
+  }
+
+  @include media-query (tablet) {
+    box-sizing: content-box;
+    float: right;
+    clear: right;
+    width: $col-width-tablet-desktop;
+    margin-left: $space-l;
+    margin-right: calc(#{$col-width-tablet-desktop} - 50vw + #{$space-l});
+    margin-bottom: $space-l;
+  }
+
+  @include media-query (desktop) {
+    margin-right: -$col-width-tablet-desktop - $space-m;
+    margin-left: $space-m;
+  }
+}
+
+@import 'editor';

@@ -1,0 +1,8 @@
+.a-pattern {
+  background-image: url('../assets/patterns/stripes-green.svg');
+  background-repeat: repeat;
+  background-size: 500px 500px;
+}
+
+@import 'pattern-dots-white';
+@import 'pattern-dots-green';

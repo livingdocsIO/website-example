@@ -1,0 +1,34 @@
+.cc-window {
+  @extend %box-shadow;
+  position: fixed;
+  z-index: $z-cookieconsent;
+  bottom: $space-s / 2;
+  left: $space-s / 2;
+  padding: $space-s;
+  width: calc(100vw - #{$space-s});
+  background-color: $color-white;
+}
+
+.cc-link {
+  @extend .a-button;
+  @extend .a-button--small;
+  margin-left: $space-s;
+  margin-right: $space-s;
+}
+
+.cc-compliance {
+  display: inline;
+}
+
+.cc-btn {
+  @extend .a-button;
+  @extend .a-button--primary;
+  @extend .a-button--small;
+}
+
+@include media-query (tablet) {
+  .cc-window {
+    width: auto;
+    max-width: calc(100vw - #{$space-s});
+  }
+}

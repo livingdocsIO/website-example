@@ -1,0 +1,37 @@
+.o-featurelist {
+  @extend %viewport-width;
+  min-height: 3 * $space-xl;
+  padding: $space-xl 0 0;
+  margin-bottom: $space-xl;
+  background-color: $color-black;
+  overflow: hidden;
+
+  .a-wallpaper {
+    &__image {
+      background-image: url('../assets/backgrounds/featurelist.jpg');
+    }
+  }
+
+  .m-buttonblock {
+    position: relative;
+  }
+
+  .a-button {
+    &:hover {
+      color: $color-white;
+      border-color: $color-white;
+    }
+  }
+
+  .m-buttonblock--primary {
+    .a-button {
+      color: $color-black;
+
+      &:hover {
+        color: $color-black;
+        background-color: $color-white;
+        border-color: $color-white;
+      }
+    }
+  }
+}

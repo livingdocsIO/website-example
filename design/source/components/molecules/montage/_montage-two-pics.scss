@@ -1,0 +1,13 @@
+.m-montage--two-pics {
+  .m-montage {
+    &__image {
+      &:nth-child(3) {
+        width: 100%;
+      }
+
+      &:nth-child(4) {
+        display: none;
+      }
+    }
+  }
+}

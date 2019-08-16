@@ -1,0 +1,12 @@
+.a-separator {
+  clear: both;
+  width: 100vw;
+  margin-left: calc((100% - 100vw) / 2);
+  margin-bottom: $space-xl;
+  border-top: 1px solid $color-green;
+
+  @include media-query (desktop) {
+    width: $content-width-desktop-wide;
+    margin-left: ($content-width-tablet-desktop - $content-width-desktop-wide) / 2;
+  }
+}

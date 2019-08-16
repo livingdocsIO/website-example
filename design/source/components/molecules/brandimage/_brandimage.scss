@@ -1,0 +1,75 @@
+.m-brandimage {
+  @extend %viewport-width;
+  position: relative;
+  margin-bottom: $space-xl;
+  overflow: hidden;
+
+  .a-pattern {
+    width: calc(100vw - #{$space-xl});
+    height: calc(100vw - #{$space-xl});
+    position: absolute;
+    bottom: 0;
+    margin-left: $space-xl;
+  }
+
+  &__image {
+    @extend %blackandwhite;
+    width: calc(100vw - #{$space-xl});
+    height: calc(100vw - #{$space-xl});
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: $space-xl;
+  }
+
+  &__text {
+    @extend %font-m;
+    width: calc(100vw - #{$space-xl});
+    position: absolute;
+    top: calc(100vw + #{$space-s} - #{$space-xl});
+    left: $space-l;
+  }
+
+  @include media-query (tablet) {
+    .a-pattern {
+      width: calc(50vw + 135px);
+      height: calc(50vw + 135px);
+    }
+
+    &__image {
+      width: calc(50vw + 135px);
+      height: calc(50vw + 135px);
+    }
+
+    &__text {
+      width: calc(50vw - 205px);
+      max-width: $col-width-tablet-desktop;
+      top: $space-xl + $space-l;
+      left: calc(50vw + 135px + #{$space-l});
+    }
+  }
+
+  @include media-query (desktop) {
+    .a-pattern {
+      width: calc(50vw + 350px);
+      height: (3 * $col-width-tablet-desktop + 2 * $space-m) * 9 / 16;
+      margin-left: 0;
+    }
+
+    &__image {
+      width: 3 * $col-width-tablet-desktop + 2 * $space-m;
+      height: (3 * $col-width-tablet-desktop + 2 * $space-m) * 9 / 16;
+      margin-left: 50vw;
+      transform: translateX(-525px);
+    }
+
+    &__text {
+      width: $col-width-tablet-desktop;
+      left: 3 * $col-width-tablet-desktop + 2 * $space-m + $space-l;
+      margin-left: 50vw;
+      transform: translateX(-525px);
+    }
+  }
+}
+
+@import 'brandimage-larger';
+@import 'brandimage-square';

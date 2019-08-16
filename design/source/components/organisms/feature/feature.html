@@ -1,0 +1,45 @@
+<script type="ld-conf">
+  {
+    "name": "feature",
+    "label": "Feature",
+    "description": "Indepth Feature Presentation",
+    "properties": ["feature-cols"],
+    "directives": {
+      "list-entries": {
+        "allowedChildren": ["listitem"],
+        "defaultContent": [
+          {
+            "component": "listitem"
+          },
+          {
+            "component": "listitem"
+          },
+          {
+            "component": "listitem"
+          }
+        ]
+      }
+    },
+    "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_text_and_image.svg"
+  }
+</script>
+
+<div class="o-feature">
+  <div class="o-feature__titlebar">
+    <img class="o-feature__icon" doc-image="icon" />
+    <h2 class="o-feature__title" doc-editable="title">Find a Title for this Feature</h2>
+  </div>
+  <div class="o-feature__images">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="image1" />
+      <h3 class="m-image__title" data-simpleTrigger="true" data-triggerOrder="1" doc-editable="title1" doc-optional>A title for this image</h3>
+      <p class="m-image__text" data-simpleTrigger="true" data-triggerOrder="1" doc-editable="text1" doc-optional>Explain what you want to express with the image in a text.</p>
+    </div>
+    <div class="m-image">
+      <img class="m-image__image" doc-image="image2" />
+      <h3 class="m-image__title" data-simpleTrigger="true" data-triggerOrder="2" doc-editable="title2" doc-optional>A title for this image</h3>
+      <p class="m-image__text" data-simpleTrigger="true" data-triggerOrder="2" doc-editable="text2" doc-optional>Explain what you want to express with the image in a text.</p>
+    </div>
+  </div>
+  <ol class="m-list" data-simpleTrigger="true" data-triggerOrder="2" doc-container="list-entries"></ol>
+</div>

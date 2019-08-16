@@ -1,0 +1,19 @@
+.m-productchoice--single-col {
+  .m-productchoice {
+    &__grid {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+
+  div[data-box='4'],
+  div[data-box='5'],
+  div[data-box='6'] {
+    display: none;
+  }
+
+  @include media-query (tablet) {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

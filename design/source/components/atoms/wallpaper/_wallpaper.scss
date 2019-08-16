@@ -1,0 +1,29 @@
+.a-wallpaper {
+  @extend %absolute-stretch;
+  background-color: $color-black;
+
+  &__image {
+    @extend %absolute-stretch;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+}
+
+@supports (-webkit-overflow-scrolling: touch) {
+  .a-wallpaper {
+    clip: rect(0, auto, auto, 0);
+
+    &__image {
+      position: fixed;
+      width: 100vw;
+      height: 100vh;
+      background-attachment: scroll;
+      transform: translateZ(0);
+      will-change: transform;
+    }
+  }
+}
+
+@import 'wallpaper-bottom';

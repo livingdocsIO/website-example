@@ -1,0 +1,10 @@
+.m-montage--single-pic {
+  .m-montage {
+    &__image {
+      &:nth-child(3),
+      &:nth-child(4) {
+        display: none;
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.a-popnaviitem {
+	color: mix($color-grey-light, $color-white, $weight: 50%);
+
+	&.is-active {
+		color: $color-white;
+	}
+
+	&__secondlevel {
+		margin-left: $space-m;
+  }
+
+	&__link {
+		@extend %unlink;
+	}
+
+	@include media-query (tablet) {
+		&__secondlevel {
+			margin-left: 0;
+	    display: inline;
+	  }
+	}
+}

@@ -1,0 +1,9 @@
+.liEditor {
+  .m-quote {
+    &__quote {
+      br[data-editable='remove'] {
+        display: none;
+      }
+    }
+  }
+}

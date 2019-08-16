@@ -1,0 +1,20 @@
+{
+  "version": 8,
+  "handle": "footer",
+  "label": "Footer",
+  "maxDepth": 0,
+  "nodes": [
+    {
+      "label": "Home",
+      "type": "document",
+      "documentId": 21754,
+      "nodes": []
+    },
+    {
+      "label": "Features",
+      "type": "document",
+      "documentId": 21805,
+      "nodes": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.a-button {
+  display: inline-block;
+  flex-shrink: 0;
+  padding: 0 $space-s;
+  height: 3 * $space-s;
+  min-width: 3 * $space-s;
+  font-size: 14px;
+  line-height: 2.8 * $space-s;
+  text-transform: uppercase;
+  text-align: center;
+  color: $color-green;
+  border: 1px solid $color-green;
+  box-sizing: border-box;
+  vertical-align: 0;
+  border-radius: $rounded-corners;
+  cursor: pointer;
+  transition: color $transition-time, border-color $transition-time, background-color $transition-time;
+
+  &:hover {
+    color: $color-grey-dark;
+    border-color: $color-grey-dark;
+  }
+}
+
+@import 'button-primary';
+@import 'button-small';

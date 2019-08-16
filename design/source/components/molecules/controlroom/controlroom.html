@@ -1,0 +1,53 @@
+<script type="ld-conf">
+{
+  "name": "controlroom",
+  "label": "Control Room",
+  "description": "A Video combined with Images",
+  "properties": ["controlroom-type", "controlroom-border", "controlroom-colors"],
+  "directives": {
+    "controlroomimage1": {
+      "imageRatios": ["16:9"],
+      "allowOriginalRatio": false
+    },
+    "controlroomimage2": {
+      "imageRatios": ["16:9"],
+      "allowOriginalRatio": false
+    },
+    "controlroomimage3": {
+      "imageRatios": ["16:9"],
+      "allowOriginalRatio": false
+    },
+    "controlroomimage4": {
+      "imageRatios": ["16:9"],
+      "allowOriginalRatio": false
+    }
+  },
+  "iconUrl": "//livingdocs-icons.s3-eu-west-1.amazonaws.com/components/icon_component_video_block.svg"
+}
+</script>
+
+<div class="m-controlroom">
+  <div class="m-controlroom__image m-controlroom__box1">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="controlroomimage1" />
+    </div>
+  </div>
+  <div class="m-controlroom__image m-controlroom__box2">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="controlroomimage2" />
+    </div>
+  </div>
+  <div class="m-controlroom__image m-controlroom__box3">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="controlroomimage3" />
+    </div>
+  </div>
+  <div class="m-controlroom__image m-controlroom__box4">
+    <div class="m-image">
+      <img class="m-image__image" doc-image="controlroomimage4" />
+    </div>
+  </div>
+  <div class="m-video  m-controlroom__box5">
+    <div class="a-iframe" doc-html="iframe"></div>
+  </div>
+</div>

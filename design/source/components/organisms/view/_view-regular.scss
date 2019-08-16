@@ -1,0 +1,15 @@
+.o-view--regular {
+  .a-listitem {
+    h4 {
+      @extend %font-m;
+    }
+  }
+
+  @include media-query (tablet) {
+    .m-list--numbered  {
+      .a-listitem:before {
+        top: -3px;
+      }
+    }
+  }
+}
