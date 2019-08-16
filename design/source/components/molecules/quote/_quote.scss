@@ -4,7 +4,7 @@
   &__quote {
     @extend %font-m;
     margin-bottom: $space-s;
-    color: $color-blue;
+    color: $color-orange;
 
     &::before {
       content: '«';
