@@ -34,14 +34,6 @@ main {
   }
 }
 
-.intercom-launcher-frame {
-  display: none !important;
-  z-index: $z-intercom !important;
-  right: $space-m - 3px !important;
-  bottom: $space-m - 3px !important;
-  box-shadow: none !important;
-}
-
 @include media-query (tablet) {
   main {
     width: $content-width-tablet-desktop;
@@ -49,7 +41,6 @@ main {
 }
 
 @import 'view-dark';
-@import 'view-start';
 @import 'view-regular';
 @import 'editor';
 @import 'ms';
