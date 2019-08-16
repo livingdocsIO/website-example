@@ -10,7 +10,7 @@
   &__bar {
     position: absolute;
     display: block;
-    background-color: $color-green;
+    background-color: $color-blue;
     width: 2 * $space-s;
     height: $space-s / 3;
     left: $space-s / 2;
@@ -61,7 +61,7 @@
   @include media-query (desktop) {
     &:hover {
       .a-burger__bar {
-        background-color: $color-grey-dark;
+        background-color: $color-black;
       }
     }
 

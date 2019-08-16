@@ -31,7 +31,7 @@
   &__quote {
     @extend %font-m;
     margin-bottom: $space-s;
-    color: $color-green;
+    color: $color-blue;
 
     &::before {
       content: '«';

@@ -1,7 +1,7 @@
 body {
   @extend %font-s;
   background-color: $color-white;
-  color: $color-grey-dark;
+  color: $color-black;
   counter-reset: list-counter;
 }
 
@@ -29,7 +29,7 @@ i,
 em {
   font-weight: inherit;
   font-style: inherit;
-  color: $color-green;
+  color: $color-blue;
 }
 
 textarea,
