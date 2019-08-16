@@ -75,18 +75,11 @@
   }
 
   .m-pagehead {
+    color: $color-blue-light;
+
     .a-pattern {
-      @extend %blackandwhite;
-    }
-
-    &__title {
-      span {
-        background-color: $color-black;
-      }
-    }
-
-    &__text {
-      background-color: $color-black;
+      background-color: $color-blue;
+      opacity: .2;
     }
   }
 
