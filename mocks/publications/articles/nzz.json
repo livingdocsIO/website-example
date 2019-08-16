@@ -24,12 +24,7 @@
       "id": "doc-1dgcb4tt90",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/photo-3.jpg?id=MQkvMjAxOS83LzIzLzU5Yzg1ZTgwLTFjMWUtNDA2ZC1hNzAwLTFjNWNmMzlmZTE1OS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/photo-3.jpg?id=MQkvMjAxOS83LzIzLzU5Yzg1ZTgwLTFjMWUtNDA2ZC1hNzAwLTFjNWNmMzlmZTE1OS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 1674,
-          "height": 1381,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "Neue Zürcher Zeitung",
         "title": "Re-thinking newspaper workflows",
@@ -151,7 +146,7 @@
       "containers": {
         "graph": [
           {
-            "identifier": "livingdocssite.nzz-infograph-1",
+            "identifier": "livingdocssite.infograph-placeholder",
             "id": "doc-1dgcqmn1a0"
           }
         ]
@@ -197,8 +192,8 @@
       "containers": {
         "graph": [
           {
-            "identifier": "livingdocssite.nzz-infograph-2",
-            "id": "doc-1dgcqqkpm0"
+            "identifier": "livingdocssite.infograph-placeholder",
+            "id": "doc-1dgcqmn1a0"
           }
         ]
       }
@@ -247,37 +242,8 @@
       "containers": {
         "graph": [
           {
-            "identifier": "livingdocssite.nzz-infograph-3",
-            "id": "doc-1dgcqsp3n0",
-            "content": {
-              "image_1": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/e-7-e-9-f-348-ab-72-4089-872-b-26-fa-60271-e-04.png?id=MQkvMjAxOS83LzIyLzNmNzIwMzQ4LTMxOTctNDg3Zi1iZGU4LWZiNjk5YzBiZjU5ZC5wbmcJNDg1",
-                "url": "https://server.livingdocs.io/api/v1/images/e-7-e-9-f-348-ab-72-4089-872-b-26-fa-60271-e-04.png?id=MQkvMjAxOS83LzIyLzNmNzIwMzQ4LTMxOTctNDg3Zi1iZGU4LWZiNjk5YzBiZjU5ZC5wbmcJNDg1&auto=format",
-                "width": 1024,
-                "height": 612,
-                "mimeType": "image/png",
-                "imageService": "liImageProxy"
-              },
-              "text_1": "Write",
-              "image_2": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/e-8-ef-8292-4-a-0-b-4-c-1-d-90-af-2-a-9-db-95-c-00-b-5.png?id=MQkvMjAxOS83LzIyL2U2ZmEwNTAzLTE2YWMtNGFjOC05MGE3LTQ2ZjYwNTkwY2M1OC5wbmcJNDg1",
-                "url": "https://server.livingdocs.io/api/v1/images/e-8-ef-8292-4-a-0-b-4-c-1-d-90-af-2-a-9-db-95-c-00-b-5.png?id=MQkvMjAxOS83LzIyL2U2ZmEwNTAzLTE2YWMtNGFjOC05MGE3LTQ2ZjYwNTkwY2M1OC5wbmcJNDg1&auto=format",
-                "width": 1024,
-                "height": 612,
-                "mimeType": "image/png",
-                "imageService": "liImageProxy"
-              },
-              "text_2": "Prioritize",
-              "image_3": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/c-7732168-cb-2-a-48-f-6-b-31-e-c-187-da-68-e-3-a-2.png?id=MQkvMjAxOS83LzIyLzYxZjU1YzY5LTdlNWItNGQyYi05NzhkLTM4Mjc0YjYzYmFkMy5wbmcJNDg1",
-                "url": "https://server.livingdocs.io/api/v1/images/c-7732168-cb-2-a-48-f-6-b-31-e-c-187-da-68-e-3-a-2.png?id=MQkvMjAxOS83LzIyLzYxZjU1YzY5LTdlNWItNGQyYi05NzhkLTM4Mjc0YjYzYmFkMy5wbmcJNDg1&auto=format",
-                "width": 1024,
-                "height": 612,
-                "mimeType": "image/png",
-                "imageService": "liImageProxy"
-              },
-              "text_3": "Layout"
-            }
+            "identifier": "livingdocssite.infograph-placeholder",
+            "id": "doc-1dgcqmn1a0"
           }
         ]
       }
