@@ -2,6 +2,12 @@
   background-color: $color-black;
   color: $color-grey-ultralight;
 
+  a {
+    &:hover {
+      border-color: $color-white;
+    }
+  }
+
   main {
     position: relative;
   }
@@ -10,7 +16,10 @@
     position: fixed;
 
     &__image {
-      background-image: url('../assets/backgrounds/darkpage.jpg');
+      background-image: url('../assets/patterns/darkpage.svg');
+      background-size: auto auto;
+      background-position: bottom right;
+      opacity: .5;
     }
   }
 
@@ -79,14 +88,14 @@
 
     .a-pattern {
       background-color: $color-blue;
-      opacity: .2;
+      filter: brightness(.2);
     }
   }
 
   .a-button {
     &:hover {
-      color: $color-grey-ultralight;
-      border-color: $color-grey-ultralight;
+      color: $color-white;
+      border-color: $color-white;
     }
   }
 
@@ -96,8 +105,8 @@
 
       &:hover {
         color: $color-black;
-        background-color: $color-grey-ultralight;
-        border-color: $color-grey-ultralight;
+        background-color: $color-white;
+        border-color: $color-white;
       }
     }
   }
