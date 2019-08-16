@@ -47,6 +47,7 @@
     @extend %box-shadow;
     position: relative;
     width: calc(100vw - 2 * #{$space-m});
+    min-height: 285px;
     margin-left: calc((100% - (100vw - 2 * #{$space-m})) / 2);
   }
 
@@ -71,6 +72,7 @@
 
     &__showcase {
       width: 775px;
+      min-height: 481px;
       margin-left: calc((100% - 775px) / 2);
     }
   }
