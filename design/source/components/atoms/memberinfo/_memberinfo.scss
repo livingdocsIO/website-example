@@ -20,26 +20,10 @@
     @extend %unlink;
   }
 
-  &__icon {
-    display: none;
-  }
-
   @include media-query (tablet) {
-    &__name {
-      margin-top: $space-l / 2;
-    }
-
     p {
       font-size: 16px;
       line-height: 140%;
-    }
-
-    &__icon {
-      display: block;
-      position: relative;
-      max-width: $space-l;
-      max-height: $space-l;
-      margin: $space-s auto 0;
     }
   }
 }

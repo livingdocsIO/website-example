@@ -13,6 +13,10 @@
 
   .a-wallpaper {
     margin-bottom: $space-xl;
+
+    &__image {
+      background-image: url('../assets/patterns/team.svg');
+    }
   }
 
   &__grid {

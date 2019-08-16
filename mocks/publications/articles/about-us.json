@@ -97,16 +97,6 @@
     {
       "identifier": "livingdocssite.team",
       "id": "doc-1dgcits0m0",
-      "content": {
-        "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/grafik.jpg?id=MQkvMjAxOS83LzIyL2NiZTY1YTZhLTNkZDItNDkyYi05ZTVlLWY5Y2RlZDVhZmJkYi5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/grafik.jpg?id=MQkvMjAxOS83LzIyL2NiZTY1YTZhLTNkZDItNDkyYi05ZTVlLWY5Y2RlZDVhZmJkYi5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 1440,
-          "height": 1440,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
-        }
-      },
       "containers": {
         "box1": [
           {
