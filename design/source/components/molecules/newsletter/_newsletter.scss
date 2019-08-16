@@ -15,9 +15,11 @@
     margin-bottom: $space-m;
   }
 
-  &__eagle {
+  &__logo {
     display: inline;
-    height: $space-l;
+    height: 3 * $space-s;
+    width: 3 * $space-s;
+    filter: grayscale(1) brightness(.6) contrast(6);
   }
 
   @include media-query (tablet) {
