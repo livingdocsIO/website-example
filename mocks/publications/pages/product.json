@@ -1,0 +1,155 @@
+{
+  "id": 21801,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21801,
+    "contentType": "page",
+    "documentType": "page",
+    "layout": "page",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {},
+  "content": [
+    {
+      "identifier": "livingdocssite.page-head",
+      "id": "doc-1dgcalr6l0",
+      "content": {
+        "title": "A Product For You",
+        "text": "If you have ambitious requirements and high expectations when it comes to layouting, editing and publishing content on the web, Livingdocs is your choice."
+      },
+      "styles": {
+        "pagehead-spacing": "m-pagehead--no-spacing"
+      }
+    },
+    {
+      "identifier": "livingdocssite.textimage",
+      "id": "doc-1dgcejvd70",
+      "content": {
+        "image": {
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image.svg"
+        },
+        "col1": "With Livingdocs you create and publish beautiful content efficiently in an intuitive and <em>highly scalable environment.</em>"
+      },
+      "styles": {
+        "textimage-cols": "m-textimage--single-col"
+      }
+    },
+    {
+      "identifier": "livingdocssite.videoshowcase",
+      "id": "doc-1dgcemq8g0",
+      "content": {
+        "iframe": "<img style='width: 150%; height: 150%; max-width: none; max-height: none; position: absolute; top: -25%; left: -25%;' src='https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-video.svg' />"
+      },
+      "data": {
+        "_iframeDirective": {
+          "_embedHandler": "iframe"
+        }
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcemqpe0",
+            "content": {
+              "title": "Workflow management",
+              "text": "Collaboration and workflows for large newsrooms"
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcemqpe1",
+            "content": {
+              "title": "Faster Editing",
+              "text": "Thanks to innovative component technology"
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcemqpe2",
+            "content": {
+              "title": "Multi-channel ready",
+              "text": "Scalable &amp; flexible data format"
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcengs10",
+            "content": {
+              "title": "Wysiwyg content creation",
+              "text": "Intuitive &amp; fast user experience"
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcenjap0",
+            "content": {
+              "title": "Customizable scope",
+              "text": "Well serviced &amp; supported"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.productchoice",
+      "id": "doc-1dgceqlk80",
+      "content": {
+        "icon1": {
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-1.svg"
+        },
+        "icon2": {
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-2.svg"
+        },
+        "title1": "Livingdocs Enterprise",
+        "text1": "Serve thousands of editors writing millions of documents for hundreds of publications in one of the most scalable content-creation solutions available.",
+        "title2": "Livingdocs Service",
+        "text2": "Profit from an affordable and service-ready publishing platform and build your own magazines, blogs or websites on top of it."
+      },
+      "containers": {
+        "button1": [
+          {
+            "identifier": "livingdocssite.buttonblock",
+            "id": "doc-1dgceqm800",
+            "content": {
+              "link": "/enterprise-21802",
+              "text": "Read More"
+            },
+            "styles": {
+              "buttonblock-type": "m-buttonblock--primary"
+            }
+          }
+        ],
+        "button2": [
+          {
+            "identifier": "livingdocssite.buttonblock",
+            "id": "doc-1dgceqm8g0",
+            "content": {
+              "link": "/service-21804",
+              "text": "Read More"
+            },
+            "styles": {
+              "buttonblock-type": "m-buttonblock--primary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.brandimage",
+      "id": "doc-1dgcev9ip0",
+      "content": {
+        "image": {
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
+        },
+        "text": "Livingdocs fits into existing systems like no other comparable software."
+      },
+      "styles": {
+        "brandimage-version": "m-brandimage--square"
+      }
+    }
+  ]
+}

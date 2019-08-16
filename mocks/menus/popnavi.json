@@ -25,13 +25,19 @@
     {
       "label": "Event",
       "type": "document",
-      "documentId": 21811,
+      "documentId": 21807,
       "nodes": []
     },
     {
       "label": "About Us",
       "type": "document",
-      "documentId": 21812,
+      "documentId": 21811,
+      "nodes": []
+    },
+    {
+      "label": "Product",
+      "type": "document",
+      "documentId": 21801,
       "nodes": []
     }
   ]
