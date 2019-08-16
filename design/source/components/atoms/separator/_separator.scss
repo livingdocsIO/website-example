@@ -3,7 +3,7 @@
   width: 100vw;
   margin-left: calc((100% - 100vw) / 2);
   margin-bottom: $space-xl;
-  border-top: 1px solid $color-blue;
+  border-top: 1px solid $color-orange;
 
   @include media-query (desktop) {
     width: $content-width-desktop-wide;
