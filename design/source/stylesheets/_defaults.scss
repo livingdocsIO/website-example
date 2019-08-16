@@ -37,6 +37,7 @@ $color-grey-ultralight:   #eaeae7;
 $color-black:             #000;
 $color-white:             #fff;
 $color-blue:              #00cedb;
+$color-blue-dark:         ($color-blue + $color-black) / 2;
 $color-blue-light:        #d9fdff;
 $color-orange:            #e8a200;
 $color-orange-light:      #fff8e8;
