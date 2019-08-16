@@ -1,6 +1,5 @@
 .a-memberportrait {
   @extend %absolute-stretch;
-  filter: grayscale(1) contrast(1.2) brightness(1);
   background-size: cover;
   background-position: center center;
 }
