@@ -15,6 +15,12 @@
       "type": "document",
       "documentId": 21805,
       "nodes": []
+    },
+    {
+      "label": "NZZ",
+      "type": "document",
+      "documentId": 21810,
+      "nodes": []
     }
   ]
 }
