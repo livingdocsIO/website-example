@@ -29,11 +29,7 @@
 
   &__topline {
     @extend %font-xxl;
-    color: $color-blue;
-
-    &::after {
-      content: ' /';
-    }
+    color: $color-orange;
   }
 
   &__title {
@@ -64,5 +60,3 @@
     }
   }
 }
-
-@import 'editor';

@@ -18,7 +18,6 @@
   &__caption {
     @extend %font-s;
     margin-top: $space-s / 2;
-    color: $color-grey-light;
   }
 
   @include media-query (tablet) {
