@@ -1,12 +1,18 @@
 @font-face {
-  font-family: Akzidenz-Grotesk-Next;
-  src: url('../assets/fonts/AGNextMedium.otf');
+  font-family: Quicksand;
+  src: url('../assets/fonts/Quicksand-SemiBold.ttf');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: Akzidenz-Grotesk-Next;
-  src: url('../assets/fonts/AGNextRegular.otf');
+  font-family: Open-Sans;
+  src: url('../assets/fonts/OpenSans-SemiBold.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Open-Sans;
+  src: url('../assets/fonts/OpenSans-Regular.ttf');
   font-weight: 400;
 }
 
@@ -22,16 +28,20 @@ $breakpoint-desktop: 1240px;
   }
 }
 
-$color-black-deep:        #0a040b;
-$color-black:             #2c242e;
-$color-grey-dark:         #3a2f3c;
+/* old colors neexd to be removed  ==> */
 $color-grey-mid:          #514853;
 $color-grey-light:        #9f9e97;
 $color-grey-ultralight:   #eaeae7;
+/* <== old colors neexd to be removed */
+
+$color-black:             #000;
 $color-white:             #fff;
-$color-green:             #29b96f;
+$color-blue:              #00cedb;
+$color-blue-light:        #d9fdff;
+$color-orange:            #e8a200;
+$color-orange-light:      #fff8e8;
 $color-shadow:            rgba($color-black, .1);
-$color-shadow--highlight: rgba($color-green, .3);
+$color-shadow--highlight: rgba($color-blue, .3);
 
 $space-s:   10px;
 $space-m:   20px;
@@ -58,71 +68,73 @@ $z-cookieconsent: 5;
 $transition-time: 250ms;
 
 %font-base {
-  font-family: Akzidenz-Grotesk-Next;
+  font-family: Open-Sans;
   font-style: normal;
   font-weight: normal;
 }
 
 %font-xxl {
   @extend %font-base;
+  font-family: Quicksand;
   font-weight: 500;
   font-size: 26px;
   @include media-query (tablet) {
     font-size: 40px;
   }
-  line-height: 125%;
+  line-height: 110%;
 }
 
 %font-xl {
   @extend %font-base;
+  font-family: Quicksand;
   font-weight: 500;
   font-size: 24px;
   @include media-query (tablet) {
     font-size: 30px;
   }
-  line-height: 130%;
+  line-height: 120%;
 }
 
 %font-l {
-  @extend %font-base;
-  font-weight: 500;
-  font-size: 20px;
-  @include media-query (tablet) {
-    font-size: 22px;
-  }
-  line-height: 135%;
-}
-
-%font-speciallead {
-  @extend %font-base;
-  font-weight: 500;
-  font-size: 16px;
-  @include media-query (tablet) {
-    font-size: 22px;
-  }
-  line-height: 135%;
-}
-
-%font-m {
   @extend %font-base;
   font-weight: 500;
   font-size: 16px;
   @include media-query (tablet) {
     font-size: 18px;
   }
-  line-height: 140%;
+  line-height: 150%;
+}
+
+%font-speciallead {
+  @extend %font-base;
+  font-weight: 500;
+  font-size: 14px;
+  @include media-query (tablet) {
+    font-size: 18px;
+  }
+  line-height: 150%;
+}
+
+%font-m {
+  @extend %font-base;
+  font-weight: 500;
+  font-size: 14px;
+  @include media-query (tablet) {
+    font-size: 16px;
+  }
+  line-height: 150%;
 }
 
 %font-s {
   @extend %font-base;
-  font-size: 16px;
-  line-height: 140%;
+  font-size: 14px;
+  line-height: 150%;
 }
 
 %font-xs {
   @extend %font-base;
-  font-size: 12px;
-  line-height: 140%;
+  font-size: 10px;
+  line-height: 150%;
 }
 
 %viewport-width {
@@ -143,7 +155,7 @@ $transition-time: 250ms;
 %link {
   color: inherit;
   text-decoration: none;
-  border-bottom: 1px dashed $color-green;
+  border-bottom: 1px dashed $color-blue;
 
   &:hover {
     border-bottom-color: $color-black;
