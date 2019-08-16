@@ -1,0 +1,430 @@
+{
+  "id": 21811,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21811,
+    "contentType": "regular",
+    "documentType": "article",
+    "layout": "regular",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {
+    "title": "Re-thinking newspaper workflows",
+    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
+    "publishDate": "2019-07-22T08:00:51.674Z",
+    "dependencies": {}
+  },
+  "content": [
+    {
+      "identifier": "livingdocssite.article-head",
+      "id": "doc-1dgcb2nj40",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/6377-fee-4-1-c-0-c-4-a-00-83-f-0-d-96190413-e-6-a.jpg?id=MQkvMjAxOS83LzIzLzk1ZDRlM2FjLWFjYzctNGJlZS1hZDQ3LWRmZjBiNGRmMGIyNC5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/6377-fee-4-1-c-0-c-4-a-00-83-f-0-d-96190413-e-6-a.jpg?id=MQkvMjAxOS83LzIzLzk1ZDRlM2FjLWFjYzctNGJlZS1hZDQ3LWRmZjBiNGRmMGIyNC5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 1024,
+          "height": 816,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "topline": "Events",
+        "title": "Meet Livingdocs",
+        "text": "Get to know Livingdocs and our team during various events inside and outside of our offices."
+      }
+    },
+    {
+      "identifier": "livingdocssite.event",
+      "id": "doc-1dgd0jngo0",
+      "content": {
+        "logo": {
+          "url": "https://server.livingdocs.io/api/v1/images/logo-desk-net.svg?id=MQkvMjAxOS83LzIzL2NlMGVjZTgwLWMwOWQtNDA1YS1iZWRiLWQ5MGQ4ODk2NzdjNi5zdmcJNDg1",
+          "width": 60,
+          "height": 9,
+          "mimeType": "image/svg+xml"
+        },
+        "date": "15. - 16.5.2019",
+        "place": "HAMBURG",
+        "title": "Desk-Net Editorial Days",
+        "text": "We will be attending the DESK-NET Editorial Days on May 15 &amp; 16 in Hamburg this year and are looking forward to learning more about aspects of modern editorial management and to see how DESK-NET will continue in the future. Excitingly, we will give you quick intro to Livingdocs and an enthralling new project. So we really hope to see many of you there and to connect!<br><br>If you don't have your ticket yet, but would to join the Editorial Days, you can send an email at support@desk-net.com. See you then!"
+      },
+      "styles": {
+        "event-logoframe": "m-event--logocircle"
+      }
+    },
+    {
+      "identifier": "livingdocssite.montage",
+      "id": "doc-1dgd0mcsv0",
+      "content": {
+        "montageimage1": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/shutterstock-1242860542-x.jpg?id=MQkvMjAxOS83LzIyLzg0NDhhZGU3LWU2ZWEtNGY0NC1iOGYyLWRlZDA0NDFmMWE3Zi5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/shutterstock-1242860542-x.jpg?id=MQkvMjAxOS83LzIyLzg0NDhhZGU3LWU2ZWEtNGY0NC1iOGYyLWRlZDA0NDFmMWE3Zi5qcGVnCTQ4NQ%3D%3D&rect=0%2C44%2C1400%2C787&auto=format",
+          "width": 1400,
+          "height": 933,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 44,
+            "width": 1400,
+            "height": 787,
+            "name": "16:9"
+          }
+        }
+      },
+      "styles": {
+        "montage-type": "m-montage--single-pic"
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgd0ngjj0"
+    },
+    {
+      "identifier": "livingdocssite.event",
+      "id": "doc-1dgd0nl4d0",
+      "content": {
+        "logo": {
+          "url": "https://server.livingdocs.io/api/v1/images/logo-swiss-web.svg?id=MQkvMjAxOS83LzIzLzc5MGIzYjg5LWIwNTEtNGM0NC1iNDY0LTY3YzdjMWNlMzY1MS5zdmcJNDg1",
+          "width": 60,
+          "height": 60,
+          "mimeType": "image/svg+xml"
+        },
+        "date": "17.4.2019",
+        "place": "ZURICH",
+        "title": "Best of Swiss Web - Award Night",
+        "text": "Every spring, the Best of Swiss Web Award honors outstanding works commissioned by Swiss companies or created for Swiss companies, in which the use of web technologies plays a major role.<br><br>Livingdocs and its work for Swisscom TV was shortlisted in the categories \"Innovation\" and \"Usability\" and thus was part of the grand award night ceremony."
+      }
+    },
+    {
+      "identifier": "livingdocssite.montage",
+      "id": "doc-1dgd0ohk20",
+      "content": {
+        "montageimage1": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/ec-59-cded-5-bea-4466-8266-ffea-9-ed-018-fd.jpg?id=MQkvMjAxOS83LzIyLzlkYjYwMDhiLTE2OTItNDE1ZS1iZDljLWU1NDQzYzgyYTUwZC5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/ec-59-cded-5-bea-4466-8266-ffea-9-ed-018-fd.jpg?id=MQkvMjAxOS83LzIyLzlkYjYwMDhiLTE2OTItNDE1ZS1iZDljLWU1NDQzYzgyYTUwZC5qcGVnCTQ4NQ%3D%3D&rect=0%2C86%2C1024%2C575&auto=format",
+          "width": 1024,
+          "height": 768,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 86,
+            "width": 1024,
+            "height": 575,
+            "name": "16:9"
+          }
+        }
+      },
+      "styles": {
+        "montage-type": "m-montage--single-pic"
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgd0tt3a0"
+    },
+    {
+      "identifier": "livingdocssite.event",
+      "id": "doc-1dgd0u8250",
+      "content": {
+        "logo": {
+          "url": "https://server.livingdocs.io/api/v1/images/logo-meetup.svg?id=MQkvMjAxOS83LzIzLzA1ZTg3MDg4LTc1M2YtNDc5Ny1hNTRhLWFkYjE4OTZhOTA0Ny5zdmcJNDg1",
+          "width": 60,
+          "height": 22,
+          "mimeType": "image/svg+xml"
+        },
+        "date": "12.3.2019",
+        "place": "ZURICH",
+        "title": "Living Talk # 2 | Green Data Center",
+        "text": "Traditional data centers are known for their energy waste. Data Center Light is a project to build real green, sustainable and modern data centers. The economic and geographical conditions of Canton Glarus allowed us to build a one of a kind data center that uses neither grey energy for construction, nor energy for cooling. On top of that all energy it actually uses comes from local, renewable energy sources.<br><br>Data Center Light evolved from simple data centers to a blueprint project that can enable country sides to regain economic power as well as attracting skilled workers.<br><br>Speaker of this meetup was Nico Schottelius, CEO of ungleich glarus AG, founder of the co-working space Digital Glarus and the brain behind Data Center Light."
+      },
+      "styles": {
+        "event-logoframe": "m-event--logocircle"
+      }
+    },
+    {
+      "identifier": "livingdocssite.controlroom",
+      "id": "doc-1dgd0v7050",
+      "content": {
+        "controlroomimage1": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/9-b-7781-fb-fc-55-46-ed-aefd-0368207198-b-5.jpg?id=MQkvMjAxOS83LzIyLzA0YTE2MWY5LWI5MjYtNGE2Yi1hNWZkLTdjMjkxOTc3OWI4Yy5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/9-b-7781-fb-fc-55-46-ed-aefd-0368207198-b-5.jpg?id=MQkvMjAxOS83LzIyLzA0YTE2MWY5LWI5MjYtNGE2Yi1hNWZkLTdjMjkxOTc3OWI4Yy5qcGVnCTQ4NQ%3D%3D&rect=0%2C0%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 576,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "controlroomimage2": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/77-ccf-3-b-1-c-3-b-2-4899-86-d-6-5-f-8685603520.jpg?id=MQkvMjAxOS83LzIyL2RmYzU1OGZlLTgzMGYtNDlhOS04NTJmLTU0NmY0ODVjNmZiOS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/77-ccf-3-b-1-c-3-b-2-4899-86-d-6-5-f-8685603520.jpg?id=MQkvMjAxOS83LzIyL2RmYzU1OGZlLTgzMGYtNDlhOS04NTJmLTU0NmY0ODVjNmZiOS5qcGVnCTQ4NQ%3D%3D&rect=0%2C0%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 576,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "controlroomimage3": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/d-4-b-857-e-7-343-e-41-c-9-896-e-f-4-aea-9-a-75-e-97.jpg?id=MQkvMjAxOS83LzIyLzU4ZGQwNjA2LTJiMzUtNGYwOC05OWVjLTI3NGJmNWNmMzgxNy5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/d-4-b-857-e-7-343-e-41-c-9-896-e-f-4-aea-9-a-75-e-97.jpg?id=MQkvMjAxOS83LzIyLzU4ZGQwNjA2LTJiMzUtNGYwOC05OWVjLTI3NGJmNWNmMzgxNy5qcGVnCTQ4NQ%3D%3D&rect=0%2C0%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 576,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "controlroomimage4": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/d-86602-a-2-669-d-4004-acca-2098-ffdff-8-d-3.jpg?id=MQkvMjAxOS83LzIyL2UyZmFkMjE5LTBiYzUtNGM5MC1hMzExLWVkYjJmOWFhYWVlYi5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/d-86602-a-2-669-d-4004-acca-2098-ffdff-8-d-3.jpg?id=MQkvMjAxOS83LzIyL2UyZmFkMjE5LTBiYzUtNGM5MC1hMzExLWVkYjJmOWFhYWVlYi5qcGVnCTQ4NQ%3D%3D&rect=0%2C0%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 576,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "iframe": "<div class=\"responsiveContainer\" style=\"position: relative; height: 0px; overflow: hidden; max-width: 100%; padding-bottom: 55%;\"><iframe src=\"https://player.vimeo.com/video/325197110?title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div>"
+      },
+      "data": {
+        "_iframeDirective": {
+          "_embedHandler": "iframe"
+        }
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgd13gq50"
+    },
+    {
+      "identifier": "livingdocssite.event",
+      "id": "doc-1dgd13rp30",
+      "content": {
+        "logo": {
+          "url": "https://server.livingdocs.io/api/v1/images/logo-meetup.svg?id=MQkvMjAxOS83LzIzL2JlNmVlN2I5LTllZDEtNGY3Ny04MTU2LTdlZTgzOTg5OTkxYy5zdmcJNDg1",
+          "width": 60,
+          "height": 22,
+          "mimeType": "image/svg+xml"
+        },
+        "date": "10.1.2019",
+        "place": "ZURICH",
+        "title": "Living Talk # 1 | Deep Learning",
+        "text": "Deep Learning has gained a lot of traction lately, in particular due to its huge successes in image recognition. At the core it’s still neural networks, which exists for over 50 years now. But recent progresses in the models and larger datasets have brought it one step closer to its original goal: Artificial Intelligence.<br><br>In this meetup we learned about the fundamentals of deep learning including a basic understanding of AI-driven products, the codes behind it and what it can ACTUALLY do for you (and what it cannot do)."
+      },
+      "styles": {
+        "event-logoframe": "m-event--logocircle"
+      }
+    },
+    {
+      "identifier": "livingdocssite.controlroom",
+      "id": "doc-1dgd152660",
+      "content": {
+        "controlroomimage1": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/f-3-d-0-dd-0-b-9-a-72-4-b-23-a-9-fb-fb-107-fa-43-b-8-b-kopie.jpg?id=MQkvMjAxOS83LzIyL2Q0ODg2YzJkLTMwMjYtNGRkMS05MmU3LWY2YzM2NTM1MzY0ZS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/f-3-d-0-dd-0-b-9-a-72-4-b-23-a-9-fb-fb-107-fa-43-b-8-b-kopie.jpg?id=MQkvMjAxOS83LzIyL2Q0ODg2YzJkLTMwMjYtNGRkMS05MmU3LWY2YzM2NTM1MzY0ZS5qcGVnCTQ4NQ%3D%3D&rect=0%2C96%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 768,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 96,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "controlroomimage2": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/da-34300-c-a-92-c-480-d-bbee-3-a-94-d-7-a-85-ed-0-kopie.jpg?id=MQkvMjAxOS83LzIyL2NhMzExZjhhLTg1ZGYtNDQxOC1hZTlmLTBhODM3NDUyNGEzNS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/da-34300-c-a-92-c-480-d-bbee-3-a-94-d-7-a-85-ed-0-kopie.jpg?id=MQkvMjAxOS83LzIyL2NhMzExZjhhLTg1ZGYtNDQxOC1hZTlmLTBhODM3NDUyNGEzNS5qcGVnCTQ4NQ%3D%3D&rect=0%2C96%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 768,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 96,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "controlroomimage3": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/79-a-7273-b-3-cc-2-4-afe-956-e-d-97716-be-2539-kopie.jpg?id=MQkvMjAxOS83LzIyLzg4MDU3Y2JlLTJhY2MtNDMyYS05ZGNjLTI4ZTc3YTVlMDc5NC5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/79-a-7273-b-3-cc-2-4-afe-956-e-d-97716-be-2539-kopie.jpg?id=MQkvMjAxOS83LzIyLzg4MDU3Y2JlLTJhY2MtNDMyYS05ZGNjLTI4ZTc3YTVlMDc5NC5qcGVnCTQ4NQ%3D%3D&rect=0%2C96%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 768,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 96,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "controlroomimage4": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/9-e-669-a-39-66-ce-413-c-bfdf-269-a-64-bbe-26-c.jpg?id=MQkvMjAxOS83LzIyLzhmYzQ3MmRkLTE4MTAtNDhlZi1hYTBiLWVlYmIwYWM5ZWVjYi5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/9-e-669-a-39-66-ce-413-c-bfdf-269-a-64-bbe-26-c.jpg?id=MQkvMjAxOS83LzIyLzhmYzQ3MmRkLTE4MTAtNDhlZi1hYTBiLWVlYmIwYWM5ZWVjYi5qcGVnCTQ4NQ%3D%3D&rect=0%2C96%2C1024%2C576&auto=format",
+          "width": 1024,
+          "height": 768,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 96,
+            "width": 1024,
+            "height": 576,
+            "name": "16:9"
+          }
+        },
+        "iframe": "<div class=\"responsiveContainer\" style=\"position: relative; height: 0px; overflow: hidden; max-width: 100%; padding-bottom: 55%;\"><iframe src=\"https://player.vimeo.com/video/313121234?title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"\" style=\"position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div>"
+      },
+      "data": {
+        "_iframeDirective": {
+          "_embedHandler": "iframe"
+        }
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgd1b7r80"
+    },
+    {
+      "identifier": "livingdocssite.event",
+      "id": "doc-1dgd1bbr70",
+      "content": {
+        "logo": {
+          "url": "https://server.livingdocs.io/api/v1/images/logo-ifra.svg?id=MQkvMjAxOS83LzIzLzIyYjMxYzY2LTFiNmUtNDNiZC05YjNlLTU4ZjUxY2Y5ZmRiYy5zdmcJNDg1",
+          "width": 60,
+          "height": 51,
+          "mimeType": "image/svg+xml"
+        },
+        "date": "9. - 11.10.2018",
+        "place": "BERLIN",
+        "title": "IFRA / DCX"
+      }
+    },
+    {
+      "identifier": "livingdocssite.montage",
+      "id": "doc-1dgd1c7cv0",
+      "content": {
+        "montageimage1": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/5-b-33-b-9-b-8-632-a-49-d-9-a-10-f-7-f-0-c-9785-df-4-a.jpg?id=MQkvMjAxOS83LzIyLzliNTMwYzVlLTI5YTgtNDM4ZC1hMmM0LTQ2ZjE4YWNkYmZjYS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/5-b-33-b-9-b-8-632-a-49-d-9-a-10-f-7-f-0-c-9785-df-4-a.jpg?id=MQkvMjAxOS83LzIyLzliNTMwYzVlLTI5YTgtNDM4ZC1hMmM0LTQ2ZjE4YWNkYmZjYS5qcGVnCTQ4NQ%3D%3D&rect=0%2C19%2C1024%2C575&auto=format",
+          "width": 1024,
+          "height": 683,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 19,
+            "width": 1024,
+            "height": 575,
+            "name": "16:9"
+          }
+        }
+      },
+      "styles": {
+        "montage-type": "m-montage--single-pic"
+      }
+    },
+    {
+      "identifier": "livingdocssite.separator",
+      "id": "doc-1dgd1dr680"
+    },
+    {
+      "identifier": "livingdocssite.event",
+      "id": "doc-1dgd1e1ev0",
+      "content": {
+        "logo": {
+          "url": "https://server.livingdocs.io/api/v1/images/logo-dmexco.svg?id=MQkvMjAxOS83LzIzL2YxM2JmZDFiLTU2OWQtNGZhOS04MmI0LTA0MmM3ZmNjYjU3OS5zdmcJNDg1",
+          "width": 60,
+          "height": 42,
+          "mimeType": "image/svg+xml"
+        },
+        "date": "12., 13.9.2018",
+        "place": "COLOGNE",
+        "title": "DMEXCO"
+      }
+    },
+    {
+      "identifier": "livingdocssite.montage",
+      "id": "doc-1dgd1en1f0",
+      "content": {
+        "montageimage1": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/bd-2761-d-9-e-54-e-4-ea-7-a-2-cf-639-f-323-c-3772.jpeg?id=MQkvMjAxOS83LzIyLzE5YTkzZDY2LWUzMTEtNDExYi04OGJkLThlMWJhYTA5ZTc0Mi5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/bd-2761-d-9-e-54-e-4-ea-7-a-2-cf-639-f-323-c-3772.jpeg?id=MQkvMjAxOS83LzIyLzE5YTkzZDY2LWUzMTEtNDExYi04OGJkLThlMWJhYTA5ZTc0Mi5qcGVnCTQ4NQ%3D%3D&rect=0%2C72%2C1024%2C575&auto=format",
+          "width": 1024,
+          "height": 683,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 72,
+            "width": 1024,
+            "height": 575,
+            "name": "16:9"
+          }
+        },
+        "montageimage2": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/b-5-c-18346-5170-4-b-62-9-e-31-c-8203604-f-396.jpeg?id=MQkvMjAxOS83LzIyL2FhMTk2NmRmLWQ0ZmUtNGU4Mi1iNDM5LTU3ZTAzMzMwOTQ0YS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/b-5-c-18346-5170-4-b-62-9-e-31-c-8203604-f-396.jpeg?id=MQkvMjAxOS83LzIyL2FhMTk2NmRmLWQ0ZmUtNGU4Mi1iNDM5LTU3ZTAzMzMwOTQ0YS5qcGVnCTQ4NQ%3D%3D&rect=0%2C65%2C1024%2C575&auto=format",
+          "width": 1024,
+          "height": 682,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 65,
+            "width": 1024,
+            "height": 575,
+            "name": "16:9"
+          }
+        },
+        "montageimage3": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/fb-1-c-6154-577-c-412-d-925-c-5-ced-618-f-201-f.jpeg?id=MQkvMjAxOS83LzIyL2IwMjA2YTdjLWY5MTItNGY0ZS05YWVhLWVhZTFlMDlkNmJkYy5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/fb-1-c-6154-577-c-412-d-925-c-5-ced-618-f-201-f.jpeg?id=MQkvMjAxOS83LzIyL2IwMjA2YTdjLWY5MTItNGY0ZS05YWVhLWVhZTFlMDlkNmJkYy5qcGVnCTQ4NQ%3D%3D&rect=0%2C39%2C1024%2C575&auto=format",
+          "width": 1024,
+          "height": 682,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy",
+          "crop": {
+            "x": 0,
+            "y": 39,
+            "width": 1024,
+            "height": 575,
+            "name": "16:9"
+          }
+        }
+      }
+    }
+  ]
+}
