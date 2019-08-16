@@ -13,9 +13,9 @@
   }
 
   &__image {
-    @extend %blackandwhite;
     width: calc(100vw - #{$space-xl});
     height: calc(100vw - #{$space-xl});
+    position: relative;
     background-size: cover;
     background-position: center center;
     margin-bottom: $space-xl;

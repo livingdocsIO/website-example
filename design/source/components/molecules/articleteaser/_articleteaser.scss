@@ -5,7 +5,6 @@
   margin-bottom: $space-xl;
 
   &__image {
-    @extend %blackandwhite;
     height: 3 * $space-l;
     margin-left: calc((100% - 100vw) / 2);
     margin-right: calc((100% - 100vw) / 2);

@@ -34,18 +34,6 @@
         }
       ]
     },
-    "controlroom-colors": {
-      "label": "Image Colors",
-      "type": "select",
-      "options": [
-        {
-          "caption": "Original"
-        }, {
-          "caption": "Black and White",
-          "value": "m-controlroom--blackandwhite"
-        }
-      ]
-    },
     "controlroom-border": {
       "label": "Image Borders",
       "type": "select",
@@ -70,18 +58,6 @@
         }, {
           "caption": "Larger",
           "value": "m-montage--larger"
-        }
-      ]
-    },
-    "montage-colors": {
-      "label": "Image Colors",
-      "type": "select",
-      "options": [
-        {
-          "caption": "Original"
-        }, {
-          "caption": "Black and White",
-          "value": "m-montage--blackandwhite"
         }
       ]
     },
@@ -136,18 +112,6 @@
         }, {
           "caption": "Larger",
           "value": "m-video--larger"
-        }
-      ]
-    },
-    "image-colors": {
-      "label": "Colors",
-      "type": "select",
-      "options": [
-        {
-          "caption": "Original"
-        }, {
-          "caption": "Black and White",
-          "value": "m-image--blackandwhite"
         }
       ]
     },
