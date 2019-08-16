@@ -46,6 +46,10 @@
       float: left;
       margin-right: $space-m;
     }
+
+    img {
+      height: 2 * $space-s;
+    }
   }
 
   @include media-query (tablet) {
