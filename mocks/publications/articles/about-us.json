@@ -24,12 +24,7 @@
       "id": "doc-1dgcb5nd30",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/photo-1.jpg?id=MQkvMjAxOS83LzIzL2E3MTk4YzIxLTQxMzEtNGEzMS05NWYyLTA1MGE5MDdhMzY0Yy5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/photo-1.jpg?id=MQkvMjAxOS83LzIzL2E3MTk4YzIxLTQxMzEtNGEzMS05NWYyLTA1MGE5MDdhMzY0Yy5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 1627,
-          "height": 915,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "About Us",
         "title": "Meet the Team",
@@ -104,12 +99,7 @@
             "id": "doc-1dgcitss50",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/gabriel-hase-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzY3Y2FlZWUwLWJkYmMtNDA0NS1iNzk3LTc0ODkzYTkzMTY4ZC5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/gabriel-hase-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzY3Y2FlZWUwLWJkYmMtNDA0NS1iNzk3LTc0ODkzYTkzMTY4ZC5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Gabriel Hase",
               "function": "Managing Director &amp; Co-Founder",
@@ -124,12 +114,7 @@
             "id": "doc-1dgd2vh8t0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/lukas-peyer-laughing-thumb.jpg?id=MQkvMjAxOS83LzIzLzU0NTZiODY1LTg1NjUtNDQzMC1hYzYzLTZiMzY1NGQ5MGUwMC5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/lukas-peyer-laughing-thumb.jpg?id=MQkvMjAxOS83LzIzLzU0NTZiODY1LTg1NjUtNDQzMC1hYzYzLTZiMzY1NGQ5MGUwMC5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Lukas Peyer",
               "function": "Technical Director &amp; Co-Founder",
@@ -145,12 +130,7 @@
             "id": "doc-1dgd2viri0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/celine-tykve-mid-1-thumb.jpg?id=MQkvMjAxOS83LzIzLzUxYzdkNDIzLWU4OTAtNDVhOC1iYzViLTQ4MDFiODJiM2E3YS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/celine-tykve-mid-1-thumb.jpg?id=MQkvMjAxOS83LzIzLzUxYzdkNDIzLWU4OTAtNDVhOC1iYzViLTQ4MDFiODJiM2E3YS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Céline Tykve",
               "function": "Head of Sales and Social Media",
@@ -167,12 +147,7 @@
             "id": "doc-1dgcitss60",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/lukas-bunger-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzlmYjRmZDBiLTE5ZDYtNDIyOS1iNzE4LTE3Mzk3YWIyOGIxZS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/lukas-bunger-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzlmYjRmZDBiLTE5ZDYtNDIyOS1iNzE4LTE3Mzk3YWIyOGIxZS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Lukas Bünger",
               "function": "Senior Software Engineer",
@@ -187,12 +162,7 @@
             "id": "doc-1dgd2vnvn0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/aj-hak-mid-2-thumb.jpg?id=MQkvMjAxOS83LzIzL2ZjYTY1ZjE0LWExMmUtNDhlNy05OGU4LWM5ZGE2ZWQ0NzFmYS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/aj-hak-mid-2-thumb.jpg?id=MQkvMjAxOS83LzIzL2ZjYTY1ZjE0LWExMmUtNDhlNy05OGU4LWM5ZGE2ZWQ0NzFmYS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Adrian-John Hak",
               "function": "Head of Marketing and Communications",
@@ -208,12 +178,7 @@
             "id": "doc-1dgd2vshl0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/marc-bachmann-close-thumb.jpg?id=MQkvMjAxOS83LzIzL2FkMGMzM2NkLWIxZGEtNGJmZC05OWQ2LWRkOGYzMTM4NjM3YS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/marc-bachmann-close-thumb.jpg?id=MQkvMjAxOS83LzIzL2FkMGMzM2NkLWIxZGEtNGJmZC05OWQ2LWRkOGYzMTM4NjM3YS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Marc Bachmann",
               "function": "Head of Softare Engineering &amp; Partner",
@@ -228,12 +193,7 @@
             "id": "doc-1dgd301t60",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/ralph-meier-mid-thumb.jpg?id=MQkvMjAxOS83LzIzLzM0OTc3N2M3LWU4OGQtNDQ3ZC04MTY3LWE4ZWY3MGQ2ZGIyMS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/ralph-meier-mid-thumb.jpg?id=MQkvMjAxOS83LzIzLzM0OTc3N2M3LWU4OGQtNDQ3ZC04MTY3LWE4ZWY3MGQ2ZGIyMS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Ralph Meier",
               "function": "Data Protection Officer &amp; Software Architect",
@@ -250,12 +210,7 @@
             "id": "doc-1dgd303qn0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/okan-sahin-mid-1-thumb.jpg?id=MQkvMjAxOS83LzIzLzM4YTA0YzYxLTNmYmEtNDQyOS04MzM1LTE1NjExMjE2ODYwMS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/okan-sahin-mid-1-thumb.jpg?id=MQkvMjAxOS83LzIzLzM4YTA0YzYxLTNmYmEtNDQyOS04MzM1LTE1NjExMjE2ODYwMS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Okan Sahin",
               "function": "Junior Software Engineer",
@@ -272,12 +227,7 @@
             "id": "doc-1dgcitss61",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/genc-rashiti-park-mid-thumb.jpg?id=MQkvMjAxOS83LzIzL2ZkMjdjMGY3LTdmZjItNDU0ZS04MzU4LWJhNjAxY2UyNGU0YS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/genc-rashiti-park-mid-thumb.jpg?id=MQkvMjAxOS83LzIzL2ZkMjdjMGY3LTdmZjItNDU0ZS04MzU4LWJhNjAxY2UyNGU0YS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Genc Rashiti",
               "function": "Head of Design &amp; Partner",
@@ -294,12 +244,7 @@
             "id": "doc-1dgd30qcg0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/meinrad-andermatt-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzA4MTJiZWJjLTVlMTUtNGMyZi1hMzM5LWY5N2ZkYzQ1YjU0ZS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/meinrad-andermatt-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzA4MTJiZWJjLTVlMTUtNGMyZi1hMzM5LWY5N2ZkYzQ1YjU0ZS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Meinrad Andermatt",
               "function": "Senior Software Engineer",
@@ -314,12 +259,7 @@
             "id": "doc-1dgcitss62",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/georgi-mitev-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzZiODdkYmQxLWNjNGUtNGQyMi1hMTJjLWQ4MWQ3OWU4NmYzNy5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/georgi-mitev-close-thumb.jpg?id=MQkvMjAxOS83LzIzLzZiODdkYmQxLWNjNGUtNGQyMi1hMTJjLWQ4MWQ3OWU4NmYzNy5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Georgi Mitev",
               "function": "Head Project Management",
@@ -335,12 +275,7 @@
             "id": "doc-1dgd315ip0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/sven-ruef-mid-thumb.jpg?id=MQkvMjAxOS83LzIzLzZhNDZjNjRhLWY4OTItNGUyMS04ZGMxLTg3OTg3N2UzNTg5NS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/sven-ruef-mid-thumb.jpg?id=MQkvMjAxOS83LzIzLzZhNDZjNjRhLWY4OTItNGUyMS04ZGMxLTg3OTg3N2UzNTg5NS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1200,
-                "height": 800,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "name": "Sven Rüf",
               "function": "Head of Interaction Design",

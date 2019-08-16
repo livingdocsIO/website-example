@@ -26,12 +26,7 @@
         "link": "https://edit.livingdocs.io/signup?utm_source=website&utm_medium=button&utm_campaign=use_case_landingpage",
         "buttontext": "TRY OUT NOW",
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/superhero-screenshot.jpg?id=MQkvMjAxOS83LzIyL2UzMmNhMTZiLWNlODItNDUzZi04ZTA2LTE4MzlhOTk2ZjU4YS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/superhero-screenshot.jpg?id=MQkvMjAxOS83LzIyL2UzMmNhMTZiLWNlODItNDUzZi04ZTA2LTE4MzlhOTk2ZjU4YS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 2048,
-          "height": 1270,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-screenshot.svg"
         }
       }
     },
@@ -120,146 +115,25 @@
             "id": "doc-1dgccng2f0",
             "content": {
               "icon": {
-                "url": "https://server.livingdocs.io/api/v1/images/collaboration.svg?id=MQkvMjAxOS83LzIyL2Q5ZWIzMDE5LTQ4YWMtNDczZC04MzIzLTFiNzM5MGM5ZmI4YS5zdmcJNDg1",
-                "width": 37,
-                "height": 33,
-                "mimeType": "image/svg+xml"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
               },
               "name": "Collaboration at the Core",
               "descriptionmain": "Edit everything inline in your HTML page. What you see is what you get. Simply split the Livingdocs screen to see your content in different device-sizes in real-time – no matter what target platform you are writing for.",
               "imagemain": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/collaboration.jpg?id=MQkvMjAxOS83LzIyLzJiZTcwZWI2LTIxYjMtNDBiMy04MmRkLWY4OTY5ZGE4YjBmMy5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/collaboration.jpg?id=MQkvMjAxOS83LzIyLzJiZTcwZWI2LTIxYjMtNDBiMy04MmRkLWY4OTY5ZGE4YjBmMy5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1550,
-                "height": 912,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-screenshot.svg"
               },
               "image1": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/components.jpg?id=MQkvMjAxOS83LzIyLzlhNmM2MmRlLWU0MDYtNGNhMC05NWQ5LTYxNThmNjIyZjQ4MC5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/components.jpg?id=MQkvMjAxOS83LzIyLzlhNmM2MmRlLWU0MDYtNGNhMC05NWQ5LTYxNThmNjIyZjQ4MC5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "description1": "Get creative with a large library of elements.",
               "image2": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/edit.jpg?id=MQkvMjAxOS83LzIyL2E4NDY1N2E1LTZjYjYtNGQ0NC1iYTUzLTk1NDU4MDRhNjQzZC5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/edit.jpg?id=MQkvMjAxOS83LzIyL2E4NDY1N2E1LTZjYjYtNGQ0NC1iYTUzLTk1NDU4MDRhNjQzZC5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "description2": "Change and style text while seeing the results.",
               "image3": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/comments.jpg?id=MQkvMjAxOS83LzIyL2I0NTExZWY2LTYxMmItNDdmNC05YTMwLTk4NmYxNTkzNTJhZC5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/comments.jpg?id=MQkvMjAxOS83LzIyL2I0NTExZWY2LTYxMmItNDdmNC05YTMwLTk4NmYxNTkzNTJhZC5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
               "description3": "Write comments and discuss about changes."
-            }
-          },
-          {
-            "identifier": "livingdocssite.featurelist-item",
-            "id": "doc-1dgccni6a0",
-            "content": {
-              "icon": {
-                "url": "https://server.livingdocs.io/api/v1/images/control.svg?id=MQkvMjAxOS83LzIyLzE3YjhkMjcwLTg2YWMtNDFmYS04Y2U5LWIwNDQzNTRhMjdlYS5zdmcJNDg1",
-                "width": 31,
-                "height": 30,
-                "mimeType": "image/svg+xml"
-              },
-              "name": "Layouts &amp; Rules at Your Control",
-              "descriptionmain": "Layout your pages intuitively with drag and drop. Automation, scheduling and rule sets allow you to run your site while you can concentrate on creating value.",
-              "imagemain": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/layouts.jpg?id=MQkvMjAxOS83LzIyL2UzNWZiMTMzLTRjMjQtNDJiYS05NGRmLTlhNGYzMmQzZWMzYy5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/layouts.jpg?id=MQkvMjAxOS83LzIyL2UzNWZiMTMzLTRjMjQtNDJiYS05NGRmLTlhNGYzMmQzZWMzYy5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1550,
-                "height": 912,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
-              },
-              "image1": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/projects.jpg?id=MQkvMjAxOS83LzIyLzg0MzcyNDIwLTE4YzEtNDg3Ny04NzQ3LTNiMTg1OGZiYWU1NS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/projects.jpg?id=MQkvMjAxOS83LzIyLzg0MzcyNDIwLTE4YzEtNDg3Ny04NzQ3LTNiMTg1OGZiYWU1NS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
-              },
-              "description1": "Manage multiple publications and channels from one place.",
-              "image2": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/menus.png?id=MQkvMjAxOS83LzI0LzdjMGUxYjRkLTYzZmMtNGIwNi05MmY3LTBiMDg4YzBmZDNmNC5wbmcJNDg1",
-                "url": "https://server.livingdocs.io/api/v1/images/menus.png?id=MQkvMjAxOS83LzI0LzdjMGUxYjRkLTYzZmMtNGIwNi05MmY3LTBiMDg4YzBmZDNmNC5wbmcJNDg1&auto=format",
-                "width": 1232,
-                "height": 1232,
-                "mimeType": "image/png",
-                "imageService": "liImageProxy"
-              },
-              "description2": "Intuitively build site navigations using drag and drop.",
-              "image3": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/languages.png?id=MQkvMjAxOS83LzI0L2VhNzc3MTczLTBjODQtNDZhMi04N2RjLTdlYmNkYTI5NzU3ZC5wbmcJNDg1",
-                "url": "https://server.livingdocs.io/api/v1/images/languages.png?id=MQkvMjAxOS83LzI0L2VhNzc3MTczLTBjODQtNDZhMi04N2RjLTdlYmNkYTI5NzU3ZC5wbmcJNDg1&auto=format",
-                "width": 1423,
-                "height": 1423,
-                "mimeType": "image/png",
-                "imageService": "liImageProxy"
-              },
-              "description3": "Offer your content in multiple languages and use translations."
-            }
-          },
-          {
-            "identifier": "livingdocssite.featurelist-item",
-            "id": "doc-1dgccnkv90",
-            "content": {
-              "icon": {
-                "url": "https://server.livingdocs.io/api/v1/images/assets.svg?id=MQkvMjAxOS83LzIyL2FmMjBlMWUwLTRmMzUtNDY2NS1hNTZjLTliMTBlY2UwMGE2Yi5zdmcJNDg1",
-                "width": 32,
-                "height": 28,
-                "mimeType": "image/svg+xml"
-              },
-              "name": "Smarter Assets Than Ever Before",
-              "descriptionmain": "Livingdocs stores all assets on the modern ElasticSearch search engine and scales to dozens of millions of images and articles. Machine Learning is used for smart tagging and to connect the dots in your content base.",
-              "imagemain": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/assets.jpg?id=MQkvMjAxOS83LzIyL2IzZWY5MmIyLTI1N2EtNGU4OS05Yjk5LTRjNmMwNTFiZDAwYi5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/assets.jpg?id=MQkvMjAxOS83LzIyL2IzZWY5MmIyLTI1N2EtNGU4OS05Yjk5LTRjNmMwNTFiZDAwYi5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 1550,
-                "height": 912,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
-              },
-              "image1": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/autotagging.jpg?id=MQkvMjAxOS83LzIyL2QwY2M2YzExLTk5M2MtNGFkOC05MzJkLTc0NWM2YTE4YzQ2Yy5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/autotagging.jpg?id=MQkvMjAxOS83LzIyL2QwY2M2YzExLTk5M2MtNGFkOC05MzJkLTc0NWM2YTE4YzQ2Yy5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
-              },
-              "description1": "Use image auto tagging and recommendations.",
-              "image2": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/crop.jpg?id=MQkvMjAxOS83LzIyLzVkNzkyNGU2LWYzMTEtNDlhMC1iMDlmLWU0MGU4YWE2MzI0Yy5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/crop.jpg?id=MQkvMjAxOS83LzIyLzVkNzkyNGU2LWYzMTEtNDlhMC1iMDlmLWU0MGU4YWE2MzI0Yy5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
-              },
-              "description2": "Crop and resize images to control the look of your page.",
-              "image3": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/aspect-ratio.jpg?id=MQkvMjAxOS83LzIyL2YwZGVjNmY4LWIzMWEtNDIwYS05NmJlLTE5YzNlNjZkNDBmZS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/aspect-ratio.jpg?id=MQkvMjAxOS83LzIyL2YwZGVjNmY4LWIzMWEtNDIwYS05NmJlLTE5YzNlNjZkNDBmZS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 735,
-                "height": 735,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
-              },
-              "description3": "Work with predefined aspect ratios for a consistent design."
             }
           },
           {
@@ -297,12 +171,7 @@
       "id": "doc-1dgce0e8g0",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/grafik-16.jpg?id=MQkvMjAxOS83LzIyLzc5M2FjYWE5LTlkMGMtNDM2OS04ZDMwLWNhNWI0N2YyNjlhZS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/grafik-16.jpg?id=MQkvMjAxOS83LzIyLzc5M2FjYWE5LTlkMGMtNDM2OS04ZDMwLWNhNWI0N2YyNjlhZS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 778,
-          "height": 437,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "text": "Livingdocs is built to integrate and interact with your existing environment."
       }
@@ -320,10 +189,7 @@
       "id": "doc-1dgce4vvm0",
       "content": {
         "icon": {
-          "url": "https://server.livingdocs.io/api/v1/images/newspaper.svg?id=MQkvMjAxOS83LzIyL2QyNTE1ZTZiLWY4YmEtNGNkNC1iNjMwLTA5OGU0Nzg1ZDY5OS5zdmcJNDg1",
-          "width": 37,
-          "height": 40,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-1.svg"
         },
         "title": "Traditional newspaper",
         "description": "NZZ is the oldest and most prestigous newspaper in Switzerland. It has a main brand online and in print, sunday edition, regional outlets and several smaller content products.",
@@ -340,54 +206,6 @@
       }
     },
     {
-      "identifier": "livingdocssite.testimonial",
-      "id": "doc-1dgce52mh0",
-      "content": {
-        "icon": {
-          "url": "https://server.livingdocs.io/api/v1/images/portal.svg?id=MQkvMjAxOS83LzIyLzhiNjhkYmU1LTc4MmUtNGMwNi04ZWRlLTk2YTg4NTE4YjgyNS5zdmcJNDg1",
-          "width": 40,
-          "height": 40,
-          "mimeType": "image/svg+xml"
-        },
-        "title": "News Portal",
-        "description": "Bluewin is the largest internet portal in Switzerland and second largest news site. It automatically imports 1000+ articles per day and has sophisticated rules to place and schedule content.",
-        "link": "/swisscom-21808",
-        "button": "SUCCESS STORY<br>",
-        "quote": "My newsroom works with thousands of documents every day. Thanks to Livingdocs this not only became a lot faster but also a lot more fun.",
-        "caption": "Cyrill Treptow, <br>Head of Portal at Bluewin",
-        "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/swisscom.svg?id=MQkvMjAxOS83LzIyL2NjM2E0NzA0LTJiMGYtNGRiZi04YzMwLWFhYzI2ODRiZWViOS5zdmcJNDg1",
-          "width": 27,
-          "height": 35,
-          "mimeType": "image/svg+xml"
-        }
-      }
-    },
-    {
-      "identifier": "livingdocssite.testimonial",
-      "id": "doc-1dgce54au0",
-      "content": {
-        "icon": {
-          "url": "https://server.livingdocs.io/api/v1/images/magazine.svg?id=MQkvMjAxOS83LzIyL2YwNTFkNjQyLWE5ZWQtNGZlMy05Y2I2LTFmZGZkMzYxMzc3ZC5zdmcJNDg1",
-          "width": 40,
-          "height": 37,
-          "mimeType": "image/svg+xml"
-        },
-        "title": "Magazine",
-        "description": "The Süddeutsche Zeitung Magazin is one of the most famous magazines in the german speaking world operating with a relatively small staff dedicated to producing visually appealing content.",
-        "link": "/sz-21809",
-        "button": "SUCCESS STORY<br>",
-        "quote": "It has never been easier to get the editorial team started on using a new CMS.",
-        "caption": "Judith Kampl, <br>Productmanager SZ-Magazin",
-        "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/sueddeutsche-zeitung.svg?id=MQkvMjAxOS83LzIyLzA5MTRjOGVmLWJiYjMtNGZlYi1hZjQwLWNkZjMzN2EyYmIwYS5zdmcJNDg1",
-          "width": 31,
-          "height": 21,
-          "mimeType": "image/svg+xml"
-        }
-      }
-    },
-    {
       "identifier": "livingdocssite.newsletter",
       "id": "doc-1dgce8j6j0",
       "content": {
@@ -399,12 +217,7 @@
       "id": "doc-1dgce952k0",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/shutterstock-1288959064.jpg?id=MQkvMjAxOS83LzIyLzhiYmQ5YzUwLTYwYTEtNDM3NS1hYWQ4LWE3NDc0M2QxODg0OS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/shutterstock-1288959064.jpg?id=MQkvMjAxOS83LzIyLzhiYmQ5YzUwLTYwYTEtNDM3NS1hYWQ4LWE3NDc0M2QxODg0OS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 1500,
-          "height": 1001,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "text": "Livingdocs is meant to let you find a productive place in an organically grown environment."
       },
