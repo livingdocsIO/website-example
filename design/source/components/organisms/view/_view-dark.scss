@@ -85,11 +85,7 @@
 
   .m-pagehead {
     color: $color-blue-light;
-
-    .a-pattern {
-      background-color: $color-blue;
-      filter: brightness(.2);
-    }
+    background-image: none;
   }
 
   .a-button {
