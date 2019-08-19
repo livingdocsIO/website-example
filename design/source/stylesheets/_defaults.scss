@@ -28,13 +28,10 @@ $breakpoint-desktop: 1240px;
   }
 }
 
-/* old colors neexd to be removed  ==> */
-$color-grey-mid:          #514853;
-$color-grey-light:        #9f9e97;
-$color-grey-ultralight:   #eaeae7;
-/* <== old colors neexd to be removed */
-
 $color-black:             #000;
+$color-grey-mid:          #555;
+$color-grey-light:        #999;
+$color-grey-ultralight:   #eee;
 $color-white:             #fff;
 $color-blue:              #00cedb;
 $color-blue-dark:         ($color-blue + $color-black) / 2;
@@ -108,9 +105,9 @@ $transition-time: 250ms;
 %font-speciallead {
   @extend %font-base;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   @include media-query (tablet) {
-    font-size: 18px;
+    font-size: 20px;
   }
   line-height: 150%;
 }
@@ -118,22 +115,22 @@ $transition-time: 250ms;
 %font-m {
   @extend %font-base;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   @include media-query (tablet) {
-    font-size: 16px;
+    font-size: 18px;
   }
   line-height: 150%;
 }
 
 %font-s {
   @extend %font-base;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 150%;
 }
 
 %font-xs {
   @extend %font-base;
-  font-size: 10px;
+  font-size: 12px;
   line-height: 150%;
 }
 
