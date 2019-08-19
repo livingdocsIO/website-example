@@ -12,12 +12,7 @@
       "version": "2.0.0"
     }
   },
-  "metadata": {
-    "title": "Re-thinking newspaper workflows",
-    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
-    "publishDate": "2019-07-22T08:00:51.674Z",
-    "dependencies": {}
-  },
+  "metadata": {},
   "content": [
     {
       "identifier": "livingdocssite.article-head",
@@ -27,8 +22,8 @@
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "Events",
-        "title": "Meet Livingdocs",
-        "text": "Get to know Livingdocs and our team during various events inside and outside of our offices."
+        "title": "Amet facilisis magna etiam tempor orci eu",
+        "text": "Eget egestas purus viverra accumsan in. Consequat mauris nunc congue nisi. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet."
       }
     },
     {
@@ -38,10 +33,10 @@
         "logo": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-3.svg"
         },
-        "date": "15. - 16.5.2019",
-        "place": "HAMBURG",
-        "title": "Desk-Net Editorial Days",
-        "text": "We will be attending the DESK-NET Editorial Days on May 15 &amp; 16 in Hamburg this year and are looking forward to learning more about aspects of modern editorial management and to see how DESK-NET will continue in the future. Excitingly, we will give you quick intro to Livingdocs and an enthralling new project. So we really hope to see many of you there and to connect!<br><br>If you don't have your ticket yet, but would to join the Editorial Days, you can send an email at support@desk-net.com. See you then!"
+        "date": "15. - 16.12.2019",
+        "place": "Birdswood",
+        "title": "LgO-Days",
+        "text": "Vitae congue eu consequat ac felis. Ultricies mi quis hendrerit dolor magna eget est. Elementum curabitur vitae nunc sed velit. Fermentum et sollicitudin ac orci phasellus egestas. Tempor orci dapibus ultrices in iaculis. Ut morbi tincidunt augue interdum velit euismod in pellentesque massa. Elit ut aliquam purus sit amet luctus venenatis lectus."
       },
       "styles": {
         "event-logoframe": "m-event--logocircle"
@@ -70,10 +65,10 @@
         "logo": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-1.svg"
         },
-        "date": "12.3.2019",
-        "place": "ZURICH",
-        "title": "Living Talk # 2 | Green Data Center",
-        "text": "Traditional data centers are known for their energy waste. Data Center Light is a project to build real green, sustainable and modern data centers. The economic and geographical conditions of Canton Glarus allowed us to build a one of a kind data center that uses neither grey energy for construction, nor energy for cooling. On top of that all energy it actually uses comes from local, renewable energy sources.<br><br>Data Center Light evolved from simple data centers to a blueprint project that can enable country sides to regain economic power as well as attracting skilled workers.<br><br>Speaker of this meetup was Nico Schottelius, CEO of ungleich glarus AG, founder of the co-working space Digital Glarus and the brain behind Data Center Light."
+        "date": "12.12.2019",
+        "place": "Nest",
+        "title": "M for Monday",
+        "text": "Aenean vel elit scelerisque mauris pellentesque pulvinar. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Blandit volutpat maecenas volutpat blandit aliquam etiam erat. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Faucibus scelerisque eleifend donec pretium vulputate. Elit ullamcorper dignissim cras tincidunt. Eget egestas purus viverra accumsan in nisl nisi. Amet facilisis magna etiam tempor orci eu. Eget egestas purus viverra accumsan in. Consequat mauris nunc congue nisi."
       },
       "styles": {
         "event-logoframe": "m-event--logocircle"
@@ -114,9 +109,12 @@
         "logo": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-8.svg"
         },
-        "date": "9. - 11.10.2018",
-        "place": "BERLIN",
-        "title": "IFRA / DCX"
+        "date": "9. - 11.10.2019",
+        "place": "Skytown",
+        "title": "R-Days"
+      },
+      "styles": {
+        "event-logoframe": "m-event--logotriangle"
       }
     },
     {
@@ -142,9 +140,9 @@
         "logo": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-5.svg"
         },
-        "date": "12., 13.9.2018",
-        "place": "COLOGNE",
-        "title": "DMEXCO"
+        "date": "12., 13.9.2019",
+        "place": "Craneitch",
+        "title": "Meet Karl's Kompany"
       }
     },
     {

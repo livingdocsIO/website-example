@@ -18,8 +18,8 @@
       "identifier": "livingdocssite.page-head",
       "id": "doc-1dgcalr6l0",
       "content": {
-        "title": "A Product For You",
-        "text": "If you have ambitious requirements and high expectations when it comes to layouting, editing and publishing content on the web, Livingdocs is your choice."
+        "title": "Mauris a diam maecenas sed enim",
+        "text": "Nisl pretium fusce id velit. At augue eget arcu dictum varius duis at consectetur. In aliquam sem fringilla ut morbi tincidunt augue interdum velit."
       },
       "styles": {
         "pagehead-spacing": "m-pagehead--no-spacing"
@@ -32,7 +32,7 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image-1.svg"
         },
-        "col1": "With Livingdocs you create and publish beautiful content efficiently in an intuitive and <em>highly scalable environment.</em>"
+        "col1": "Varius duis at consectetur lorem donec massa sapien faucibus et. <em>Lacus vestibulum sed arcu non odio.</em>"
       },
       "styles": {
         "textimage-cols": "m-textimage--single-col"
@@ -55,40 +55,40 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcemqpe0",
             "content": {
-              "title": "Workflow management",
-              "text": "Collaboration and workflows for large newsrooms"
+              "title": "Placerat duis ultricies",
+              "text": "Orci a scelerisque purus semper"
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcemqpe1",
             "content": {
-              "title": "Faster Editing",
-              "text": "Thanks to innovative component technology"
+              "title": "Lacus viverra vitae",
+              "text": "Vitae aliquet nec ullamcorper"
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcemqpe2",
             "content": {
-              "title": "Multi-channel ready",
-              "text": "Scalable &amp; flexible data format"
+              "title": "Posuere lorem",
+              "text": "Sem fringilla ut morbi tincidunt"
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcengs10",
             "content": {
-              "title": "Wysiwyg content creation",
-              "text": "Intuitive &amp; fast user experience"
+              "title": "Eleifend quam",
+              "text": "Sed cras ornare arcu dui "
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcenjap0",
             "content": {
-              "title": "Customizable scope",
-              "text": "Well serviced &amp; supported"
+              "title": "Amet volutpat",
+              "text": "Facilisis volutpat est velit egestas"
             }
           }
         ]
@@ -104,10 +104,10 @@
         "icon2": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-2.svg"
         },
-        "title1": "Livingdocs Enterprise",
-        "text1": "Serve thousands of editors writing millions of documents for hundreds of publications in one of the most scalable content-creation solutions available.",
-        "title2": "Livingdocs Service",
-        "text2": "Profit from an affordable and service-ready publishing platform and build your own magazines, blogs or websites on top of it."
+        "title1": "Aliquet lectus proin nibh",
+        "text1": "Ut porttitor leo a diam sollicitudin tempor. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.",
+        "title2": "Amet est placerat in egestas",
+        "text2": "At lectus urna duis convallis convallis tellus id. Id eu nisl nunc mi ipsum. Velit dignissim sodales ut eu sem integer vitae."
       },
       "containers": {
         "button1": [
@@ -145,7 +145,7 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
         },
-        "text": "Livingdocs fits into existing systems like no other comparable software."
+        "text": "Tincidunt augue interdum velit euismod in pellentesque massa placerat duis."
       },
       "styles": {
         "brandimage-version": "m-brandimage--square"

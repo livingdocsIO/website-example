@@ -12,19 +12,14 @@
       "version": "2.0.0"
     }
   },
-  "metadata": {
-    "title": "Re-thinking newspaper workflows",
-    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
-    "publishDate": "2019-07-22T08:00:51.674Z",
-    "dependencies": {}
-  },
+  "metadata": {},
   "content": [
     {
       "identifier": "livingdocssite.page-head",
       "id": "doc-1dgcamgqn0",
       "content": {
-        "title": "Livingdocs for Enterprises",
-        "text": "For everyone that needs to meet the highestexpectations when it comes to quality, availability andscalability."
+        "title": "A iaculis at erat pellentesque adipiscing",
+        "text": "Nunc scelerisque viverra mauris in aliquam sem. Molestie a iaculis at erat pellentesque adipiscing commodo elit. In fermentum posuere urna nec tincidunt praesent semper feugiat nibh."
       },
       "styles": {
         "pagehead-spacing": "m-pagehead--no-spacing"
@@ -37,8 +32,8 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image-1.svg"
         },
-        "col1": "Livingdocs is well-tried software in use at <em>major publishing houses.</em>",
-        "col2": "You have the choice between our fully managed editor integration, the entire Livingdocs creation bundle or even a no-hassle full-service solution offered as a joint venture with our partner agency Netcetera."
+        "col1": "Vitae congue eu consequat ac felis. Ultricies <em>mi quis hendrerit dolor</em> magna eget est.",
+        "col2": "Elementum curabitur vitae nunc sed velit. Fermentum et sollicitudin ac orci phasellus egestas. Tempor orci dapibus ultrices in iaculis. Ut morbi tincidunt augue interdum velit euismod in pellentesque massa. Elit ut aliquam purus sit amet luctus venenatis lectus."
       }
     },
     {
@@ -48,10 +43,10 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-1.svg"
         },
-        "mainimage": "Editor Cloud",
-        "text": "There are many good reasons not to abandon your current CMS solution. With our Editor Cloud you give your existing CMS new super-powers. We handle integrations with all major CMS vendors and offer you the Livingdocs editor as a plugin in a fully managed cloud service. No large and complex IT project, just better editing.<br><br>Integrates with: AEM, WP, Drupal, Sitecore<br>(Not in the list? No problem, contact us to get your custom offer)",
-        "link": "mailto:contact@livingdocs.io",
-        "buttontext": "Request a Demo"
+        "mainimage": "Tristique senectus et netus",
+        "text": "Amet mauris commodo quis imperdiet massa tincidunt. Adipiscing elit duis tristique sollicitudin nibh sit. Porttitor leo a diam sollicitudin tempor id eu. Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Tellus orci ac auctor augue mauris augue neque. Est ante in nibh mauris cursus mattis molestie a iaculis.",
+        "link": "#",
+        "buttontext": "Learn More"
       },
       "containers": {
         "images": [
@@ -62,7 +57,7 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "title": "Collaborative writing including History and Track Changes."
+              "title": "Cras fermentum odio eu feugiat."
             }
           },
           {
@@ -72,7 +67,7 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "title": "WYSIWYG editing for your web products."
+              "title": "Ornare quam viverra orci sagittis eu volutpat odio facilisis."
             }
           },
           {
@@ -82,7 +77,7 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "title": "Fast and intuitive building block system to layout content."
+              "title": "Nibh sit amet commodo nulla facilisi."
             }
           },
           {
@@ -92,64 +87,7 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "title": "Fully managed and supported cloud service."
-            }
-          }
-        ]
-      }
-    },
-    {
-      "identifier": "livingdocssite.producthighlights",
-      "id": "doc-1dgcf431r0",
-      "content": {
-        "icon": {
-          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-2.svg"
-        },
-        "mainimage": "Livingdocs Creation",
-        "text": "Livingdocs Creation is a full-fledged headless CMS solution including everything you need to turn off your current CMS and enter the world of multi-channel publishing. We run content-creation for websites, newsletters, native apps and even TV set-top boxes.",
-        "link": "mailto:contact@livingdocs.io",
-        "buttontext": "Request a Demo"
-      },
-      "containers": {
-        "images": [
-          {
-            "identifier": "livingdocssite.image",
-            "id": "doc-1dgcf43m60",
-            "content": {
-              "image": {
-                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
-              },
-              "title": "Our world-class editor to write content in large teams."
-            }
-          },
-          {
-            "identifier": "livingdocssite.image",
-            "id": "doc-1dgcf43m61",
-            "content": {
-              "image": {
-                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
-              },
-              "title": "Smart assets, machine- learning and scalability to millions of documents."
-            }
-          },
-          {
-            "identifier": "livingdocssite.image",
-            "id": "doc-1dgcf43m62",
-            "content": {
-              "image": {
-                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
-              },
-              "title": "Automated, manual or even scheduled layout system for your overview pages."
-            }
-          },
-          {
-            "identifier": "livingdocssite.image",
-            "id": "doc-1dgcf43m70",
-            "content": {
-              "image": {
-                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
-              },
-              "title": "Administrative features to monitor and control everything from access to presentation."
+              "title": "Massa placerat duis ultricies lacus sed turpis."
             }
           }
         ]
@@ -162,9 +100,9 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-3.svg"
         },
-        "mainimage": "Forward Publishing",
-        "text": "Forward Publishing is a comprehensive and well-served all-in-one solution for publishers offered as a joint-venture with the leading Swiss IT consultancy Netcetera. It enables publishing companies to have a smooth transition and transformation to an extensive digital content workflow with a set of highly approved integrated products. Forward Publishing provides a solid yet continuously evolving foundation for a sustainable, intelligent, digital, mobile-first subscription model.",
-        "link": "https://www.forward-publishing.com",
+        "mainimage": "Lectus proin nibh nisl",
+        "text": "At auctor urna nunc id cursus metus aliquam. Vel eros donec ac odio. Enim nunc faucibus a pellentesque sit amet porttitor eget. Tincidunt id aliquet risus feugiat in ante metus. Suspendisse faucibus interdum posuere lorem ipsum. Praesent tristique magna sit amet purus gravida quis blandit. Blandit libero volutpat sed cras ornare arcu dui vivamus.",
+        "link": "#",
         "buttontext": "Learn More"
       },
       "containers": {
@@ -178,7 +116,7 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
         },
-        "text": "Development is a winding road. We’ll help you find your way with Livingdocs."
+        "text": "Diam phasellus vestibulum lorem sed risus. Sapien et ligula ullamcorper malesuada proin libero nunc."
       },
       "styles": {
         "brandimage-version": "m-brandimage--square"

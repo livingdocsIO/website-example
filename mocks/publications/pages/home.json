@@ -21,10 +21,10 @@
       "identifier": "livingdocssite.main-head",
       "id": "doc-1dg71uvl10",
       "content": {
-        "title": "Publishing on the web <br>has never been easier",
-        "text": "Livingdocs is a modern Web Content Creation and Publishing System, in use at large corporations. Get inspired by our unique building blocks technology.",
-        "link": "https://edit.livingdocs.io/signup?utm_source=website&utm_medium=button&utm_campaign=use_case_landingpage",
-        "buttontext": "TRY OUT NOW",
+        "title": "Lorem ipsum dolor sit amet, consetetur",
+        "text": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "link": "#",
+        "buttontext": "TRY OUT MyStartUp",
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-screenshot.svg"
         }
@@ -71,7 +71,7 @@
       "identifier": "livingdocssite.textimage",
       "id": "doc-1dgcckho30",
       "content": {
-        "col1": "For someone else to feel it, <em>you’ve got to feel it – </em>while you create it."
+        "col1": "Duis autem vel eum iriure dolor in hendrerit <em>in vulputate velit esse molestie consequat,</em> vel illum dolore eu feugiat nulla facilisis."
       },
       "styles": {
         "textimage-cols": "m-textimage--single-col",
@@ -90,23 +90,23 @@
               "icon": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
               },
-              "name": "Collaboration at the Core",
-              "descriptionmain": "Edit everything inline in your HTML page. What you see is what you get. Simply split the Livingdocs screen to see your content in different device-sizes in real-time – no matter what target platform you are writing for.",
+              "name": "Ut wisi enim ad minim veniam",
+              "descriptionmain": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.",
               "imagemain": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-screenshot.svg"
               },
               "image1": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "description1": "Get creative with a large library of elements.",
+              "description1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
               "image2": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "description2": "Change and style text while seeing the results.",
+              "description2": "At vero eos et accusam et justo duo.",
               "image3": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "description3": "Write comments and discuss about changes."
+              "description3": "Duis autem vel eum iriure dolor in hendrerit."
             }
           },
           {
@@ -124,8 +124,8 @@
       "identifier": "livingdocssite.textimage",
       "id": "doc-1dgcdu20n0",
       "content": {
-        "col1": "Publishing is the future of the web – <em>and we're ready now.</em>",
-        "col2": "Experience has shown that high-quality, daily content publishing is the future not only for newspapers, but also for other companies. We are ready now, and well prepared for future developments."
+        "col1": "Duis autem vel eum iriure dolor in hendrerit <em>in vulputate velit esse</em> molestie consequat.",
+        "col2": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
       },
       "styles": {
         "textimage-color": "m-textimage--light"
@@ -135,7 +135,7 @@
       "identifier": "livingdocssite.buttonblock",
       "id": "doc-1dgcduv740",
       "content": {
-        "link": "mailto:contact@livingdocs.io",
+        "link": "#",
         "text": "Request a Demo"
       }
     },
@@ -146,15 +146,15 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
-        "text": "Livingdocs is built to integrate and interact with your existing environment."
+        "text": "Sed diam nonummy nibh euismod tincidunt ut."
       }
     },
     {
       "identifier": "livingdocssite.sub-head",
       "id": "doc-1dgce37i20",
       "content": {
-        "title": "Work with the technology-<br>experts in publishing",
-        "text": "Livingdocs is designed specifically to meet the needs of demanding online publishers. Our expertise and experience in this regard is greatly confirmed by our valued customers."
+        "title": "Quam elementum pulvinar etiam non quam.",
+        "text": "Non quam lacus suspendisse faucibus interdum posuere. Odio euismod lacinia at quis risus sed. Non enim praesent elementum facilisis leo vel fringilla. Sit amet purus gravida quis."
       }
     },
     {
@@ -164,12 +164,12 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-1.svg"
         },
-        "title": "Traditional newspaper",
-        "description": "NZZ is the oldest and most prestigous newspaper in Switzerland. It has a main brand online and in print, sunday edition, regional outlets and several smaller content products.",
-        "link": "/nzz-21810",
+        "title": "Accumsan sit amet nulla",
+        "description": "At risus viverra adipiscing at in. Vitae ultricies leo integer malesuada nunc. Est ante in nibh mauris cursus mattis molestie a iaculis.",
+        "link": "/success-story-21810",
         "button": "Success Story<br>",
-        "quote": "Livingdocs is the foundation of NZZ’s digital infrastructure, finally enabling us to harmonize the CMS across all the products we offer.",
-        "caption": "Andreas Bossecker, <br>CTIO at NZZ Mediengruppe",
+        "quote": "Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Accumsan tortor posuere ac ut consequat semper viverra nam. Feugiat sed lectus vestibulum mattis ullamcorper velit sed.",
+        "caption": "Peter Mockingbird, <br>CTIO at LgO",
         "logo": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-3.svg"
         }
@@ -179,7 +179,7 @@
       "identifier": "livingdocssite.newsletter",
       "id": "doc-1dgce8j6j0",
       "content": {
-        "title": "Livingdocs – All your content deserves to be alive.<br><em>Subscribe to our newsletter.</em>"
+        "title": "Mattis enim ut tellus elementum sagittis.<br/><em>Mauris a diam maecenas</em> sed enim."
       }
     },
     {
@@ -189,7 +189,7 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
-        "text": "Livingdocs is meant to let you find a productive place in an organically grown environment."
+        "text": "Varius duis at consectetur lorem donec massa sapien faucibus et. Lacus vestibulum sed arcu non odio."
       },
       "styles": {
         "brandimage-version": "m-brandimage--larger"

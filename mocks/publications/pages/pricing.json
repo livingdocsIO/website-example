@@ -12,19 +12,14 @@
       "version": "2.0.0"
     }
   },
-  "metadata": {
-    "title": "Re-thinking newspaper workflows",
-    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
-    "publishDate": "2019-07-22T08:00:51.674Z",
-    "dependencies": {}
-  },
+  "metadata": {},
   "content": [
     {
       "identifier": "livingdocssite.page-head",
       "id": "doc-1dgcanbie0",
       "content": {
-        "title": "Pricing for Livingdocs",
-        "text": "Choose between our fully managed Enterprise solution or the affordable Livingdocs Service."
+        "title": "Luctus venenatis lectus magna fringilla",
+        "text": "Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Lobortis feugiat vivamus at augue. Duis at consectetur lorem donec massa sapien faucibus et molestie."
       },
       "styles": {
         "pagehead-spacing": "m-pagehead--no-spacing"
@@ -40,19 +35,19 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
         },
-        "col1": "<em>Livingdocs Enterprise</em> offers your corporation a secure solution.",
-        "col2": "All enterprise plans have dedicated account managers and include SLAs. In addition all enterprise installations contain the possibility to customise Livingdocs to your needs.",
-        "listtitle1": "Editor Cloud",
-        "listtext1": "Our Editor Cloud solution is for corporations who want to keep their existing CMS but use the superior editing functionalities Livingdocs offers.<br><br>The Editor Cloud starts at $5 000 per month including 50 users, 2 TB of traffic and 50 000 documents. Additional users cost $35 per month. Additional traffic and storage is offered at actual costs of the respective cloud providers.<br><br>Hosting and updates are fully managed by us and are included in the monthly costs. Customizations are possible. We are happy to make an offer for you including the integration in your CMS solution.",
-        "listtitle2": "Livingdocs Creation",
-        "listtext2": "Livingdocs Creation is a headless CMS solution and provides a replacement for your current CMS.<br><br>The Pricing is based on named users and starts at $80 per user per month depending on chosen duration. SLAs with 18×7 or 24×7 options can be purchased in addition.<br><br>You can run Livingdocs Creation at your own premises or hosted by us in a fully managed solution. Customizations are possible. We are happy to make an offer for you."
+        "col1": "<em>Nisl suscipit adipiscing</em> bibendum est. Pellentesque adipiscing commodo.",
+        "col2": "Placerat orci nulla pellentesque dignissim enim sit. Neque gravida in fermentum et. Quis ipsum suspendisse ultrices gravida dictum. Pellentesque pulvinar pellentesque habitant morbi.",
+        "listtitle1": "Consequat mauris",
+        "listtext1": "Magna ac placerat vestibulum lectus mauris ultrices. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Sed libero enim sed faucibus turpis. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Auctor augue mauris augue neque gravida in fermentum et. Scelerisque varius morbi enim nunc faucibus a pellentesque. Vel pretium lectus quam id leo in vitae turpis massa. Scelerisque eu ultrices vitae auctor eu augue ut.",
+        "listtitle2": "Tincidunt id",
+        "listtext2": "Velit egestas dui id ornare arcu odio ut. Adipiscing enim eu turpis egestas pretium. Neque laoreet suspendisse interdum consectetur libero id faucibus. Et pharetra pharetra massa massa. Nunc non blandit massa enim nec. Felis eget nunc lobortis mattis aliquam faucibus purus. Nam at lectus urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. Tristique nulla aliquet enim tortor at auctor urna nunc id."
       }
     },
     {
       "identifier": "livingdocssite.buttonblock",
       "id": "doc-1dgcijihi0",
       "content": {
-        "link": "mailto:contact@livingdocs.io",
+        "link": "#",
         "text": "Get an Offer"
       },
       "styles": {
@@ -69,9 +64,9 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-2.svg"
         },
-        "col1": "The <em>Livingdocs service</em> is a cost-efficient solution that offers you the full power of Livingdocs as a service.",
-        "col2": "All service customers are hosted on our secure cloud that offers comprehensive backups and redundancy as well as automatic software updates.",
-        "listtext1": "We are happy to announce that the public beta of our Service solution is available now. Please feel free to make full use of the entire editing and publishing experience – we value your feedback! The official release is scheduled for autumn 2019 and subscriptions will be starting at $35 per month."
+        "col1": "<em>Risus nec feugiat</em> in fermentum posuere urna nec tincidunt praesent. ",
+        "col2": "Quis blandit turpis cursus in hac habitasse platea dictumst. Fermentum iaculis eu non diam phasellus vestibulum lorem sed. Ultrices sagittis orci a scelerisque purus semper eget duis at. Nunc sed augue lacus viverra vitae congue eu consequat ac. Nec sagittis aliquam.",
+        "listtext1": "Lorem mollis aliquam ut porttitor. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Semper eget duis at tellus at urna condimentum mattis. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Id nibh tortor id aliquet lectus. Enim facilisis gravida neque convallis a cras semper auctor neque. Adipiscing elit duis tristique sollicitudin nibh sit amet. Velit dignissim sodales ut eu sem integer. Integer quis auctor elit sed vulputate mi sit amet mauris. Auctor urna nunc id cursus metus aliquam eleifend. Cras pulvinar mattis nunc sed blandit libero volutpat."
       },
       "styles": {
         "listicle-cols": "o-listicle--single-col"
@@ -81,8 +76,8 @@
       "identifier": "livingdocssite.buttonblock",
       "id": "doc-1dgcijl4t0",
       "content": {
-        "link": "https://edit.livingdocs.io",
-        "text": "Try it Out"
+        "link": "#",
+        "text": "Try out MyStartUp"
       },
       "styles": {
         "buttonblock-type": "m-buttonblock--primary"

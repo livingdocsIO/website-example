@@ -12,12 +12,7 @@
       "version": "2.0.0"
     }
   },
-  "metadata": {
-    "title": "Re-thinking newspaper workflows",
-    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
-    "publishDate": "2019-07-22T08:00:51.674Z",
-    "dependencies": {}
-  },
+  "metadata": {},
   "content": [
     {
       "identifier": "livingdocssite.article-head",
@@ -27,15 +22,15 @@
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "About Us",
-        "title": "Meet the Team",
-        "text": "At Livingdocs we believe that developers, designers and content creators will produce a better result together. We don't just implement this in our software, we also live by this premise."
+        "title": "Duis ut diam quam nulla porttitor",
+        "text": "Fames ac turpis egestas integer. Varius vel pharetra vel turpis. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Vel pharetra vel turpis nunc eget lorem dolor sed. Vulputate enim nulla aliquet porttitor."
       }
     },
     {
       "identifier": "livingdocssite.subtitle",
       "id": "doc-1dgcirdlh0",
       "content": {
-        "text": "How we plan to leave a dent in the universe"
+        "text": "Facilisi cras fermentum odio eu feugiat"
       }
     },
     {
@@ -50,40 +45,24 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcirh1k0",
             "content": {
-              "title": "Do something meaningful",
-              "text": "We don’t want to spend our time just working but to make sure that what we do has a positive impact on our society."
+              "title": "Volutpat sed cras ornare arcu",
+              "text": "Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcirh1k1",
             "content": {
-              "title": "No hierarchy, no anarchy",
-              "text": "We don’t think in trees but roles. All people should be enabled to optimally deploy their skills."
+              "title": "Scelerisque fermentum dui",
+              "text": "Viverra orci sagittis eu volutpat odio. Pharetra pharetra massa massa ultricies."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcirjr90",
             "content": {
-              "title": "Collaborate and evolve",
-              "text": "We believe that a company is a team of people and not a collection of departments. Never let a process stand in your way!"
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcirig00",
-            "content": {
-              "title": "Embrace technology",
-              "text": "We are tech-driven and love technology. Ideas are always welcome but be prepared to be challenged."
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcirh1k2",
-            "content": {
-              "title": "Mind the startup",
-              "text": "We’ve seen a lot of hip startups vanish to dust. We didn’t walk into that trap but rather take one step after the other on solid ground."
+              "title": "Pharetra sit amet",
+              "text": "Egestas egestas fringilla phasellus faucibus. Vitae elementum curabitur vitae nunc sed velit dignissim."
             }
           }
         ]
@@ -101,10 +80,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Gabriel Hase",
-              "function": "Managing Director &amp; Co-Founder",
-              "link": "mailto:gabriel@livingdocs.io",
-              "email": "gabriel@livingdocs.io"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -116,10 +95,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Lukas Peyer",
-              "function": "Technical Director &amp; Co-Founder",
-              "link": "mailto:lukas@livingdocs.io",
-              "email": "lukas@livingdocs.io"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -132,10 +111,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Céline Tykve",
-              "function": "Head of Sales and Social Media",
-              "link": "mailto:celine@livingdocs.io",
-              "email": "celine@livingdocs.io"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -149,10 +128,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Lukas Bünger",
-              "function": "Senior Software Engineer",
-              "link": "mailto:luki@livingdocs.io",
-              "email": "luki@livingdocs.io"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -164,10 +143,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Adrian-John Hak",
-              "function": "Head of Marketing and Communications",
-              "link": "mailto:aj@livingdocs.io",
-              "email": "<a href=\"mailto:aj@livingdocs.io\">aj@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -180,10 +159,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Marc Bachmann",
-              "function": "Head of Softare Engineering &amp; Partner",
-              "link": "mailto:marc@livingdocs.io",
-              "email": "<a href=\"mailto:marc@livingdocs.io\">marc@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -195,10 +174,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Ralph Meier",
-              "function": "Data Protection Officer &amp; Software Architect",
-              "link": "mailto:ralph@livingdocs.io",
-              "email": "<a href=\"mailto:ralph@livingdocs.io\">ralph@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -212,10 +191,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Okan Sahin",
-              "function": "Junior Software Engineer",
-              "link": "mailto:okan@livingdocs.io",
-              "email": "<a href=\"mailto:okan@livingdocs.io\">okan@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -229,10 +208,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Genc Rashiti",
-              "function": "Head of Design &amp; Partner",
-              "link": "mailto:genc@livingdocs.io",
-              "email": "<a href=\"mailto:genc@livingdocs.io\">genc@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -246,10 +225,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Meinrad Andermatt",
-              "function": "Senior Software Engineer",
-              "link": "mailto:meinrad@livingdocs.io",
-              "email": "<a href=\"mailto:meinrad@livingdocs.io\">meinrad@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -261,10 +240,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Georgi Mitev",
-              "function": "Head Project Management",
-              "link": "mailto:georgi@livingdocs.io",
-              "email": "<a href=\"mailto:georgi@livingdocs.io\">georgi@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -277,10 +256,10 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
               },
-              "name": "Sven Rüf",
-              "function": "Head of Interaction Design",
-              "link": "mailto:sven@livingdocs.io",
-              "email": "<a href=\"mailto:sven@livingdocs.io\">sven@livingdocs.io</a>"
+              "name": "Sebastian Seagull",
+              "function": "Founder",
+              "link": "#",
+              "email": "sebastian@MyStartUp.io"
             }
           }
         ],
@@ -290,82 +269,24 @@
     },
     {
       "identifier": "livingdocssite.subtitle",
-      "id": "doc-1dgcivbc90",
-      "content": {
-        "text": "Some reasons why employees like Livingdocs"
-      }
-    },
-    {
-      "identifier": "livingdocssite.list",
-      "id": "doc-1dgcivgpm0",
-      "styles": {
-        "list-type": "m-list--numbered"
-      },
-      "containers": {
-        "list-entries": [
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcivha50",
-            "content": {
-              "title": "Attitude",
-              "text": "Livingdocs is a place where creative minds from various disciplines come together and create amazing things. We aim for an environment that enables everyone to focus on the important things instead of having to worry about complex workflows and the next boring meeting. That's why we prefer asynchronous communication and avoid management practices that cause overhead. You communicate openly, share your knowlegde and help getting obstacles out of the way early."
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcivha60",
-            "content": {
-              "title": "Autonomy",
-              "text": "We encourage employees to work with a high level of autonomy and self-direction. This is why we offer that you work from remote and you're not bound to a fixed work schedule."
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcivha61",
-            "content": {
-              "title": "Retreats",
-              "text": "To break out of our daily work routine, we go on a retreat 2-3 times a year. This is to experience new places, refresh our minds, get stuff done and of course team building. Participation is optional."
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcj1a9o0",
-            "content": {
-              "title": "Quarterly",
-              "text": "We hold 3-monthly strategy sessions with everybody in the company joining in to shape and discuss our goals and aspirations as a company."
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcj1bs00",
-            "content": {
-              "title": "Parent-friendly",
-              "text": "We are not the generic software startup that runs on youth culture. The average age at Livingdocs is about 35 which means the average employee at Livingdocs has children. We support parents with generous paternity and maternity leaves but more importantly in their daily challenges to combine career and family."
-            }
-          }
-        ]
-      }
-    },
-    {
-      "identifier": "livingdocssite.subtitle",
       "id": "doc-1dgcj24rg0",
       "content": {
-        "text": "Interested in joining the team?"
+        "text": "Aenean sed adipiscing diam donec"
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcj26qp0",
       "content": {
-        "text": "We are a Swiss based company and have offices in Zurich as well as remote workers across Europe. You couldn’t come at a better time: Livingdocs just released the first beta of the service offer. Join us and find out what it means to take a product global!"
+        "text": "Aenean vel elit scelerisque mauris pellentesque pulvinar. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Blandit volutpat maecenas volutpat blandit aliquam etiam erat. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Faucibus scelerisque eleifend donec pretium vulputate. Elit ullamcorper dignissim cras tincidunt. Eget egestas purus viverra accumsan in nisl nisi."
       }
     },
     {
       "identifier": "livingdocssite.buttonblock",
       "id": "doc-1dgcj31540",
       "content": {
-        "link": "mailto:contact@livingdocs.io",
-        "text": "Drop us a Line"
+        "link": "#",
+        "text": "Contact MyStartUp"
       }
     }
   ]

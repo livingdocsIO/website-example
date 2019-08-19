@@ -18,8 +18,8 @@
       "identifier": "livingdocssite.page-head",
       "id": "doc-1dgcaoeo30",
       "content": {
-        "title": "Work with<br>Powerful Features",
-        "text": "Livingdocs is built to make you more productive. Our set of features empowers you to create exactly the project you need."
+        "title": "Nibh tortor id aliquet lectus proin",
+        "text": "Eget est lorem ipsum dolor sit. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Non arcu risus quis varius quam quisque."
       }
     },
     {
@@ -29,17 +29,17 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
         },
-        "title": "Collaboration at the Core",
+        "title": "Ultricies tristique nulla",
         "image1": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
         },
-        "title1": "History and track changes",
-        "text1": "Visually keep track of every change in your documents and easily go back and forth in your editing history.",
+        "title1": "Fermentum leo vel orci porta non",
+        "text1": "Pretium viverra suspendisse potenti nullam ac tortor. Fringilla urna porttitor rhoncus dolor purus.",
         "image2": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
         },
-        "title2": "Comments and threads",
-        "text2": "Discuss with your fellow writers how to best come up with the content you need, write comments, build discussion threads and resolve conversations as you go."
+        "title2": "Vitae congue mauris",
+        "text2": "Varius quam quisque id diam vel quam elementum pulvinar etiam. Ac turpis egestas sed tempus urna et pharetra pharetra."
       },
       "containers": {
         "list-entries": [
@@ -47,24 +47,16 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcg7b890",
             "content": {
-              "title": "Workflows",
-              "text": "Organize workflows from proofreading to translations in kanban boards and always see what needs to be done next."
+              "title": "Neque volutpat",
+              "text": "Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcg7b891",
             "content": {
-              "title": "Realtime collaboration",
-              "text": "Always see who is editing the same document with you and easily exchange the lead."
-            }
-          },
-          {
-            "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcg7b892",
-            "content": {
-              "title": "Lock",
-              "text": "Sometimes you want to edit alone. The lock plugin allows you to set time-limited locks on a document where only you can edit."
+              "title": "Fermentum posuere",
+              "text": "Nullam eget felis eget nunc lobortis. Nam libero justo laoreet sit amet cursus. Ornare arcu odio ut sem nulla pharetra diam sit."
             }
           }
         ]
@@ -81,12 +73,12 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-2.svg"
         },
-        "title": "Fully Organized Content",
+        "title": "Amet tellus cras",
         "image1": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-screenshot.svg"
         },
-        "title1": "Dashboards",
-        "text1": "Use the power of customizable dashboards to give entry points to every possible user group, be it writers, proofreaders or editors-in-chief. Present content on your dashboards in lists, visual layouts or kanban boards."
+        "title1": "Arcu dui vivamus",
+        "text1": "Amet nisl purus in mollis nunc. Et leo duis ut diam quam. Fermentum posuere urna nec tincidunt praesent semper. Ac odio tempor orci dapibus ultrices in iaculis nunc sed."
       },
       "styles": {
         "feature-cols": "o-feature--single-col"
@@ -95,18 +87,18 @@
         "list-entries": [
           {
             "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcg8elb0",
+            "id": "doc-1dgcg7b890",
             "content": {
-              "title": "Elastic Search",
-              "text": "Use our powerful ElasticSearch based search engine to find content and enable our Natural Language Processing module to automatically tag all content."
+              "title": "Neque volutpat",
+              "text": "Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
-            "id": "doc-1dgcg8elb1",
+            "id": "doc-1dgcg7b891",
             "content": {
-              "title": "Filters",
-              "text": "Use our predefined filters or create new ones for your use cases and organize filters in bookmarks for fast access."
+              "title": "Fermentum posuere",
+              "text": "Nullam eget felis eget nunc lobortis. Nam libero justo laoreet sit amet cursus. Ornare arcu odio ut sem nulla pharetra diam sit."
             }
           }
         ]
@@ -123,7 +115,7 @@
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-3.svg"
         },
-        "title": "Integrations<br>"
+        "title": "Lectus mauris"
       },
       "styles": {
         "feature-cols": "o-feature--textonly"
@@ -134,8 +126,8 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcg8lk90",
             "content": {
-              "title": "«It’s not where you take things from – it’s where you take them to.» – Jean-Luc Godard",
-              "text": "<br>The Livingdocs Ecosystem enables media companies to succeed in their digital transformation. We built in a collection of best-of-breed modules in order to satisfy the whole lifecycle of a news publication.<br><br>- Planning, <a target=\"_blank\" href=\"https://desk-net.com/info/de/headless-cms-livingdocs\">DeskNet</a><br>- Machine Learning, <a target=\"_blank\" href=\"https://www.imatrics.com/\">iMatrics</a> and <a target=\"_blank\" href=\"https://cloud.google.com/vision/\">Google Vision</a><br>- Print, <a target=\"_blank\" href=\"https://www.a-f.ch/de/produkt/woodwing-enterprise-aurora\">WoodWing Enterprise</a><br>- Interactives and Graphics, <a target=\"_blank\" href=\"https://www.nzz.ch/storytelling/tech/\">NZZ Q</a><br>- Video, <a target=\"_blank\" href=\"https://www.brightcove.com\">Brightcove</a><br>- Push Notifications, <a target=\"_blank\" href=\"https://firebase.google.com/\">Google Firebase</a>&nbsp;and <a target=\"_blank\" href=\"https://ethinking.de/loesungen/push-notification-service\">e-thinking</a><br>- Feed management, alephDAM<br>- DAM / E-Paper, <a target=\"_blank\" href=\"https://www.sternwald.com/hugo/\">huGO+</a><br>"
+              "title": "«Sed turpis tincidunt id aliquet risus. Imperdiet proin fermentum leo vel orci.» – Jeanie James",
+              "text": "<br/>Molestie nunc non blandit massa enim nec dui nunc mattis. Eget arcu dictum varius duis. Ipsum nunc aliquet bibendum enim facilisis gravida. Tortor at auctor urna nunc id cursus metus aliquam. Amet est placerat in egestas erat imperdiet sed."
             }
           }
         ]

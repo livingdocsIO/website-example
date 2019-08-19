@@ -24,10 +24,6 @@
   &__topline {
     @extend %font-l;
     color: $color-blue;
-
-    &::after {
-      content: ' /';
-    }
   }
 
   &__title {
@@ -57,5 +53,3 @@
     }
   }
 }
-
-@import 'editor';

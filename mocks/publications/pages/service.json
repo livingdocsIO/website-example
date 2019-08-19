@@ -12,19 +12,14 @@
       "version": "2.0.0"
     }
   },
-  "metadata": {
-    "title": "Re-thinking newspaper workflows",
-    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
-    "publishDate": "2019-07-22T08:00:51.674Z",
-    "dependencies": {}
-  },
+  "metadata": {},
   "content": [
     {
       "identifier": "livingdocssite.page-head",
       "id": "doc-1dgcanuo60",
       "content": {
-        "title": "Livingdocs as a Service",
-        "text": "For everyone that needs a world-class content- creation service for their projects - take our ready-made examples or start building from scratch."
+        "title": "Magna fringilla urna porttitor rhoncus",
+        "text": "Nullam non nisi est sit amet facilisis magna etiam. Ultricies leo integer malesuada nunc vel risus commodo viverra maecenas. In massa tempor nec feugiat nisl pretium fusce id."
       },
       "styles": {
         "pagehead-spacing": "m-pagehead--no-spacing"
@@ -42,8 +37,8 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-portrait.svg"
               },
-              "title": "Magazine",
-              "text": "A beautiful magazine design including layout of overview pages, menus, author pages and ads."
+              "title": "Ullamcorper",
+              "text": "Nullam non nisi est sit amet facilisis magna etiam. Ultricies leo integer malesuada nunc vel risus commodo viverra maecenas."
             },
             "containers": {
               "buttons": [
@@ -51,11 +46,19 @@
                   "identifier": "livingdocssite.buttonblock",
                   "id": "doc-1dgcfl59e0",
                   "content": {
-                    "link": "https://edit.livingdocs.io",
-                    "text": "Start with this Design"
+                    "link": "#",
+                    "text": "Start"
                   },
                   "styles": {
                     "buttonblock-type": "m-buttonblock--primary"
+                  }
+                },
+                {
+                  "identifier": "livingdocssite.buttonblock",
+                  "id": "doc-1dgcfl59e4",
+                  "content": {
+                    "link": "#",
+                    "text": "Preview"
                   }
                 }
               ]
@@ -68,8 +71,8 @@
               "image": {
                 "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-portrait.svg"
               },
-              "title": "Blog",
-              "text": "A fine storytelling design to let your blog articles stand out of the crowd. Simple yet beautiful."
+              "title": "Ultricies",
+              "text": "Cursus in hac habitasse platea dictumst quisque sagittis purus. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque."
             },
             "containers": {
               "buttons": [
@@ -77,8 +80,8 @@
                   "identifier": "livingdocssite.buttonblock",
                   "id": "doc-1dgcfl59e3",
                   "content": {
-                    "link": "https://edit.livingdocs.io",
-                    "text": "START WITH THIS DESIGN"
+                    "link": "#",
+                    "text": "Start"
                   },
                   "styles": {
                     "buttonblock-type": "m-buttonblock--primary"
@@ -88,8 +91,8 @@
                   "identifier": "livingdocssite.buttonblock",
                   "id": "doc-1dgcfl59e4",
                   "content": {
-                    "link": "https://blog.livingdocs.io/",
-                    "text": "PREVIEW"
+                    "link": "#",
+                    "text": "Preview"
                   }
                 }
               ]
@@ -101,24 +104,24 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcfl59f0",
             "content": {
-              "title": "How it works",
-              "text": "You worry about the website, we handle the platform for you."
+              "title": "Magna fringilla urna porttitor",
+              "text": "Nullam non nisi est sit amet facilisis magna etiam. Ultricies leo integer malesuada nunc vel risus commodo viverra maecenas."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcfl59f1",
             "content": {
-              "title": "Our service",
-              "text": "We provide you the Livingdocs Creation Platform as a service for your users or customers to produce outstanding content."
+              "title": "In massa tempor",
+              "text": "Ullamcorper eget nulla facilisi etiam dignissim. Cursus in hac habitasse platea dictumst quisque sagittis purus."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcfl59f2",
             "content": {
-              "title": "Your code",
-              "text": "You create a stunning design and use our APIs and SDKs to build a website."
+              "title": "Volutpat maecenas",
+              "text": "Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Massa sed elementum tempus egestas sed sed risus pretium."
             }
           }
         ]
@@ -128,7 +131,7 @@
       "identifier": "livingdocssite.subtitle",
       "id": "doc-1dgcfpq960",
       "content": {
-        "text": "Build your own frontend"
+        "text": "Mauris vitae ultricies leo integer"
       }
     },
     {
@@ -147,7 +150,7 @@
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcfpsv40",
       "content": {
-        "text": "For the following procedures you have all the flexibility and freedom you wish. We offer you and your preferred web agencies, partners etc. fitted SDKs for easy, frictionless development and integration."
+        "text": "Dolor sit amet consectetur adipiscing elit. Auctor eu augue ut lectus arcu bibendum at varius vel. Velit aliquet sagittis id consectetur. Faucibus scelerisque eleifend donec pretium vulputate. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Mattis pellentesque id nibh tortor id aliquet. Nam at lectus urna duis convallis convallis tellus id interdum."
       }
     },
     {
@@ -162,24 +165,24 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcfqkp10",
             "content": {
-              "title": "Design",
-              "text": "Forget about template languages. With Livingdocs you write your design in plain HTML / CSS and web technologies. You develop your design in the frontend and can always play it back to our editor for WYSIWYG support."
+              "title": "Tortor posuere",
+              "text": "Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. Pulvinar etiam non quam lacus suspendisse faucibus interdum."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcfqkp20",
             "content": {
-              "title": "Develop",
-              "text": "React, vue, Angular, you name it. Our open-source Javascript SDKs allow you to get started with any frontend technology of your choice to build your customer-facing products."
+              "title": "Mauris vitae",
+              "text": "Nibh mauris cursus mattis molestie a iaculis at erat. Odio facilisis mauris sit amet."
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcfqkp21",
             "content": {
-              "title": "Deploy",
-              "text": "Livingdocs frontends can be quickly deployed to services such as now.sh or in high-availability infrastructures with Kubernetes on the Google Cloud. Our free frontend examples contain guides to get you started."
+              "title": "Pretium quam",
+              "text": "Pretium quam vulputate dignissim suspendisse in est ante in. Nunc scelerisque viverra mauris in aliquam sem."
             }
           }
         ]
@@ -189,9 +192,9 @@
       "identifier": "livingdocssite.calltoaction",
       "id": "doc-1dgcftrmf0",
       "content": {
-        "title": "You want the <em>experts to do the work?</em> We'll gladly make you a suitable offer.",
-        "link": "mailto:contact@livingdocs.io",
-        "buttontext": "Contact Us"
+        "title": "Tincidunt ornare massa eget egestas purus. <em>Mauris rhoncus aenean vel elit.</em> Eu ultrices vitae auctor eu. Nec feugiat nisl pretium fusce id.",
+        "link": "#",
+        "buttontext": "Contact MyStartUp"
       }
     }
   ]

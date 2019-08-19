@@ -12,12 +12,7 @@
       "version": "2.0.0"
     }
   },
-  "metadata": {
-    "title": "Re-thinking newspaper workflows",
-    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
-    "publishDate": "2019-07-22T08:00:51.674Z",
-    "dependencies": {}
-  },
+  "metadata": {},
   "content": [
     {
       "identifier": "livingdocssite.article-head",
@@ -26,17 +21,17 @@
         "image": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
-        "topline": "Neue Zürcher Zeitung",
-        "title": "Re-thinking newspaper workflows",
-        "text": "The <a href=\"http://www.nzz.ch/\">Neue Zürcher Zeitung</a>, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system."
+        "topline": "Success Story",
+        "title": "Ac orci phasellus egestas tellus rutrum",
+        "text": "In mollis nunc sed id semper risus in. Id semper risus in hendrerit gravida rutrum quisque non. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Eros in cursus turpis massa tincidunt dui. Nulla malesuada pellentesque elit eget gravida cum. Ut pharetra sit amet aliquam id diam maecenas ultricies."
       }
     },
     {
       "identifier": "livingdocssite.versus",
       "id": "doc-1dgcmso960",
       "content": {
-        "title1": "Goals",
-        "title2": "Results"
+        "title1": "Non quam",
+        "title2": "Auctor"
       },
       "containers": {
         "list-entries1": [
@@ -44,21 +39,21 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcmsop90",
             "content": {
-              "text": "Unite print and online"
+              "text": "Velit sed ullamcorper morbi"
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcmsop91",
             "content": {
-              "text": "Quickly start new online<br>products"
+              "text": "Velit ut tortor pretium "
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcmsop92",
             "content": {
-              "text": "Improve efficiency in workflows"
+              "text": "Purus faucibus ornare suspendisse sed"
             }
           }
         ],
@@ -67,21 +62,21 @@
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcmsop93",
             "content": {
-              "text": "Write for print and online in<br>Livingdocs"
+              "text": "Ultrices sagittis orci a scelerisque"
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcmsop94",
             "content": {
-              "text": "Launch new products in under  3 months"
+              "text": "In eu mi bibendum neque egestas"
             }
           },
           {
             "identifier": "livingdocssite.listitem",
             "id": "doc-1dgcmsopa0",
             "content": {
-              "text": "Specialised teams for different<br>tasks"
+              "text": "Leo in vitae turpis massa sed"
             }
           }
         ]
@@ -91,57 +86,57 @@
       "identifier": "livingdocssite.subtitle",
       "id": "doc-1dgcmuk5n0",
       "content": {
-        "text": "Workflows"
+        "text": "Sed vulputate odio"
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcmv2d80",
       "content": {
-        "text": "NZZ did think big. The project was not just about upgrading from a legacy system, but about building the infrastructure for a digital future of the whole newspaper. There was one core challenge: One newsroom should write for both online and print edition. Using one tool: Livingdocs."
+        "text": "Lobortis scelerisque fermentum dui faucibus. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Risus viverra adipiscing at in tellus. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Nisi quis eleifend quam adipiscing vitae proin sagittis. Feugiat in fermentum posuere urna nec. Nisi vitae suscipit tellus mauris a diam. Tellus at urna condimentum mattis. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus."
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcmv4i30",
       "content": {
-        "text": "It was clear that for this to work, Livingdocs, a browser-based web editor, would need to support a lot of print specifics. Moreover, we needed to define a new workflow that could bring together two mostly separated worlds: writing for print and writing for the web."
+        "text": "Viverra nam libero justo laoreet. Sit amet cursus sit amet dictum sit. Sit amet nisl purus in mollis. Id diam vel quam elementum pulvinar etiam non quam lacus. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Commodo ullamcorper a lacus vestibulum sed arcu non. Semper risus in hendrerit gravida rutrum quisque non tellus. Ullamcorper velit sed ullamcorper morbi. Lacus vestibulum sed arcu non odio euismod lacinia. A cras semper auctor neque vitae."
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcmva790",
       "content": {
-        "text": "The NZZ became an innovative lab environment where together we could find a novel way to work the newspaper business. A unified approach now brings print and online together, allows easy and quick setups of new content products and supports the regional outlets. Content comes alive in this environment, and it becomes the foundation on which a subscription-based business model can be built and maintained."
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper eget nulla facilisi etiam dignissim diam. Interdum varius sit amet mattis vulputate. Vitae et leo duis ut diam quam nulla porttitor massa. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Convallis aenean et tortor at. Arcu dictum varius duis at consectetur. Tellus elementum sagittis vitae et leo duis. Orci porta non pulvinar neque."
       }
     },
     {
       "identifier": "livingdocssite.quote",
       "id": "doc-1dgcqlr7b0",
       "content": {
-        "quote": "Livingdocs is the foundation of NZZ’s digital infrastructure, finally enabling us to harmonize the CMS across all the products we offer.",
-        "caption": "Andreas Bossecker, <br>CTIO at NZZ Mediengruppe"
+        "quote": "Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Morbi tristique senectus et netus et. Purus sit amet luctus venenatis lectus. Lectus mauris ultrices eros in cursus turpis.",
+        "caption": "Peter Mockingbird, <br>CTIO at LgO"
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcmvj550",
       "content": {
-        "text": "The key to the solution was the component-based nature of Livingdocs. In Livingdocs, an article is not a template, but a flexible arrangement of about 20 smaller templates, the components. Going from an online article to a print article is just a translation of one component set into another. The same is true across products, e.g. going from the daily edition to the sunday edition or the lifestyle magazine."
+        "text": "Quam elementum pulvinar etiam non quam. Non quam lacus suspendisse faucibus interdum posuere. Odio euismod lacinia at quis risus sed. Non enim praesent elementum facilisis leo vel fringilla. Sit amet purus gravida quis. Gravida cum sociis natoque penatibus et magnis. Tellus molestie nunc non blandit massa enim nec dui. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin."
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcmvs6e0",
       "content": {
-        "text": "Today, there are about 500 components at NZZ spread over 24 different sets in 6 different content products. The design team updates those sets in a two-weekly rhythm and improvements are continually integrated. Gone are the days of the big re-design. The journalists work comfortably in their web-browser and can flexibly write for the whole range of products, creating the best possible reading experience for different audiences. Even the proofreaders profit from the use of components through a system that highlights only the components that changed since the last spellchecking review."
+        "text": "Accumsan sit amet nulla facilisi morbi tempus iaculis urna id. Amet commodo nulla facilisi nullam vehicula ipsum a. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Eu feugiat pretium nibh ipsum consequat nisl vel. At risus viverra adipiscing at in. Vitae ultricies leo integer malesuada nunc. Est ante in nibh mauris cursus mattis molestie a iaculis. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Accumsan tortor posuere ac ut consequat semper viverra nam. Feugiat sed lectus vestibulum mattis ullamcorper velit sed."
       }
     },
     {
       "identifier": "livingdocssite.infographics",
       "id": "doc-1dgcqmj6u0",
       "content": {
-        "caption": "Livingdocs components can be easily converted between products and channels. NZZ uses them to share content between print, web, their magazine (Bellevue), their sunday edition (NZZ am Sonntag), their newsletters and for around 20 different channels such as Facebook Instant articles."
+        "caption": "Mattis enim ut tellus elementum sagittis. Mauris a diam maecenas sed enim. Nisl pretium fusce id velit. At augue eget arcu dictum varius duis at consectetur. Iaculis nunc sed augue lacus viverra vitae. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Sagittis orci a scelerisque purus semper eget duis at tellus. Congue eu consequat ac felis donec et odio pellentesque diam."
       },
       "containers": {
         "graph": [
@@ -156,35 +151,35 @@
       "identifier": "livingdocssite.subtitle",
       "id": "doc-1dgcqognm0",
       "content": {
-        "text": "System landscape"
+        "text": "Diam vulputate ut pharetra"
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcqpl430",
       "content": {
-        "text": "The systems landscape was drastically simplified. There is one single entry point for production: Livingdocs. Articles written for print in Livingdocs are sent to WoodWing Enterprise for post-processing in InDesign. InCopy licenses are not needed anymore. Even the newsletters are written in Livingdocs and sent to Adobe marketing cloud only for delivery."
+        "text": "Varius duis at consectetur lorem donec massa sapien faucibus et. Lacus vestibulum sed arcu non odio. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Lacus viverra vitae congue eu consequat ac. Lobortis elementum nibh tellus molestie nunc. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Massa vitae tortor condimentum lacinia quis. Gravida neque convallis a cras semper auctor neque. Id interdum velit laoreet id donec ultrices. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Magna sit amet purus gravida quis blandit. Lectus nulla at volutpat diam ut venenatis. Penatibus et magnis dis parturient montes. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium."
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcqps6e0",
       "content": {
-        "text": "The editorial planning happens in <a href=\"https://desk-net.com/info\">Desk-Net</a>. Data journalism doesn’t need a separate team anymore, but its application has been simplified so far that it is integrated into the newsroom and any editor can use components to visualize analyses. For this, NZZ built the Q Tool that is seamlessly integrated into Livingdocs."
+        "text": "Fermentum iaculis eu non diam phasellus. Ullamcorper morbi tincidunt ornare massa eget egestas. Non pulvinar neque laoreet suspendisse interdum consectetur libero id. Rutrum quisque non tellus orci ac auctor augue mauris. Ac felis donec et odio pellentesque. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat."
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcqq2740",
       "content": {
-        "text": "The frontend applications are developed by NZZ. They built a web framework (Morpheus) which works with Livingdocs as a backend and a flexible native app builder called VAMP, based on react native. The paywall is CeleraOne and payments are handled in SAP. In addition to their own delivery channels, Livingdocs supports a wealth of other channels such as Facebook Instant articles or Google AMP."
+        "text": "Varius sit amet mattis vulputate. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Amet volutpat consequat mauris nunc congue nisi vitae suscipit. Eget est lorem ipsum dolor sit amet consectetur adipiscing elit. Imperdiet dui accumsan sit amet. Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Quam nulla porttitor massa id neque aliquam vestibulum. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Odio ut sem nulla pharetra diam. Orci a scelerisque purus semper."
       }
     },
     {
       "identifier": "livingdocssite.infographics",
       "id": "doc-1dgcqqcbm0",
       "content": {
-        "caption": "Livingdocs is NZZ's production tool. Every day 500+ journalists log into the editor to write articles and/or curate overview pages. The print workflow is enabled by huGO+ and WoodWing for post-production. Analytics is done in chartbeat and planning in Desk-Net."
+        "caption": "Ut sem nulla pharetra diam sit amet nisl. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Vitae aliquet nec ullamcorper sit. Id interdum velit laoreet id donec ultrices tincidunt arcu. Condimentum lacinia quis vel eros donec ac odio tempor. Sem fringilla ut morbi tincidunt."
       },
       "styles": {
         "infographics-type": "m-infographics--wide"
@@ -200,81 +195,32 @@
     },
     {
       "identifier": "livingdocssite.subtitle",
-      "id": "doc-1dgcqr7ji0",
-      "content": {
-        "text": "Separation of concerns"
-      }
-    },
-    {
-      "identifier": "livingdocssite.paragraph",
-      "id": "doc-1dgcqrg6o0",
-      "content": {
-        "text": "The new workflows at NZZ allow every journalist to write for print and online. While the flexibility to work across channels has become greater, NZZ wanted to restrict concerns about the layout in the production logic."
-      }
-    },
-    {
-      "identifier": "livingdocssite.paragraph",
-      "id": "doc-1dgcqrmkh0",
-      "content": {
-        "text": "Livingdocs allows for graphical layout of teasers on the start and overview pages. NZZ wanted a more streamlined process, however, in which only very few users control the layout. Most of the site responsibles now work on a simple priority list view that we implemented in Livingdocs. They see which new articles have come in for a topic and sort them with drag and drop. Not all journalists are concerned anymore with how a certain teaser image looks at a particular location, only a very small team implements the graphical post-processing for the start page. This improves performance and overall efficiency."
-      }
-    },
-    {
-      "identifier": "livingdocssite.paragraph",
-      "id": "doc-1dgcqrtda0",
-      "content": {
-        "text": "A similar picture presents itself with print. Livingdocs allows for a lot of the day-to-day needs of print journalists, such as print-specific characters, seeing the correct line-breaks and checking over- and underflow. A team of 6 is responsible for the microtypographical postprocessing on the InDesign page, while the rest of the newsroom can work on their stories."
-      }
-    },
-    {
-      "identifier": "livingdocssite.paragraph",
-      "id": "doc-1dgcqs3sv0",
-      "content": {
-        "text": "To streamline these processes, NZZ used the authorisation system of Livingdocs. Journalists only see the option to write and publish articles. Site responsibles also have access to the list tool in order to sort articles for topics, and only a small handful of users has access to the graphical page management. In addition, they used configurable workflow tasks to ensure that all articles are proofread and reviewed."
-      }
-    },
-    {
-      "identifier": "livingdocssite.infographics",
-      "id": "doc-1dgcqsce00",
-      "content": {
-        "caption": "Journalists write and publish articles. Site managers prioritize the different articles in a list. Layouters curate the display of the lists on the overview pages."
-      },
-      "containers": {
-        "graph": [
-          {
-            "identifier": "livingdocssite.infograph-placeholder",
-            "id": "doc-1dgcqmn1a0"
-          }
-        ]
-      }
-    },
-    {
-      "identifier": "livingdocssite.subtitle",
       "id": "doc-1dgcqt8kf0",
       "content": {
-        "text": "A new form of publishing"
+        "text": "Sit amet nisl suscipit adipiscing"
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcqti1f0",
       "content": {
-        "text": "At the core of NZZ’s strategy are questions that concern every traditional newspaper: How can we produce more efficiently, drive revenue on content and still maintain a high quality product? The investment in new workflows at NZZ has paid off: The last 2 years have seen profits again and the shareholder dividend is back where it was. It was great to see how open the team at NZZ was to embrace new technologies, and how they challenged us to develop a toolkit that really works."
+        "text": "Sed cras ornare arcu dui vivamus. Eget nulla facilisi etiam dignissim diam quis enim. Felis imperdiet proin fermentum leo vel orci. Facilisis volutpat est velit egestas dui. Pellentesque habitant morbi tristique senectus et netus et malesuada. Facilisi morbi tempus iaculis urna id."
       }
     },
     {
       "identifier": "livingdocssite.paragraph",
       "id": "doc-1dgcqto8r0",
       "content": {
-        "text": "Our journey with NZZ continues. In late 2016, they became the first outside investor into Livingdocs with a stake of 15% and they will remain at the forefront of our innovation cycle, continually updating, trying out new features in their newsrooms and challenging our ideas against the reality of the newspaper business."
+        "text": "Mi eget mauris pharetra et ultrices neque ornare aenean. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Lorem ipsum dolor sit amet consectetur adipiscing. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Elit at imperdiet dui accumsan sit amet nulla."
       }
     },
     {
       "identifier": "livingdocssite.calltoaction",
       "id": "doc-1dgcqu7ao0",
       "content": {
-        "title": "The best way <em>to succeed is to begin.</em> Find out what Livingdocs can do for you!",
-        "buttontext": "Try out Livingdocs"
+        "title": "Elit ullamcorper dignissim cras tincidunt lobortis. A condimentum vitae <em>sapien pellentesque.</em> Sit amet nisl purus in mollis.",
+        "buttontext": "Try out MyStartUp",
+        "link": "#"
       },
       "styles": {
         "calltoaction-type": "m-calltoaction--primary"
