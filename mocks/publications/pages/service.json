@@ -132,25 +132,22 @@
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
-      "id": "doc-1dgcfpsv40",
-      "content": {
-        "text": "For the following procedures you have all the flexibility and freedom you wish. We offer you and your preferred web agencies, partners etc. fitted SDKs for easy, frictionless development and integration."
-      }
-    },
-    {
       "identifier": "livingdocssite.decoration",
       "id": "doc-1dgepos990",
       "content": {
         "image": {
-          "url": "https://server.livingdocs.io/api/v1/images/mask-group-2.svg?id=MQkvMjAxOS83LzIzL2ZiZjkxMGNjLTY0ZjgtNDAwYi04NTVhLTliNGRjODUyNjI5ZC5zdmcJNDg1",
-          "width": 348,
-          "height": 291,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-decoration.svg"
         }
       },
       "styles": {
         "decoration-type": "a-decoration--downleft"
+      }
+    },
+    {
+      "identifier": "livingdocssite.paragraph",
+      "id": "doc-1dgcfpsv40",
+      "content": {
+        "text": "For the following procedures you have all the flexibility and freedom you wish. We offer you and your preferred web agencies, partners etc. fitted SDKs for easy, frictionless development and integration."
       }
     },
     {

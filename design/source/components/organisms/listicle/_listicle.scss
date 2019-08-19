@@ -3,8 +3,8 @@
 
   &__icon {
     display: none;
-    max-width: $col-width-tablet-desktop;
-    max-height: 1.5 * $space-xl;
+    width: 4 * $space-s;
+    height: 4 * $space-s;
     position: absolute;
     bottom: calc(100% + #{$space-m});
   }

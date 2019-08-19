@@ -35,7 +35,7 @@
       "id": "doc-1dgcifkrq0",
       "content": {
         "image": {
-          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image.svg"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image-1.svg"
         },
         "icon": {
           "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
@@ -60,29 +60,14 @@
       }
     },
     {
-      "identifier": "livingdocssite.decoration",
-      "id": "doc-1dgeq7m1h0",
-      "content": {
-        "image": {
-          "url": "https://server.livingdocs.io/api/v1/images/mask-group.svg?id=MQkvMjAxOS83LzIzLzkzODllMDU4LTQ4MTAtNDNjMy1hNTgwLTIwZjk4ZGZiODZjZi5zdmcJNDg1",
-          "width": 445,
-          "height": 445,
-          "mimeType": "image/svg+xml"
-        }
-      },
-      "styles": {
-        "decoration-type": "a-decoration--upright"
-      }
-    },
-    {
       "identifier": "livingdocssite.listicle",
       "id": "doc-1dgcigfuk0",
       "content": {
         "image": {
-          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image.svg"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image-2.svg"
         },
         "icon": {
-          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-2.svg"
         },
         "col1": "The <em>Livingdocs service</em> is a cost-efficient solution that offers you the full power of Livingdocs as a service.",
         "col2": "All service customers are hosted on our secure cloud that offers comprehensive backups and redundancy as well as automatic software updates.",
@@ -101,21 +86,6 @@
       },
       "styles": {
         "buttonblock-type": "m-buttonblock--primary"
-      }
-    },
-    {
-      "identifier": "livingdocssite.decoration",
-      "id": "doc-1dgeq8bn50",
-      "content": {
-        "image": {
-          "url": "https://server.livingdocs.io/api/v1/images/mask-group-1.svg?id=MQkvMjAxOS83LzIzLzlkNzE0ZGRmLWI2ZWQtNGY5MS1iNzhhLTMwZjFmYzM4NWU0OS5zdmcJNDg1",
-          "width": 445,
-          "height": 445,
-          "mimeType": "image/svg+xml"
-        }
-      },
-      "styles": {
-        "decoration-type": "a-decoration--upleft"
       }
     }
   ]
