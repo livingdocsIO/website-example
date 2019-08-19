@@ -502,7 +502,7 @@
         "components": ["team", "teammember"]
       }, {
         "label": "Infographics",
-        "components": ["infographics", "nzz-infograph-1", "nzz-infograph-2", "nzz-infograph-3", "sz-infograph-1", "swisscom-infograph-1", "swisscom-infograph-2"]
+        "components": ["infographics", "infograph-placeholder"]
       }
     ]
   }],
