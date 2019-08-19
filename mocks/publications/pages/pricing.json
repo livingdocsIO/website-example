@@ -35,18 +35,10 @@
       "id": "doc-1dgcifkrq0",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/bg.jpg?id=MQkvMjAxOS83LzIyLzA2YmNmZWExLTdiODMtNDQxNy1iYjA1LWMxMzllOGZkNmI0Ny5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/bg.jpg?id=MQkvMjAxOS83LzIyLzA2YmNmZWExLTdiODMtNDQxNy1iYjA1LWMxMzllOGZkNmI0Ny5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 2000,
-          "height": 1573,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image.svg"
         },
         "icon": {
-          "url": "https://server.livingdocs.io/api/v1/images/deer.svg?id=MQkvMjAxOS83LzIzLzljODUzZTIxLWFkMmYtNGZmMC04YWMyLWQ1OGI0OGE1ZTRjOC5zdmcJNDg1",
-          "width": 116,
-          "height": 119,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
         },
         "col1": "<em>Livingdocs Enterprise</em> offers your corporation a secure solution.",
         "col2": "All enterprise plans have dedicated account managers and include SLAs. In addition all enterprise installations contain the possibility to customise Livingdocs to your needs.",
@@ -87,18 +79,10 @@
       "id": "doc-1dgcigfuk0",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/bg-1.jpg?id=MQkvMjAxOS83LzIyLzAzMmM2Njg1LWE1NTItNDlhMi04ODc0LTMxNzM0OWZkN2VlMS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/bg-1.jpg?id=MQkvMjAxOS83LzIyLzAzMmM2Njg1LWE1NTItNDlhMi04ODc0LTMxNzM0OWZkN2VlMS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 2000,
-          "height": 1545,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image.svg"
         },
         "icon": {
-          "url": "https://server.livingdocs.io/api/v1/images/bird.svg?id=MQkvMjAxOS83LzIzL2YyN2RiNGE5LTczZDEtNDBmNS1iOWQ3LWIyZDMzYzE4NjI4MS5zdmcJNDg1",
-          "width": 55,
-          "height": 48,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/icon-white-1.svg"
         },
         "col1": "The <em>Livingdocs service</em> is a cost-efficient solution that offers you the full power of Livingdocs as a service.",
         "col2": "All service customers are hosted on our secure cloud that offers comprehensive backups and redundancy as well as automatic software updates.",

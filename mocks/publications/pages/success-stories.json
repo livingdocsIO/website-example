@@ -35,12 +35,7 @@
       "id": "doc-1dgci2ljh0",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/img.jpg?id=MQkvMjAxOS83LzIyLzhjZjJjMGIyLTA5YTctNDUzOS05NDc3LTZmYjc1YWVjZTU3Mi5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/img.jpg?id=MQkvMjAxOS83LzIyLzhjZjJjMGIyLTA5YTctNDUzOS05NDc3LTZmYjc1YWVjZTU3Mi5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 3000,
-          "height": 2284,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/pattern-text-image.svg"
         },
         "col1": "Livingdocs is designed and developed with <em>media organizations and publishers.</em>",
         "col2": "Working with us means working with the technology experts in publishing. Our success stories will give you an insight into what Livingdocs can do for you."
@@ -52,12 +47,7 @@
       "content": {
         "link": "/nzz-21810",
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/teaserpic-2.jpg?id=MQkvMjAxOS83LzIyLzA4NmQ4YTVlLTViYWYtNGU3ZS1hMjZkLTJjYzNmMWUwY2Q4YS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/teaserpic-2.jpg?id=MQkvMjAxOS83LzIyLzA4NmQ4YTVlLTViYWYtNGU3ZS1hMjZkLTJjYzNmMWUwY2Q4YS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 510,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "Neue Zürcher Zeitung",
         "title": "Re-thinking newspaper workflows",
@@ -70,12 +60,7 @@
       "content": {
         "link": "/sz-21809",
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/teaserpic-1.jpg?id=MQkvMjAxOS83LzIyLzU4NThhZjk1LTI0ZmYtNDhhNi04MTk4LWM5M2VmOGFhMzdjMC5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/teaserpic-1.jpg?id=MQkvMjAxOS83LzIyLzU4NThhZjk1LTI0ZmYtNDhhNi04MTk4LWM5M2VmOGFhMzdjMC5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 510,
-          "height": 200,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "Süddeutsche Zeitung Magazin",
         "title": "Discovering a brand new experience",
@@ -88,12 +73,7 @@
       "content": {
         "link": "/swisscom-21808",
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/header-1-1.jpg?id=MQkvMjAxOS83LzIyL2JkNjI0MWE2LWIxZGItNDM4Yi1hZmY3LWNjOWM0MDU3MWMwZC5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/header-1-1.jpg?id=MQkvMjAxOS83LzIyL2JkNjI0MWE2LWIxZGItNDM4Yi1hZmY3LWNjOWM0MDU3MWMwZC5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 1920,
-          "height": 965,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
         },
         "topline": "Swisscom TV",
         "title": "Kick-off for synergies",
@@ -105,12 +85,7 @@
       "id": "doc-1dgci6gcj0",
       "content": {
         "image": {
-          "originalUrl": "https://server.livingdocs.io/api/v1/images/image-1.jpg?id=MQkvMjAxOS83LzIyL2E4ZTZlYWQ2LWJmNjMtNDFmYy04NGViLTgxYmVjMWI5NjQ3MS5qcGVnCTQ4NQ==",
-          "url": "https://server.livingdocs.io/api/v1/images/image-1.jpg?id=MQkvMjAxOS83LzIyL2E4ZTZlYWQ2LWJmNjMtNDFmYy04NGViLTgxYmVjMWI5NjQ3MS5qcGVnCTQ4NQ%3D%3D&auto=format",
-          "width": 778,
-          "height": 778,
-          "mimeType": "image/jpeg",
-          "imageService": "liImageProxy"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-square.svg"
         },
         "text": "Livingdocs has the power to complete your tech ecosystem just the way you want to."
       },

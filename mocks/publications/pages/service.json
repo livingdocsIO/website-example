@@ -40,12 +40,7 @@
             "id": "doc-1dgcfl59d0",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/rectangle.jpg?id=MQkvMjAxOS83LzIyLzg2YjFlOTk2LTBlODgtNGJiZC05ZGMyLWUwNTA2M2NlZGRmZS5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/rectangle.jpg?id=MQkvMjAxOS83LzIyLzg2YjFlOTk2LTBlODgtNGJiZC05ZGMyLWUwNTA2M2NlZGRmZS5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 510,
-                "height": 680,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-portrait.svg"
               },
               "title": "Magazine",
               "text": "A beautiful magazine design including layout of overview pages, menus, author pages and ads."
@@ -71,12 +66,7 @@
             "id": "doc-1dgcfl59e2",
             "content": {
               "image": {
-                "originalUrl": "https://server.livingdocs.io/api/v1/images/rectangle-1.jpg?id=MQkvMjAxOS83LzIyL2Y1MWI4MGUwLWQ3MDEtNDkzNC1iYzZlLTUyMzdiYmM0ODYxMy5qcGVnCTQ4NQ==",
-                "url": "https://server.livingdocs.io/api/v1/images/rectangle-1.jpg?id=MQkvMjAxOS83LzIyL2Y1MWI4MGUwLWQ3MDEtNDkzNC1iYzZlLTUyMzdiYmM0ODYxMy5qcGVnCTQ4NQ%3D%3D&auto=format",
-                "width": 510,
-                "height": 680,
-                "mimeType": "image/jpeg",
-                "imageService": "liImageProxy"
+                "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-portrait.svg"
               },
               "title": "Blog",
               "text": "A fine storytelling design to let your blog articles stand out of the crowd. Simple yet beautiful."
