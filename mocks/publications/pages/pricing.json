@@ -8,14 +8,14 @@
     "documentType": "page",
     "layout": "page",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.page-head",
+      "identifier": "websiteexample.page-head",
       "id": "doc-1dgcanbie0",
       "content": {
         "title": "Luctus venenatis lectus magna fringilla",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.listicle",
+      "identifier": "websiteexample.listicle",
       "id": "doc-1dgcifkrq0",
       "content": {
         "image": {
@@ -44,7 +44,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.buttonblock",
+      "identifier": "websiteexample.buttonblock",
       "id": "doc-1dgcijihi0",
       "content": {
         "link": "#",
@@ -55,7 +55,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.listicle",
+      "identifier": "websiteexample.listicle",
       "id": "doc-1dgcigfuk0",
       "content": {
         "image": {
@@ -73,7 +73,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.buttonblock",
+      "identifier": "websiteexample.buttonblock",
       "id": "doc-1dgcijl4t0",
       "content": {
         "link": "#",

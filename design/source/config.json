@@ -1,11 +1,11 @@
 {
-  "name": "livingdocssite",
-  "label": "Livingdocs Website",
-  "version": "2.0.0",
+  "name": "websiteexample",
+  "label": "Livingdocs Service Website Example",
+  "version": "1.0.0",
   "author": "livingdocs.io",
 
   "assets": {
-    "basePath": "https://cdn.livingdocs.io/designs/livingdocssite/2.0.0",
+    "basePath": "https://cdn.livingdocs.io/designs/websiteexample/2.0.0",
     "css": ["./styles.css"],
     "js": [
       "./vendors.js",

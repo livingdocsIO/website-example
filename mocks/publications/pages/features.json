@@ -8,14 +8,14 @@
     "documentType": "page",
     "layout": "page-dark",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.page-head",
+      "identifier": "websiteexample.page-head",
       "id": "doc-1dgcaoeo30",
       "content": {
         "title": "Nibh tortor id aliquet lectus proin",
@@ -23,7 +23,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.feature",
+      "identifier": "websiteexample.feature",
       "id": "doc-1dgcg7akp0",
       "content": {
         "icon": {
@@ -44,7 +44,7 @@
       "containers": {
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcg7b890",
             "content": {
               "title": "Neque volutpat",
@@ -52,7 +52,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcg7b891",
             "content": {
               "title": "Fermentum posuere",
@@ -63,11 +63,11 @@
       }
     },
     {
-      "identifier": "livingdocssite.separator",
+      "identifier": "websiteexample.separator",
       "id": "doc-1dgcg7ed60"
     },
     {
-      "identifier": "livingdocssite.feature",
+      "identifier": "websiteexample.feature",
       "id": "doc-1dgcg8e2n0",
       "content": {
         "icon": {
@@ -86,7 +86,7 @@
       "containers": {
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcg7b890",
             "content": {
               "title": "Neque volutpat",
@@ -94,7 +94,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcg7b891",
             "content": {
               "title": "Fermentum posuere",
@@ -105,11 +105,11 @@
       }
     },
     {
-      "identifier": "livingdocssite.separator",
+      "identifier": "websiteexample.separator",
       "id": "doc-1dgcg89da0"
     },
     {
-      "identifier": "livingdocssite.feature",
+      "identifier": "websiteexample.feature",
       "id": "doc-1dgcg8l3c0",
       "content": {
         "icon": {
@@ -123,7 +123,7 @@
       "containers": {
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcg8lk90",
             "content": {
               "title": "«Sed turpis tincidunt id aliquet risus. Imperdiet proin fermentum leo vel orci.» – Jeanie James",
@@ -134,7 +134,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.buttonblock",
+      "identifier": "websiteexample.buttonblock",
       "id": "doc-1dgcg8sbp0",
       "content": {
         "link": "#",

@@ -8,14 +8,14 @@
     "documentType": "page",
     "layout": "page",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.page-head",
+      "identifier": "websiteexample.page-head",
       "id": "doc-1dgcalr6l0",
       "content": {
         "title": "Mauris a diam maecenas sed enim",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.textimage",
+      "identifier": "websiteexample.textimage",
       "id": "doc-1dgcejvd70",
       "content": {
         "image": {
@@ -39,7 +39,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.videoshowcase",
+      "identifier": "websiteexample.videoshowcase",
       "id": "doc-1dgcemq8g0",
       "content": {
         "iframe": "<img style='width: 150%; height: 150%; max-width: none; max-height: none; position: absolute; top: -25%; left: -25%;' src='https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-video.svg' />"
@@ -52,7 +52,7 @@
       "containers": {
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcemqpe0",
             "content": {
               "title": "Placerat duis ultricies",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcemqpe1",
             "content": {
               "title": "Lacus viverra vitae",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcemqpe2",
             "content": {
               "title": "Posuere lorem",
@@ -76,7 +76,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcengs10",
             "content": {
               "title": "Eleifend quam",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcenjap0",
             "content": {
               "title": "Amet volutpat",
@@ -95,7 +95,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.productchoice",
+      "identifier": "websiteexample.productchoice",
       "id": "doc-1dgceqlk80",
       "content": {
         "icon1": {
@@ -112,7 +112,7 @@
       "containers": {
         "button1": [
           {
-            "identifier": "livingdocssite.buttonblock",
+            "identifier": "websiteexample.buttonblock",
             "id": "doc-1dgceqm800",
             "content": {
               "link": "/enterprise-21802",
@@ -125,7 +125,7 @@
         ],
         "button2": [
           {
-            "identifier": "livingdocssite.buttonblock",
+            "identifier": "websiteexample.buttonblock",
             "id": "doc-1dgceqm8g0",
             "content": {
               "link": "/service-21804",
@@ -139,7 +139,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.brandimage",
+      "identifier": "websiteexample.brandimage",
       "id": "doc-1dgcev9ip0",
       "content": {
         "image": {

@@ -8,14 +8,14 @@
     "documentType": "article",
     "layout": "regular",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.article-head",
+      "identifier": "websiteexample.article-head",
       "id": "doc-1dgcb2nj40",
       "content": {
         "image": {
@@ -27,7 +27,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.event",
+      "identifier": "websiteexample.event",
       "id": "doc-1dgd0jngo0",
       "content": {
         "logo": {
@@ -43,7 +43,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.montage",
+      "identifier": "websiteexample.montage",
       "id": "doc-1dgd0mcsv0",
       "content": {
         "montageimage1": {
@@ -55,11 +55,11 @@
       }
     },
     {
-      "identifier": "livingdocssite.separator",
+      "identifier": "websiteexample.separator",
       "id": "doc-1dgd0ngjj0"
     },
     {
-      "identifier": "livingdocssite.event",
+      "identifier": "websiteexample.event",
       "id": "doc-1dgd0u8250",
       "content": {
         "logo": {
@@ -75,7 +75,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.controlroom",
+      "identifier": "websiteexample.controlroom",
       "id": "doc-1dgd0v7050",
       "content": {
         "controlroomimage1": {
@@ -99,11 +99,11 @@
       }
     },
     {
-      "identifier": "livingdocssite.separator",
+      "identifier": "websiteexample.separator",
       "id": "doc-1dgd13gq50"
     },
     {
-      "identifier": "livingdocssite.event",
+      "identifier": "websiteexample.event",
       "id": "doc-1dgd1bbr70",
       "content": {
         "logo": {
@@ -118,7 +118,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.montage",
+      "identifier": "websiteexample.montage",
       "id": "doc-1dgd1c7cv0",
       "content": {
         "montageimage1": {
@@ -130,11 +130,11 @@
       }
     },
     {
-      "identifier": "livingdocssite.separator",
+      "identifier": "websiteexample.separator",
       "id": "doc-1dgd1dr680"
     },
     {
-      "identifier": "livingdocssite.event",
+      "identifier": "websiteexample.event",
       "id": "doc-1dgd1e1ev0",
       "content": {
         "logo": {
@@ -146,7 +146,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.montage",
+      "identifier": "websiteexample.montage",
       "id": "doc-1dgd1en1f0",
       "content": {
         "montageimage1": {

@@ -8,14 +8,14 @@
     "documentType": "article",
     "layout": "regular",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.article-head",
+      "identifier": "websiteexample.article-head",
       "id": "doc-1dgcb4tt90",
       "content": {
         "image": {
@@ -27,7 +27,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.versus",
+      "identifier": "websiteexample.versus",
       "id": "doc-1dgcmso960",
       "content": {
         "title1": "Non quam",
@@ -36,21 +36,21 @@
       "containers": {
         "list-entries1": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcmsop90",
             "content": {
               "text": "Velit sed ullamcorper morbi"
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcmsop91",
             "content": {
               "text": "Velit ut tortor pretium "
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcmsop92",
             "content": {
               "text": "Purus faucibus ornare suspendisse sed"
@@ -59,21 +59,21 @@
         ],
         "list-entries2": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcmsop93",
             "content": {
               "text": "Ultrices sagittis orci a scelerisque"
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcmsop94",
             "content": {
               "text": "In eu mi bibendum neque egestas"
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcmsopa0",
             "content": {
               "text": "Leo in vitae turpis massa sed"
@@ -83,35 +83,35 @@
       }
     },
     {
-      "identifier": "livingdocssite.subtitle",
+      "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcmuk5n0",
       "content": {
         "text": "Sed vulputate odio"
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcmv2d80",
       "content": {
         "text": "Lobortis scelerisque fermentum dui faucibus. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Risus viverra adipiscing at in tellus. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Nisi quis eleifend quam adipiscing vitae proin sagittis. Feugiat in fermentum posuere urna nec. Nisi vitae suscipit tellus mauris a diam. Tellus at urna condimentum mattis. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus."
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcmv4i30",
       "content": {
         "text": "Viverra nam libero justo laoreet. Sit amet cursus sit amet dictum sit. Sit amet nisl purus in mollis. Id diam vel quam elementum pulvinar etiam non quam lacus. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Commodo ullamcorper a lacus vestibulum sed arcu non. Semper risus in hendrerit gravida rutrum quisque non tellus. Ullamcorper velit sed ullamcorper morbi. Lacus vestibulum sed arcu non odio euismod lacinia. A cras semper auctor neque vitae."
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcmva790",
       "content": {
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper eget nulla facilisi etiam dignissim diam. Interdum varius sit amet mattis vulputate. Vitae et leo duis ut diam quam nulla porttitor massa. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Convallis aenean et tortor at. Arcu dictum varius duis at consectetur. Tellus elementum sagittis vitae et leo duis. Orci porta non pulvinar neque."
       }
     },
     {
-      "identifier": "livingdocssite.quote",
+      "identifier": "websiteexample.quote",
       "id": "doc-1dgcqlr7b0",
       "content": {
         "quote": "Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Morbi tristique senectus et netus et. Purus sit amet luctus venenatis lectus. Lectus mauris ultrices eros in cursus turpis.",
@@ -119,21 +119,21 @@
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcmvj550",
       "content": {
         "text": "Quam elementum pulvinar etiam non quam. Non quam lacus suspendisse faucibus interdum posuere. Odio euismod lacinia at quis risus sed. Non enim praesent elementum facilisis leo vel fringilla. Sit amet purus gravida quis. Gravida cum sociis natoque penatibus et magnis. Tellus molestie nunc non blandit massa enim nec dui. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin."
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcmvs6e0",
       "content": {
         "text": "Accumsan sit amet nulla facilisi morbi tempus iaculis urna id. Amet commodo nulla facilisi nullam vehicula ipsum a. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Eu feugiat pretium nibh ipsum consequat nisl vel. At risus viverra adipiscing at in. Vitae ultricies leo integer malesuada nunc. Est ante in nibh mauris cursus mattis molestie a iaculis. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Accumsan tortor posuere ac ut consequat semper viverra nam. Feugiat sed lectus vestibulum mattis ullamcorper velit sed."
       }
     },
     {
-      "identifier": "livingdocssite.infographics",
+      "identifier": "websiteexample.infographics",
       "id": "doc-1dgcqmj6u0",
       "content": {
         "caption": "Mattis enim ut tellus elementum sagittis. Mauris a diam maecenas sed enim. Nisl pretium fusce id velit. At augue eget arcu dictum varius duis at consectetur. Iaculis nunc sed augue lacus viverra vitae. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Sagittis orci a scelerisque purus semper eget duis at tellus. Congue eu consequat ac felis donec et odio pellentesque diam."
@@ -141,42 +141,42 @@
       "containers": {
         "graph": [
           {
-            "identifier": "livingdocssite.infograph-placeholder",
+            "identifier": "websiteexample.infograph-placeholder",
             "id": "doc-1dgcqmn1a0"
           }
         ]
       }
     },
     {
-      "identifier": "livingdocssite.subtitle",
+      "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcqognm0",
       "content": {
         "text": "Diam vulputate ut pharetra"
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcqpl430",
       "content": {
         "text": "Varius duis at consectetur lorem donec massa sapien faucibus et. Lacus vestibulum sed arcu non odio. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Lacus viverra vitae congue eu consequat ac. Lobortis elementum nibh tellus molestie nunc. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Massa vitae tortor condimentum lacinia quis. Gravida neque convallis a cras semper auctor neque. Id interdum velit laoreet id donec ultrices. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Magna sit amet purus gravida quis blandit. Lectus nulla at volutpat diam ut venenatis. Penatibus et magnis dis parturient montes. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium."
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcqps6e0",
       "content": {
         "text": "Fermentum iaculis eu non diam phasellus. Ullamcorper morbi tincidunt ornare massa eget egestas. Non pulvinar neque laoreet suspendisse interdum consectetur libero id. Rutrum quisque non tellus orci ac auctor augue mauris. Ac felis donec et odio pellentesque. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat."
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcqq2740",
       "content": {
         "text": "Varius sit amet mattis vulputate. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Amet volutpat consequat mauris nunc congue nisi vitae suscipit. Eget est lorem ipsum dolor sit amet consectetur adipiscing elit. Imperdiet dui accumsan sit amet. Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Quam nulla porttitor massa id neque aliquam vestibulum. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Odio ut sem nulla pharetra diam. Orci a scelerisque purus semper."
       }
     },
     {
-      "identifier": "livingdocssite.infographics",
+      "identifier": "websiteexample.infographics",
       "id": "doc-1dgcqqcbm0",
       "content": {
         "caption": "Ut sem nulla pharetra diam sit amet nisl. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Vitae aliquet nec ullamcorper sit. Id interdum velit laoreet id donec ultrices tincidunt arcu. Condimentum lacinia quis vel eros donec ac odio tempor. Sem fringilla ut morbi tincidunt."
@@ -187,35 +187,35 @@
       "containers": {
         "graph": [
           {
-            "identifier": "livingdocssite.infograph-placeholder",
+            "identifier": "websiteexample.infograph-placeholder",
             "id": "doc-1dgcqmn1a0"
           }
         ]
       }
     },
     {
-      "identifier": "livingdocssite.subtitle",
+      "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcqt8kf0",
       "content": {
         "text": "Sit amet nisl suscipit adipiscing"
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcqti1f0",
       "content": {
         "text": "Sed cras ornare arcu dui vivamus. Eget nulla facilisi etiam dignissim diam quis enim. Felis imperdiet proin fermentum leo vel orci. Facilisis volutpat est velit egestas dui. Pellentesque habitant morbi tristique senectus et netus et malesuada. Facilisi morbi tempus iaculis urna id."
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcqto8r0",
       "content": {
         "text": "Mi eget mauris pharetra et ultrices neque ornare aenean. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Lorem ipsum dolor sit amet consectetur adipiscing. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Elit at imperdiet dui accumsan sit amet nulla."
       }
     },
     {
-      "identifier": "livingdocssite.calltoaction",
+      "identifier": "websiteexample.calltoaction",
       "id": "doc-1dgcqu7ao0",
       "content": {
         "title": "Elit ullamcorper dignissim cras tincidunt lobortis. A condimentum vitae <em>sapien pellentesque.</em> Sit amet nisl purus in mollis.",

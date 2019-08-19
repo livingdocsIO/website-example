@@ -8,14 +8,14 @@
     "documentType": "page",
     "layout": "page",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.page-head",
+      "identifier": "websiteexample.page-head",
       "id": "doc-1dgcamgqn0",
       "content": {
         "title": "A iaculis at erat pellentesque adipiscing",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.textimage",
+      "identifier": "websiteexample.textimage",
       "id": "doc-1dgcf2gin0",
       "content": {
         "image": {
@@ -37,7 +37,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.producthighlights",
+      "identifier": "websiteexample.producthighlights",
       "id": "doc-1dgcf3sv20",
       "content": {
         "icon": {
@@ -51,7 +51,7 @@
       "containers": {
         "images": [
           {
-            "identifier": "livingdocssite.image",
+            "identifier": "websiteexample.image",
             "id": "doc-1dgcf3tf70",
             "content": {
               "image": {
@@ -61,7 +61,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.image",
+            "identifier": "websiteexample.image",
             "id": "doc-1dgcf3tf71",
             "content": {
               "image": {
@@ -71,7 +71,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.image",
+            "identifier": "websiteexample.image",
             "id": "doc-1dgcf3tf72",
             "content": {
               "image": {
@@ -81,7 +81,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.image",
+            "identifier": "websiteexample.image",
             "id": "doc-1dgcf3tf73",
             "content": {
               "image": {
@@ -94,7 +94,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.producthighlights",
+      "identifier": "websiteexample.producthighlights",
       "id": "doc-1dgcf45730",
       "content": {
         "icon": {
@@ -110,7 +110,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.brandimage",
+      "identifier": "websiteexample.brandimage",
       "id": "doc-1dgcfho5g0",
       "content": {
         "image": {

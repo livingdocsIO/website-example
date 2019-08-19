@@ -8,14 +8,14 @@
     "documentType": "article",
     "layout": "regular",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.article-head",
+      "identifier": "websiteexample.article-head",
       "id": "doc-1dgcb5nd30",
       "content": {
         "image": {
@@ -27,14 +27,14 @@
       }
     },
     {
-      "identifier": "livingdocssite.subtitle",
+      "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcirdlh0",
       "content": {
         "text": "Facilisi cras fermentum odio eu feugiat"
       }
     },
     {
-      "identifier": "livingdocssite.list",
+      "identifier": "websiteexample.list",
       "id": "doc-1dgcirgjt0",
       "styles": {
         "list-type": "m-list--numbered"
@@ -42,7 +42,7 @@
       "containers": {
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcirh1k0",
             "content": {
               "title": "Volutpat sed cras ornare arcu",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcirh1k1",
             "content": {
               "title": "Scelerisque fermentum dui",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcirjr90",
             "content": {
               "title": "Pharetra sit amet",
@@ -69,12 +69,12 @@
       }
     },
     {
-      "identifier": "livingdocssite.team",
+      "identifier": "websiteexample.team",
       "id": "doc-1dgcits0m0",
       "containers": {
         "box1": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgcitss50",
             "content": {
               "image": {
@@ -89,7 +89,7 @@
         ],
         "box2": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd2vh8t0",
             "content": {
               "image": {
@@ -105,7 +105,7 @@
         "box3": [],
         "box4": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd2viri0",
             "content": {
               "image": {
@@ -122,7 +122,7 @@
         "box6": [],
         "box7": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgcitss60",
             "content": {
               "image": {
@@ -137,7 +137,7 @@
         ],
         "box8": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd2vnvn0",
             "content": {
               "image": {
@@ -153,7 +153,7 @@
         "box9": [],
         "box10": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd2vshl0",
             "content": {
               "image": {
@@ -168,7 +168,7 @@
         ],
         "box11": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd301t60",
             "content": {
               "image": {
@@ -185,7 +185,7 @@
         "box13": [],
         "box14": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd303qn0",
             "content": {
               "image": {
@@ -202,7 +202,7 @@
         "box16": [],
         "box17": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgcitss61",
             "content": {
               "image": {
@@ -219,7 +219,7 @@
         "box19": [],
         "box20": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd30qcg0",
             "content": {
               "image": {
@@ -234,7 +234,7 @@
         ],
         "box21": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgcitss62",
             "content": {
               "image": {
@@ -250,7 +250,7 @@
         "box22": [],
         "box23": [
           {
-            "identifier": "livingdocssite.teammember",
+            "identifier": "websiteexample.teammember",
             "id": "doc-1dgd315ip0",
             "content": {
               "image": {
@@ -268,21 +268,21 @@
       }
     },
     {
-      "identifier": "livingdocssite.subtitle",
+      "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcj24rg0",
       "content": {
         "text": "Aenean sed adipiscing diam donec"
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcj26qp0",
       "content": {
         "text": "Aenean vel elit scelerisque mauris pellentesque pulvinar. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Blandit volutpat maecenas volutpat blandit aliquam etiam erat. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Faucibus scelerisque eleifend donec pretium vulputate. Elit ullamcorper dignissim cras tincidunt. Eget egestas purus viverra accumsan in nisl nisi."
       }
     },
     {
-      "identifier": "livingdocssite.buttonblock",
+      "identifier": "websiteexample.buttonblock",
       "id": "doc-1dgcj31540",
       "content": {
         "link": "#",

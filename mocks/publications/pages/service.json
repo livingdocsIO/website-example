@@ -8,14 +8,14 @@
     "documentType": "page",
     "layout": "page",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.page-head",
+      "identifier": "websiteexample.page-head",
       "id": "doc-1dgcanuo60",
       "content": {
         "title": "Magna fringilla urna porttitor rhoncus",
@@ -26,12 +26,12 @@
       }
     },
     {
-      "identifier": "livingdocssite.designstore",
+      "identifier": "websiteexample.designstore",
       "id": "doc-1dgcfl4ct0",
       "containers": {
         "designs": [
           {
-            "identifier": "livingdocssite.designstore-item",
+            "identifier": "websiteexample.designstore-item",
             "id": "doc-1dgcfl59d0",
             "content": {
               "image": {
@@ -43,7 +43,7 @@
             "containers": {
               "buttons": [
                 {
-                  "identifier": "livingdocssite.buttonblock",
+                  "identifier": "websiteexample.buttonblock",
                   "id": "doc-1dgcfl59e0",
                   "content": {
                     "link": "#",
@@ -54,7 +54,7 @@
                   }
                 },
                 {
-                  "identifier": "livingdocssite.buttonblock",
+                  "identifier": "websiteexample.buttonblock",
                   "id": "doc-1dgcfl59e4",
                   "content": {
                     "link": "#",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.designstore-item",
+            "identifier": "websiteexample.designstore-item",
             "id": "doc-1dgcfl59e2",
             "content": {
               "image": {
@@ -77,7 +77,7 @@
             "containers": {
               "buttons": [
                 {
-                  "identifier": "livingdocssite.buttonblock",
+                  "identifier": "websiteexample.buttonblock",
                   "id": "doc-1dgcfl59e3",
                   "content": {
                     "link": "#",
@@ -88,7 +88,7 @@
                   }
                 },
                 {
-                  "identifier": "livingdocssite.buttonblock",
+                  "identifier": "websiteexample.buttonblock",
                   "id": "doc-1dgcfl59e4",
                   "content": {
                     "link": "#",
@@ -101,7 +101,7 @@
         ],
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcfl59f0",
             "content": {
               "title": "Magna fringilla urna porttitor",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcfl59f1",
             "content": {
               "title": "In massa tempor",
@@ -117,7 +117,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcfl59f2",
             "content": {
               "title": "Volutpat maecenas",
@@ -128,14 +128,14 @@
       }
     },
     {
-      "identifier": "livingdocssite.subtitle",
+      "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcfpq960",
       "content": {
         "text": "Mauris vitae ultricies leo integer"
       }
     },
     {
-      "identifier": "livingdocssite.decoration",
+      "identifier": "websiteexample.decoration",
       "id": "doc-1dgepos990",
       "content": {
         "image": {
@@ -147,14 +147,14 @@
       }
     },
     {
-      "identifier": "livingdocssite.paragraph",
+      "identifier": "websiteexample.paragraph",
       "id": "doc-1dgcfpsv40",
       "content": {
         "text": "Dolor sit amet consectetur adipiscing elit. Auctor eu augue ut lectus arcu bibendum at varius vel. Velit aliquet sagittis id consectetur. Faucibus scelerisque eleifend donec pretium vulputate. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Mattis pellentesque id nibh tortor id aliquet. Nam at lectus urna duis convallis convallis tellus id interdum."
       }
     },
     {
-      "identifier": "livingdocssite.list",
+      "identifier": "websiteexample.list",
       "id": "doc-1dgcfqjuk0",
       "styles": {
         "list-type": "m-list--numbered"
@@ -162,7 +162,7 @@
       "containers": {
         "list-entries": [
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcfqkp10",
             "content": {
               "title": "Tortor posuere",
@@ -170,7 +170,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcfqkp20",
             "content": {
               "title": "Mauris vitae",
@@ -178,7 +178,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.listitem",
+            "identifier": "websiteexample.listitem",
             "id": "doc-1dgcfqkp21",
             "content": {
               "title": "Pretium quam",
@@ -189,7 +189,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.calltoaction",
+      "identifier": "websiteexample.calltoaction",
       "id": "doc-1dgcftrmf0",
       "content": {
         "title": "Tincidunt ornare massa eget egestas purus. <em>Mauris rhoncus aenean vel elit.</em> Eu ultrices vitae auctor eu. Nec feugiat nisl pretium fusce id.",

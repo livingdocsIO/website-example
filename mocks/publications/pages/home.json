@@ -8,7 +8,7 @@
     "documentType": "page",
     "layout": "page-start",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
@@ -18,7 +18,7 @@
   },
   "content": [
     {
-      "identifier": "livingdocssite.main-head",
+      "identifier": "websiteexample.main-head",
       "id": "doc-1dg71uvl10",
       "content": {
         "title": "Lorem ipsum dolor sit amet, consetetur",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.logoblock",
+      "identifier": "websiteexample.logoblock",
       "id": "doc-1dgccb40e0",
       "content": {
         "link": "/success-stories-21806",
@@ -68,7 +68,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.textimage",
+      "identifier": "websiteexample.textimage",
       "id": "doc-1dgcckho30",
       "content": {
         "col1": "Duis autem vel eum iriure dolor in hendrerit <em>in vulputate velit esse molestie consequat,</em> vel illum dolore eu feugiat nulla facilisis."
@@ -79,12 +79,12 @@
       }
     },
     {
-      "identifier": "livingdocssite.featurelist",
+      "identifier": "websiteexample.featurelist",
       "id": "doc-1dgccnfe20",
       "containers": {
         "featurelist-item": [
           {
-            "identifier": "livingdocssite.featurelist-item",
+            "identifier": "websiteexample.featurelist-item",
             "id": "doc-1dgccng2f0",
             "content": {
               "icon": {
@@ -110,7 +110,7 @@
             }
           },
           {
-            "identifier": "livingdocssite.buttonblock",
+            "identifier": "websiteexample.buttonblock",
             "id": "doc-1dgccng2f1",
             "content": {
               "link": "/features-21805",
@@ -121,7 +121,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.textimage",
+      "identifier": "websiteexample.textimage",
       "id": "doc-1dgcdu20n0",
       "content": {
         "col1": "Duis autem vel eum iriure dolor in hendrerit <em>in vulputate velit esse</em> molestie consequat.",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.buttonblock",
+      "identifier": "websiteexample.buttonblock",
       "id": "doc-1dgcduv740",
       "content": {
         "link": "#",
@@ -140,7 +140,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.brandimage",
+      "identifier": "websiteexample.brandimage",
       "id": "doc-1dgce0e8g0",
       "content": {
         "image": {
@@ -150,7 +150,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.sub-head",
+      "identifier": "websiteexample.sub-head",
       "id": "doc-1dgce37i20",
       "content": {
         "title": "Quam elementum pulvinar etiam non quam.",
@@ -158,7 +158,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.testimonial",
+      "identifier": "websiteexample.testimonial",
       "id": "doc-1dgce4vvm0",
       "content": {
         "icon": {
@@ -176,14 +176,14 @@
       }
     },
     {
-      "identifier": "livingdocssite.newsletter",
+      "identifier": "websiteexample.newsletter",
       "id": "doc-1dgce8j6j0",
       "content": {
         "title": "Mattis enim ut tellus elementum sagittis.<br/><em>Mauris a diam maecenas</em> sed enim."
       }
     },
     {
-      "identifier": "livingdocssite.brandimage",
+      "identifier": "websiteexample.brandimage",
       "id": "doc-1dgce952k0",
       "content": {
         "image": {

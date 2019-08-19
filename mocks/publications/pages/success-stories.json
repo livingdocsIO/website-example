@@ -8,14 +8,14 @@
     "documentType": "page",
     "layout": "page",
     "design": {
-      "name": "livingdocssite",
+      "name": "websiteexample",
       "version": "2.0.0"
     }
   },
   "metadata": {},
   "content": [
     {
-      "identifier": "livingdocssite.page-head",
+      "identifier": "websiteexample.page-head",
       "id": "doc-1dgcapb3r0",
       "content": {
         "title": "Orci phasellus egestas",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.textimage",
+      "identifier": "websiteexample.textimage",
       "id": "doc-1dgci2ljh0",
       "content": {
         "image": {
@@ -37,7 +37,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.articleteaser",
+      "identifier": "websiteexample.articleteaser",
       "id": "doc-1dgci4dsu0",
       "content": {
         "link": "/success-story-21810",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.articleteaser",
+      "identifier": "websiteexample.articleteaser",
       "id": "doc-1dgci4fom0",
       "content": {
         "link": "/success-story-21810",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.articleteaser",
+      "identifier": "websiteexample.articleteaser",
       "id": "doc-1dgci4hib0",
       "content": {
         "link": "/success-story-21810",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "identifier": "livingdocssite.brandimage",
+      "identifier": "websiteexample.brandimage",
       "id": "doc-1dgci6gcj0",
       "content": {
         "image": {
