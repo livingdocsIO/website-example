@@ -1,7 +1,7 @@
 .a-popnavisubitem {
   display: inline;
   font-weight: 400;
-  color: $color-grey-light;
+  color: ($color-white + $color-blue) / 2;
 
   &:not(:first-child) {
     &::before {
