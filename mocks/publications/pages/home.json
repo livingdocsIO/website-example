@@ -36,58 +36,31 @@
       "content": {
         "link": "/success-stories-21806",
         "image1": {
-          "url": "https://server.livingdocs.io/api/v1/images/neue-zuercher-zeitung.svg?id=MQkvMjAxOS83LzIyLzI3NmEwMWQ5LTQ0MWYtNDEwZi04ZDlmLWI1Zjc4NzYwODU2ZS5zdmcJNDg1",
-          "width": 46,
-          "height": 17,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-1.svg"
         },
         "image2": {
-          "url": "https://server.livingdocs.io/api/v1/images/sueddeutsche-zeitung.svg?id=MQkvMjAxOS83LzIyLzhmMTFmMjdmLWMyM2MtNGZkOS05YmZkLTQ0ZGEzN2Q3ZjliMy5zdmcJNDg1",
-          "width": 31,
-          "height": 21,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-2.svg"
         },
         "image3": {
-          "url": "https://server.livingdocs.io/api/v1/images/watson.svg?id=MQkvMjAxOS83LzIyL2M2NGZjNjJhLTI5YWUtNDU1Mi1iODM0LTg3Y2JlMWY2MmY0YS5zdmcJNDg1",
-          "width": 25,
-          "height": 24,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-3.svg"
         },
         "image4": {
-          "url": "https://server.livingdocs.io/api/v1/images/swisscom.svg?id=MQkvMjAxOS83LzIyL2E5YWY2NmE0LTAxYTQtNDEyMi05ODAyLWY0Y2EyNmEyZTRlMS5zdmcJNDg1",
-          "width": 27,
-          "height": 35,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-4.svg"
         },
         "image5": {
-          "url": "https://server.livingdocs.io/api/v1/images/neidhart-schoen.svg?id=MQkvMjAxOS83LzIyLzg3ZDdjODRlLWFiOTMtNDUyMi1hZWI5LTRlYmE3YjQ1Mjg3Yy5zdmcJNDg1",
-          "width": 47,
-          "height": 21,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-5.svg"
         },
         "image6": {
-          "url": "https://server.livingdocs.io/api/v1/images/luxemburger-wort.svg?id=MQkvMjAxOS83LzIyL2RkODFiNDgyLWQ5NGItNDAxMS05NjVjLTcxZTUxOTEyNGQyYS5zdmcJNDg1",
-          "width": 31,
-          "height": 24,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-6.svg"
         },
         "image7": {
-          "url": "https://server.livingdocs.io/api/v1/images/main-post.svg?id=MQkvMjAxOS83LzIyL2IwYWUzZjcyLWY1MTAtNDYwMy1iNTk0LTY0NTUyNDEyOTNiYy5zdmcJNDg1",
-          "width": 56,
-          "height": 19,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-7.svg"
         },
         "image8": {
-          "url": "https://server.livingdocs.io/api/v1/images/luzerner-zeitung.svg?id=MQkvMjAxOS83LzIyLzJmZjkxMzMwLTE5NzUtNDFiOS04MDNiLTg2MjFiYTU5ZWNhMi5zdmcJNDg1",
-          "width": 31,
-          "height": 19,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-8.svg"
         },
         "image9": {
-          "url": "https://server.livingdocs.io/api/v1/images/placeholder.svg?id=MQkvMjAxOS83LzIyLzY1ZmM2MDMxLWQ2NTUtNGYwYy04MDJlLWVhYjk0ZWFiZDUzZS5zdmcJNDg1",
-          "width": 26,
-          "height": 6,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-placeholder.svg"
         }
       },
       "styles": {
@@ -198,10 +171,7 @@
         "quote": "Livingdocs is the foundation of NZZ’s digital infrastructure, finally enabling us to harmonize the CMS across all the products we offer.",
         "caption": "Andreas Bossecker, <br>CTIO at NZZ Mediengruppe",
         "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/neue-zuercher-zeitung.svg?id=MQkvMjAxOS83LzIyL2RhMWQ1ZWEwLTQzNjMtNDgxZC04ZmI1LTZmNjU5NzQ5MDJkYS5zdmcJNDg1",
-          "width": 46,
-          "height": 17,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-3.svg"
         }
       }
     },

@@ -36,10 +36,7 @@
       "id": "doc-1dgd0jngo0",
       "content": {
         "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/logo-desk-net.svg?id=MQkvMjAxOS83LzIzL2NlMGVjZTgwLWMwOWQtNDA1YS1iZWRiLWQ5MGQ4ODk2NzdjNi5zdmcJNDg1",
-          "width": 60,
-          "height": 9,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-3.svg"
         },
         "date": "15. - 16.5.2019",
         "place": "HAMBURG",
@@ -71,10 +68,7 @@
       "id": "doc-1dgd0u8250",
       "content": {
         "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/logo-meetup.svg?id=MQkvMjAxOS83LzIzLzA1ZTg3MDg4LTc1M2YtNDc5Ny1hNTRhLWFkYjE4OTZhOTA0Ny5zdmcJNDg1",
-          "width": 60,
-          "height": 22,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-1.svg"
         },
         "date": "12.3.2019",
         "place": "ZURICH",
@@ -118,10 +112,7 @@
       "id": "doc-1dgd1bbr70",
       "content": {
         "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/logo-ifra.svg?id=MQkvMjAxOS83LzIzLzIyYjMxYzY2LTFiNmUtNDNiZC05YjNlLTU4ZjUxY2Y5ZmRiYy5zdmcJNDg1",
-          "width": 60,
-          "height": 51,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-8.svg"
         },
         "date": "9. - 11.10.2018",
         "place": "BERLIN",
@@ -149,10 +140,7 @@
       "id": "doc-1dgd1e1ev0",
       "content": {
         "logo": {
-          "url": "https://server.livingdocs.io/api/v1/images/logo-dmexco.svg?id=MQkvMjAxOS83LzIzL2YxM2JmZDFiLTU2OWQtNGZhOS04MmI0LTA0MmM3ZmNjYjU3OS5zdmcJNDg1",
-          "width": 60,
-          "height": 42,
-          "mimeType": "image/svg+xml"
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/logo-5.svg"
         },
         "date": "12., 13.9.2018",
         "place": "COLOGNE",
