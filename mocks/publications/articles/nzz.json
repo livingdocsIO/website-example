@@ -83,6 +83,17 @@
       }
     },
     {
+      "identifier": "websiteexample.infobox",
+      "id": "doc-1dgcmuk5nq",
+      "content": {
+        "title": "Sit amet nisl suscipit adipiscing",
+        "text": "Sed cras ornare arcu dui vivamus. Eget nulla facilisi etiam dignissim diam quis enim. Felis imperdiet proin fermentum leo vel orci. Facilisis volutpat est velit egestas dui. Pellentesque habitant morbi tristique senectus et netus et malesuada. Facilisi morbi tempus iaculis urna id.",
+        "image": {
+          "url": "https://livingdocs-assets.s3-eu-west-1.amazonaws.com/website-design/placeholder-landscape.svg"
+        }
+      }
+    },
+    {
       "identifier": "websiteexample.subtitle",
       "id": "doc-1dgcmuk5n0",
       "content": {
