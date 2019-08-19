@@ -1,0 +1,122 @@
+{
+  "id": 21806,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21806,
+    "contentType": "page",
+    "documentType": "page",
+    "layout": "page",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {
+    "title": "Re-thinking newspaper workflows",
+    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
+    "publishDate": "2019-07-22T08:00:51.674Z",
+    "dependencies": {}
+  },
+  "content": [
+    {
+      "identifier": "livingdocssite.page-head",
+      "id": "doc-1dgcapb3r0",
+      "content": {
+        "title": "Success Stories",
+        "text": "Every customer needs its own solution. Get inspired by our stories to see what Livingdocs can do for you."
+      },
+      "styles": {
+        "pagehead-spacing": "m-pagehead--no-spacing"
+      }
+    },
+    {
+      "identifier": "livingdocssite.textimage",
+      "id": "doc-1dgci2ljh0",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/img.jpg?id=MQkvMjAxOS83LzIyLzhjZjJjMGIyLTA5YTctNDUzOS05NDc3LTZmYjc1YWVjZTU3Mi5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/img.jpg?id=MQkvMjAxOS83LzIyLzhjZjJjMGIyLTA5YTctNDUzOS05NDc3LTZmYjc1YWVjZTU3Mi5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 3000,
+          "height": 2284,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "col1": "Livingdocs is designed and developed with <em>media organizations and publishers.</em>",
+        "col2": "Working with us means working with the technology experts in publishing. Our success stories will give you an insight into what Livingdocs can do for you."
+      }
+    },
+    {
+      "identifier": "livingdocssite.articleteaser",
+      "id": "doc-1dgci4dsu0",
+      "content": {
+        "link": "/nzz-21810",
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/teaserpic-2.jpg?id=MQkvMjAxOS83LzIyLzA4NmQ4YTVlLTViYWYtNGU3ZS1hMjZkLTJjYzNmMWUwY2Q4YS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/teaserpic-2.jpg?id=MQkvMjAxOS83LzIyLzA4NmQ4YTVlLTViYWYtNGU3ZS1hMjZkLTJjYzNmMWUwY2Q4YS5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 510,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "topline": "Neue Zürcher Zeitung",
+        "title": "Re-thinking newspaper workflows",
+        "lead": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system."
+      }
+    },
+    {
+      "identifier": "livingdocssite.articleteaser",
+      "id": "doc-1dgci4fom0",
+      "content": {
+        "link": "/sz-21809",
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/teaserpic-1.jpg?id=MQkvMjAxOS83LzIyLzU4NThhZjk1LTI0ZmYtNDhhNi04MTk4LWM5M2VmOGFhMzdjMC5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/teaserpic-1.jpg?id=MQkvMjAxOS83LzIyLzU4NThhZjk1LTI0ZmYtNDhhNi04MTk4LWM5M2VmOGFhMzdjMC5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 510,
+          "height": 200,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "topline": "Süddeutsche Zeitung Magazin",
+        "title": "Discovering a brand new experience",
+        "lead": "Süddeutsche Zeitung (SZ) is one of Germany’s leading quality newspapers. They have one of the most innovative developer teams across news corporations. They use it to leverage their position as technological frontrunners and to support the journalistic quest to make complex matters easy to grasp. One of their most famous recent projects is the visualization of the insights out of the Paradise Papers."
+      }
+    },
+    {
+      "identifier": "livingdocssite.articleteaser",
+      "id": "doc-1dgci4hib0",
+      "content": {
+        "link": "/swisscom-21808",
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/header-1-1.jpg?id=MQkvMjAxOS83LzIyL2JkNjI0MWE2LWIxZGItNDM4Yi1hZmY3LWNjOWM0MDU3MWMwZC5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/header-1-1.jpg?id=MQkvMjAxOS83LzIyL2JkNjI0MWE2LWIxZGItNDM4Yi1hZmY3LWNjOWM0MDU3MWMwZC5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 1920,
+          "height": 965,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "topline": "Swisscom TV",
+        "title": "Kick-off for synergies",
+        "lead": "Bluewin is the second largest news site in Switzerland. The company started out as an internet provider and like many providers they set the start page of the installed browser (bluewin.ch) and offer an email address (@bluewin.ch). The brand belongs to Swisscom, the largest telecom enterprise in Switzerland."
+      }
+    },
+    {
+      "identifier": "livingdocssite.brandimage",
+      "id": "doc-1dgci6gcj0",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/image-1.jpg?id=MQkvMjAxOS83LzIyL2E4ZTZlYWQ2LWJmNjMtNDFmYy04NGViLTgxYmVjMWI5NjQ3MS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/image-1.jpg?id=MQkvMjAxOS83LzIyL2E4ZTZlYWQ2LWJmNjMtNDFmYy04NGViLTgxYmVjMWI5NjQ3MS5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 778,
+          "height": 778,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "text": "Livingdocs has the power to complete your tech ecosystem just the way you want to."
+      },
+      "styles": {
+        "brandimage-version": "m-brandimage--square"
+      }
+    }
+  ]
+}

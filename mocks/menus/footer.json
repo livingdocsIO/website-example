@@ -5,39 +5,9 @@
   "maxDepth": 0,
   "nodes": [
     {
-      "label": "Home",
-      "type": "document",
-      "documentId": 21754,
-      "nodes": []
-    },
-    {
-      "label": "Features",
-      "type": "document",
-      "documentId": 21805,
-      "nodes": []
-    },
-    {
-      "label": "NZZ",
-      "type": "document",
-      "documentId": 21810,
-      "nodes": []
-    },
-    {
-      "label": "Event",
-      "type": "document",
-      "documentId": 21807,
-      "nodes": []
-    },
-    {
-      "label": "About Us",
-      "type": "document",
-      "documentId": 21811,
-      "nodes": []
-    },
-    {
-      "label": "Product",
-      "type": "document",
-      "documentId": 21801,
+      "label": "Made by Livingdocs",
+      "type": "uri",
+      "uri": "http://livingdocs.io",
       "nodes": []
     }
   ]

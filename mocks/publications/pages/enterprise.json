@@ -1,0 +1,231 @@
+{
+  "id": 21802,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21802,
+    "contentType": "page",
+    "documentType": "page",
+    "layout": "page",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {
+    "title": "Re-thinking newspaper workflows",
+    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
+    "publishDate": "2019-07-22T08:00:51.674Z",
+    "dependencies": {}
+  },
+  "content": [
+    {
+      "identifier": "livingdocssite.page-head",
+      "id": "doc-1dgcamgqn0",
+      "content": {
+        "title": "Livingdocs for Enterprises",
+        "text": "For everyone that needs to meet the highestexpectations when it comes to quality, availability andscalability."
+      },
+      "styles": {
+        "pagehead-spacing": "m-pagehead--no-spacing"
+      }
+    },
+    {
+      "identifier": "livingdocssite.textimage",
+      "id": "doc-1dgcf2gin0",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/bg-2.jpg?id=MQkvMjAxOS83LzIyLzZlN2UyZWVkLTU0OTQtNGU2Zi04ZGE4LWQ3MTAyMGQzOGE5MC5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/bg-2.jpg?id=MQkvMjAxOS83LzIyLzZlN2UyZWVkLTU0OTQtNGU2Zi04ZGE4LWQ3MTAyMGQzOGE5MC5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 2000,
+          "height": 1250,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "col1": "Livingdocs is well-tried software in use at <em>major publishing houses.</em>",
+        "col2": "You have the choice between our fully managed editor integration, the entire Livingdocs creation bundle or even a no-hassle full-service solution offered as a joint venture with our partner agency Netcetera."
+      }
+    },
+    {
+      "identifier": "livingdocssite.producthighlights",
+      "id": "doc-1dgcf3sv20",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/cloud.svg?id=MQkvMjAxOS83LzIzLzE2ZDgxMjgzLTU2NGItNDQ3MS05MTM5LTk4ZGRhYzUyMGM1OS5zdmcJNDg1",
+          "width": 40,
+          "height": 18,
+          "mimeType": "image/svg+xml"
+        },
+        "mainimage": "Editor Cloud",
+        "text": "There are many good reasons not to abandon your current CMS solution. With our Editor Cloud you give your existing CMS new super-powers. We handle integrations with all major CMS vendors and offer you the Livingdocs editor as a plugin in a fully managed cloud service. No large and complex IT project, just better editing.<br><br>Integrates with: AEM, WP, Drupal, Sitecore<br>(Not in the list? No problem, contact us to get your custom offer)",
+        "link": "mailto:contact@livingdocs.io",
+        "buttontext": "Request a Demo"
+      },
+      "containers": {
+        "images": [
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf3tf70",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/comments.svg?id=MQkvMjAxOS83LzIzLzAyMzc1NDg5LWZjYWItNGIxZC1iNzllLWY1OWVkNDkwNjIwNy5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Collaborative writing including History and Track Changes."
+            }
+          },
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf3tf71",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/editor.svg?id=MQkvMjAxOS83LzIzLzQ2ZTgxMzdhLTBiOGEtNDMzYS04NzUwLWUwNTNmNTc2ZGMxZS5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "WYSIWYG editing for your web products."
+            }
+          },
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf3tf72",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/lego.svg?id=MQkvMjAxOS83LzIzLzRiN2RlNmY4LTM5NWMtNDA0MC1iNDQ2LTU3ZWRlMjRhMDc1Yi5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Fast and intuitive building block system to layout content."
+            }
+          },
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf3tf73",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/multi-channel.svg?id=MQkvMjAxOS83LzIzLzU3YWJmYzUwLWY2YTItNGFkMi1iOTlmLWNlNjg2YzdiNGM1Ny5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Fully managed and supported cloud service."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.producthighlights",
+      "id": "doc-1dgcf431r0",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/creation.svg?id=MQkvMjAxOS83LzIzLzFjNDVlMGJlLTlhYjUtNDlmMi05ZjdkLWMxNmFiNDdkYjNlYi5zdmcJNDg1",
+          "width": 30,
+          "height": 28,
+          "mimeType": "image/svg+xml"
+        },
+        "mainimage": "Livingdocs Creation",
+        "text": "Livingdocs Creation is a full-fledged headless CMS solution including everything you need to turn off your current CMS and enter the world of multi-channel publishing. We run content-creation for websites, newsletters, native apps and even TV set-top boxes.",
+        "link": "mailto:contact@livingdocs.io",
+        "buttontext": "Request a Demo"
+      },
+      "containers": {
+        "images": [
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf43m60",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/changes.svg?id=MQkvMjAxOS83LzIzL2M3N2QyMmU0LWM1NzktNDg2YS05NDQxLTZkZGRlNTAxNWEwYy5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Our world-class editor to write content in large teams."
+            }
+          },
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf43m61",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/smart-assets.svg?id=MQkvMjAxOS83LzIzLzI1Nzg3NDBiLTY0ZGQtNGEyOS1iYzlmLTE1YjVkNDhmMTA1Ni5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Smart assets, machine- learning and scalability to millions of documents."
+            }
+          },
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf43m62",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/layout-system.svg?id=MQkvMjAxOS83LzIzL2FhOTMzOWYyLWQwMGYtNDE4OC1hYzZhLWU4YmYxNzI4MzFlOC5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Automated, manual or even scheduled layout system for your overview pages."
+            }
+          },
+          {
+            "identifier": "livingdocssite.image",
+            "id": "doc-1dgcf43m70",
+            "content": {
+              "image": {
+                "url": "https://server.livingdocs.io/api/v1/images/monitoring.svg?id=MQkvMjAxOS83LzIzL2E0MTQwNDk3LTM1M2UtNDNlZS05NjZlLWQzNjAzZmQ0MTY1ZC5zdmcJNDg1",
+                "width": 360,
+                "height": 360,
+                "mimeType": "image/svg+xml"
+              },
+              "title": "Administrative features to monitor and control everything from access to presentation."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.producthighlights",
+      "id": "doc-1dgcf45730",
+      "content": {
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/forward-publishing.svg?id=MQkvMjAxOS83LzIzL2JlY2Q4NzZlLTE0OTctNGFiOS1hNmQwLTEzM2ZiZTIwOWI4Ni5zdmcJNDg1",
+          "width": 31,
+          "height": 31,
+          "mimeType": "image/svg+xml"
+        },
+        "mainimage": "Forward Publishing",
+        "text": "Forward Publishing is a comprehensive and well-served all-in-one solution for publishers offered as a joint-venture with the leading Swiss IT consultancy Netcetera. It enables publishing companies to have a smooth transition and transformation to an extensive digital content workflow with a set of highly approved integrated products. Forward Publishing provides a solid yet continuously evolving foundation for a sustainable, intelligent, digital, mobile-first subscription model.",
+        "link": "https://www.forward-publishing.com",
+        "buttontext": "Learn More"
+      },
+      "containers": {
+        "images": []
+      }
+    },
+    {
+      "identifier": "livingdocssite.brandimage",
+      "id": "doc-1dgcfho5g0",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/grafik-13-1.jpg?id=MQkvMjAxOS83LzIyLzFkMTE3MjMwLTY2NGYtNGI5MS1iYjRiLTQwZjdhYzIwNzY5NS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/grafik-13-1.jpg?id=MQkvMjAxOS83LzIyLzFkMTE3MjMwLTY2NGYtNGI5MS1iYjRiLTQwZjdhYzIwNzY5NS5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 514,
+          "height": 514,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "text": "Development is a winding road. We’ll help you find your way with Livingdocs."
+      },
+      "styles": {
+        "brandimage-version": "m-brandimage--square"
+      }
+    }
+  ]
+}

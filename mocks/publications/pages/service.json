@@ -1,0 +1,211 @@
+{
+  "id": 21804,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21804,
+    "contentType": "page",
+    "documentType": "page",
+    "layout": "page",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {
+    "title": "Re-thinking newspaper workflows",
+    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
+    "publishDate": "2019-07-22T08:00:51.674Z",
+    "dependencies": {}
+  },
+  "content": [
+    {
+      "identifier": "livingdocssite.page-head",
+      "id": "doc-1dgcanuo60",
+      "content": {
+        "title": "Livingdocs as a Service",
+        "text": "For everyone that needs a world-class content- creation service for their projects - take our ready-made examples or start building from scratch."
+      },
+      "styles": {
+        "pagehead-spacing": "m-pagehead--no-spacing"
+      }
+    },
+    {
+      "identifier": "livingdocssite.designstore",
+      "id": "doc-1dgcfl4ct0",
+      "containers": {
+        "designs": [
+          {
+            "identifier": "livingdocssite.designstore-item",
+            "id": "doc-1dgcfl59d0",
+            "content": {
+              "image": {
+                "originalUrl": "https://server.livingdocs.io/api/v1/images/rectangle.jpg?id=MQkvMjAxOS83LzIyLzg2YjFlOTk2LTBlODgtNGJiZC05ZGMyLWUwNTA2M2NlZGRmZS5qcGVnCTQ4NQ==",
+                "url": "https://server.livingdocs.io/api/v1/images/rectangle.jpg?id=MQkvMjAxOS83LzIyLzg2YjFlOTk2LTBlODgtNGJiZC05ZGMyLWUwNTA2M2NlZGRmZS5qcGVnCTQ4NQ%3D%3D&auto=format",
+                "width": 510,
+                "height": 680,
+                "mimeType": "image/jpeg",
+                "imageService": "liImageProxy"
+              },
+              "title": "Magazine",
+              "text": "A beautiful magazine design including layout of overview pages, menus, author pages and ads."
+            },
+            "containers": {
+              "buttons": [
+                {
+                  "identifier": "livingdocssite.buttonblock",
+                  "id": "doc-1dgcfl59e0",
+                  "content": {
+                    "link": "https://edit.livingdocs.io",
+                    "text": "Start with this Design"
+                  },
+                  "styles": {
+                    "buttonblock-type": "m-buttonblock--primary"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "identifier": "livingdocssite.designstore-item",
+            "id": "doc-1dgcfl59e2",
+            "content": {
+              "image": {
+                "originalUrl": "https://server.livingdocs.io/api/v1/images/rectangle-1.jpg?id=MQkvMjAxOS83LzIyL2Y1MWI4MGUwLWQ3MDEtNDkzNC1iYzZlLTUyMzdiYmM0ODYxMy5qcGVnCTQ4NQ==",
+                "url": "https://server.livingdocs.io/api/v1/images/rectangle-1.jpg?id=MQkvMjAxOS83LzIyL2Y1MWI4MGUwLWQ3MDEtNDkzNC1iYzZlLTUyMzdiYmM0ODYxMy5qcGVnCTQ4NQ%3D%3D&auto=format",
+                "width": 510,
+                "height": 680,
+                "mimeType": "image/jpeg",
+                "imageService": "liImageProxy"
+              },
+              "title": "Blog",
+              "text": "A fine storytelling design to let your blog articles stand out of the crowd. Simple yet beautiful."
+            },
+            "containers": {
+              "buttons": [
+                {
+                  "identifier": "livingdocssite.buttonblock",
+                  "id": "doc-1dgcfl59e3",
+                  "content": {
+                    "link": "https://edit.livingdocs.io",
+                    "text": "START WITH THIS DESIGN"
+                  },
+                  "styles": {
+                    "buttonblock-type": "m-buttonblock--primary"
+                  }
+                },
+                {
+                  "identifier": "livingdocssite.buttonblock",
+                  "id": "doc-1dgcfl59e4",
+                  "content": {
+                    "link": "https://blog.livingdocs.io/",
+                    "text": "PREVIEW"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcfl59f0",
+            "content": {
+              "title": "How it works",
+              "text": "You worry about the website, we handle the platform for you."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcfl59f1",
+            "content": {
+              "title": "Our service",
+              "text": "We provide you the Livingdocs Creation Platform as a service for your users or customers to produce outstanding content."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcfl59f2",
+            "content": {
+              "title": "Your code",
+              "text": "You create a stunning design and use our APIs and SDKs to build a website."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.subtitle",
+      "id": "doc-1dgcfpq960",
+      "content": {
+        "text": "Build your own frontend"
+      }
+    },
+    {
+      "identifier": "livingdocssite.paragraph",
+      "id": "doc-1dgcfpsv40",
+      "content": {
+        "text": "For the following procedures you have all the flexibility and freedom you wish. We offer you and your preferred web agencies, partners etc. fitted SDKs for easy, frictionless development and integration."
+      }
+    },
+    {
+      "identifier": "livingdocssite.decoration",
+      "id": "doc-1dgepos990",
+      "content": {
+        "image": {
+          "url": "https://server.livingdocs.io/api/v1/images/mask-group-2.svg?id=MQkvMjAxOS83LzIzL2ZiZjkxMGNjLTY0ZjgtNDAwYi04NTVhLTliNGRjODUyNjI5ZC5zdmcJNDg1",
+          "width": 348,
+          "height": 291,
+          "mimeType": "image/svg+xml"
+        }
+      },
+      "styles": {
+        "decoration-type": "a-decoration--downleft"
+      }
+    },
+    {
+      "identifier": "livingdocssite.list",
+      "id": "doc-1dgcfqjuk0",
+      "styles": {
+        "list-type": "m-list--numbered"
+      },
+      "containers": {
+        "list-entries": [
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcfqkp10",
+            "content": {
+              "title": "Design",
+              "text": "Forget about template languages. With Livingdocs you write your design in plain HTML / CSS and web technologies. You develop your design in the frontend and can always play it back to our editor for WYSIWYG support."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcfqkp20",
+            "content": {
+              "title": "Develop",
+              "text": "React, vue, Angular, you name it. Our open-source Javascript SDKs allow you to get started with any frontend technology of your choice to build your customer-facing products."
+            }
+          },
+          {
+            "identifier": "livingdocssite.listitem",
+            "id": "doc-1dgcfqkp21",
+            "content": {
+              "title": "Deploy",
+              "text": "Livingdocs frontends can be quickly deployed to services such as now.sh or in high-availability infrastructures with Kubernetes on the Google Cloud. Our free frontend examples contain guides to get you started."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "identifier": "livingdocssite.calltoaction",
+      "id": "doc-1dgcftrmf0",
+      "content": {
+        "title": "You want the <em>experts to do the work?</em> We'll gladly make you a suitable offer.",
+        "link": "mailto:contact@livingdocs.io",
+        "buttontext": "Contact Us"
+      }
+    }
+  ]
+}

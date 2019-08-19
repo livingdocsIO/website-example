@@ -1,0 +1,138 @@
+{
+  "id": 21803,
+  "systemdata": {
+    "projectId": 485,
+    "channelId": 481,
+    "documentId": 21803,
+    "contentType": "page",
+    "documentType": "page",
+    "layout": "page",
+    "design": {
+      "name": "livingdocssite",
+      "version": "2.0.0"
+    }
+  },
+  "metadata": {
+    "title": "Re-thinking newspaper workflows",
+    "description": "The Neue Zürcher Zeitung, short NZZ, is the oldest of the major newspaper brands in Switzerland and has a rich history of quality journalism across borders. Like many bigger media companies, they applied a plethora of different tools and workflows across their titles. Their main CMS was Atex Polopoly. Due to the changing landscape of content consumption, they were faced with new challenges that couldn’t be solved in the old system.",
+    "publishDate": "2019-07-22T08:00:51.674Z",
+    "dependencies": {}
+  },
+  "content": [
+    {
+      "identifier": "livingdocssite.page-head",
+      "id": "doc-1dgcanbie0",
+      "content": {
+        "title": "Pricing for Livingdocs",
+        "text": "Choose between our fully managed Enterprise solution or the affordable Livingdocs Service."
+      },
+      "styles": {
+        "pagehead-spacing": "m-pagehead--no-spacing"
+      }
+    },
+    {
+      "identifier": "livingdocssite.listicle",
+      "id": "doc-1dgcifkrq0",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/bg.jpg?id=MQkvMjAxOS83LzIyLzA2YmNmZWExLTdiODMtNDQxNy1iYjA1LWMxMzllOGZkNmI0Ny5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/bg.jpg?id=MQkvMjAxOS83LzIyLzA2YmNmZWExLTdiODMtNDQxNy1iYjA1LWMxMzllOGZkNmI0Ny5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 2000,
+          "height": 1573,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/deer.svg?id=MQkvMjAxOS83LzIzLzljODUzZTIxLWFkMmYtNGZmMC04YWMyLWQ1OGI0OGE1ZTRjOC5zdmcJNDg1",
+          "width": 116,
+          "height": 119,
+          "mimeType": "image/svg+xml"
+        },
+        "col1": "<em>Livingdocs Enterprise</em> offers your corporation a secure solution.",
+        "col2": "All enterprise plans have dedicated account managers and include SLAs. In addition all enterprise installations contain the possibility to customise Livingdocs to your needs.",
+        "listtitle1": "Editor Cloud",
+        "listtext1": "Our Editor Cloud solution is for corporations who want to keep their existing CMS but use the superior editing functionalities Livingdocs offers.<br><br>The Editor Cloud starts at $5 000 per month including 50 users, 2 TB of traffic and 50 000 documents. Additional users cost $35 per month. Additional traffic and storage is offered at actual costs of the respective cloud providers.<br><br>Hosting and updates are fully managed by us and are included in the monthly costs. Customizations are possible. We are happy to make an offer for you including the integration in your CMS solution.",
+        "listtitle2": "Livingdocs Creation",
+        "listtext2": "Livingdocs Creation is a headless CMS solution and provides a replacement for your current CMS.<br><br>The Pricing is based on named users and starts at $80 per user per month depending on chosen duration. SLAs with 18×7 or 24×7 options can be purchased in addition.<br><br>You can run Livingdocs Creation at your own premises or hosted by us in a fully managed solution. Customizations are possible. We are happy to make an offer for you."
+      }
+    },
+    {
+      "identifier": "livingdocssite.buttonblock",
+      "id": "doc-1dgcijihi0",
+      "content": {
+        "link": "mailto:contact@livingdocs.io",
+        "text": "Get an Offer"
+      },
+      "styles": {
+        "buttonblock-type": "m-buttonblock--primary"
+      }
+    },
+    {
+      "identifier": "livingdocssite.decoration",
+      "id": "doc-1dgeq7m1h0",
+      "content": {
+        "image": {
+          "url": "https://server.livingdocs.io/api/v1/images/mask-group.svg?id=MQkvMjAxOS83LzIzLzkzODllMDU4LTQ4MTAtNDNjMy1hNTgwLTIwZjk4ZGZiODZjZi5zdmcJNDg1",
+          "width": 445,
+          "height": 445,
+          "mimeType": "image/svg+xml"
+        }
+      },
+      "styles": {
+        "decoration-type": "a-decoration--upright"
+      }
+    },
+    {
+      "identifier": "livingdocssite.listicle",
+      "id": "doc-1dgcigfuk0",
+      "content": {
+        "image": {
+          "originalUrl": "https://server.livingdocs.io/api/v1/images/bg-1.jpg?id=MQkvMjAxOS83LzIyLzAzMmM2Njg1LWE1NTItNDlhMi04ODc0LTMxNzM0OWZkN2VlMS5qcGVnCTQ4NQ==",
+          "url": "https://server.livingdocs.io/api/v1/images/bg-1.jpg?id=MQkvMjAxOS83LzIyLzAzMmM2Njg1LWE1NTItNDlhMi04ODc0LTMxNzM0OWZkN2VlMS5qcGVnCTQ4NQ%3D%3D&auto=format",
+          "width": 2000,
+          "height": 1545,
+          "mimeType": "image/jpeg",
+          "imageService": "liImageProxy"
+        },
+        "icon": {
+          "url": "https://server.livingdocs.io/api/v1/images/bird.svg?id=MQkvMjAxOS83LzIzL2YyN2RiNGE5LTczZDEtNDBmNS1iOWQ3LWIyZDMzYzE4NjI4MS5zdmcJNDg1",
+          "width": 55,
+          "height": 48,
+          "mimeType": "image/svg+xml"
+        },
+        "col1": "The <em>Livingdocs service</em> is a cost-efficient solution that offers you the full power of Livingdocs as a service.",
+        "col2": "All service customers are hosted on our secure cloud that offers comprehensive backups and redundancy as well as automatic software updates.",
+        "listtext1": "We are happy to announce that the public beta of our Service solution is available now. Please feel free to make full use of the entire editing and publishing experience – we value your feedback! The official release is scheduled for autumn 2019 and subscriptions will be starting at $35 per month."
+      },
+      "styles": {
+        "listicle-cols": "o-listicle--single-col"
+      }
+    },
+    {
+      "identifier": "livingdocssite.buttonblock",
+      "id": "doc-1dgcijl4t0",
+      "content": {
+        "link": "https://edit.livingdocs.io",
+        "text": "Try it Out"
+      },
+      "styles": {
+        "buttonblock-type": "m-buttonblock--primary"
+      }
+    },
+    {
+      "identifier": "livingdocssite.decoration",
+      "id": "doc-1dgeq8bn50",
+      "content": {
+        "image": {
+          "url": "https://server.livingdocs.io/api/v1/images/mask-group-1.svg?id=MQkvMjAxOS83LzIzLzlkNzE0ZGRmLWI2ZWQtNGY5MS1iNzhhLTMwZjFmYzM4NWU0OS5zdmcJNDg1",
+          "width": 445,
+          "height": 445,
+          "mimeType": "image/svg+xml"
+        }
+      },
+      "styles": {
+        "decoration-type": "a-decoration--upleft"
+      }
+    }
+  ]
+}

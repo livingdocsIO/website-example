@@ -11,34 +11,61 @@
       "nodes": []
     },
     {
+      "label": "Product",
+      "type": "document",
+      "documentId": 21801,
+      "nodes": [
+        {
+          "label": "Enterprise",
+          "type": "document",
+          "documentId": 21802,
+          "nodes": []
+        },
+        {
+          "label": "Service",
+          "type": "document",
+          "documentId": 21804,
+          "nodes": []
+        }
+      ]
+    },
+    {
       "label": "Features",
       "type": "document",
       "documentId": 21805,
       "nodes": []
     },
     {
-      "label": "NZZ",
+      "label": "Success Stories",
       "type": "document",
-      "documentId": 21810,
-      "nodes": []
+      "documentId": 21806,
+      "nodes": [
+        {
+          "label": "NZZ",
+          "type": "document",
+          "documentId": 21810,
+          "nodes": []
+        }
+      ]
     },
     {
-      "label": "Event",
+      "label": "Pricing",
       "type": "document",
-      "documentId": 21807,
+      "documentId": 21803,
       "nodes": []
     },
     {
       "label": "About Us",
       "type": "document",
       "documentId": 21811,
-      "nodes": []
-    },
-    {
-      "label": "Product",
-      "type": "document",
-      "documentId": 21801,
-      "nodes": []
+      "nodes": [
+        {
+          "label": "Events",
+          "type": "document",
+          "documentId": 21807,
+          "nodes": []
+        }
+      ]
     }
   ]
 }
