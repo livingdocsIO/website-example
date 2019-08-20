@@ -1,17 +1,11 @@
 .a-input {
   @extend %font-s;
-  @extend %box-shadow;
   height: 30px;
   width: 100%;
   padding: 0 $space-s;
   line-height: 30px;
-  border: 0;
+  border: 1px solid $color-grey-ultralight;
   border-radius: $rounded-corners;
   background-color: $color-white;
   transition: box-shadow $transition-time ease, transform $transition-time ease;
-
-  &:focus {
-    @extend %box-shadow--highlight;
-    transform: scale(1.1);
-  }
 }

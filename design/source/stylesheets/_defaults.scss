@@ -31,7 +31,7 @@ $breakpoint-desktop: 1240px;
 $color-black:             #000;
 $color-grey-mid:          #555;
 $color-grey-light:        #999;
-$color-grey-ultralight:   #eee;
+$color-grey-ultralight:   #ddd;
 $color-white:             #fff;
 $color-blue:              #00cedb;
 $color-blue-dark:         ($color-blue + $color-black) / 2;
@@ -39,7 +39,6 @@ $color-blue-light:        #d9fdff;
 $color-orange:            #e8a200;
 $color-orange-light:      #fff8e8;
 $color-shadow:            rgba($color-black, .1);
-$color-shadow--highlight: rgba($color-blue, .3);
 
 $space-s:   10px;
 $space-m:   20px;
@@ -165,8 +164,4 @@ $transition-time: 250ms;
 
 %box-shadow {
   box-shadow: 1px 1px 10px $color-shadow;
-}
-
-%box-shadow--highlight {
-  box-shadow: 1px 1px 15px $color-shadow--highlight;
 }
