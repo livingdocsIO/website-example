@@ -1,34 +1,48 @@
-<svg width="1850" height="962" viewBox="0 0 1850 962" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1850" height="962">
-<rect width="1850" height="962" fill="#FFF8E8"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1850px" height="962px" viewBox="0 0 1850 962" style="enable-background:new 0 0 1850 962;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFF8E8;filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#mask0_1_);}
+	.st2{opacity:0.25;}
+	.st3{fill:#73CE5F;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="20" y="288.3" width="1803.1" height="1375.2">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="20" y="288.3" width="1803.1" height="1375.2" id="mask0_1_">
+	<rect y="0" class="st0" width="1850" height="962"/>
 </mask>
-<g mask="url(#mask0)">
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M1107.92 930.175L1271.92 1607.21L1678.89 536.797L1107.92 930.175Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M1008.72 538.588L1170.99 1356.92L1823.15 382.61L1008.72 538.588Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M907.788 288.292L1070.06 1106.62L1638.47 532.527L907.788 288.292Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M665.76 967.884L934.913 1635.34L1708.2 353.519L665.76 967.884Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M564.829 717.588L833.981 1385.04L1523.52 503.435L564.829 717.588Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M463.896 467.293L733.048 1134.75L1338.84 653.352L463.896 467.293Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M221.868 1146.88L597.903 1663.46L1408.58 474.345L221.868 1146.88Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M120.937 896.589L496.972 1413.17L1223.89 624.261L120.937 896.589Z" fill="#E8A200"/>
-</g>
-<g style="mix-blend-mode:multiply" opacity="0.25">
-<path d="M20.006 646.294L396.041 1162.87L1039.21 774.178L20.006 646.294Z" fill="#E8A200"/>
-</g>
+<g class="st1">
+	<g class="st2">
+		<path class="st3" d="M1107.9,930.2l164,677l407-1070.4L1107.9,930.2z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M1008.7,538.6l162.3,818.3l652.2-974.3L1008.7,538.6z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M907.8,288.3l162.3,818.3l568.4-574.1L907.8,288.3z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M665.8,967.9l269.2,667.5l773.3-1281.8L665.8,967.9z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M564.8,717.6L834,1385l689.5-881.6L564.8,717.6z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M463.9,467.3L733,1134.8l605.8-481.4L463.9,467.3z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M221.9,1146.9l376,516.6l810.7-1189.1L221.9,1146.9z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M120.9,896.6l376,516.6l726.9-788.9L120.9,896.6z"/>
+	</g>
+	<g class="st2">
+		<path class="st3" d="M20,646.3l376,516.6l643.2-388.7L20,646.3z"/>
+	</g>
 </g>
 </svg>

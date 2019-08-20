@@ -15,6 +15,7 @@
     width: calc(50vw + #{$space-l} + #{$space-m} + #{$content-width-mobile} / 2);
     height: $space-l;
     background-position: top right;
+    background-color: $color-blue-light;
   }
 
   &__content {
