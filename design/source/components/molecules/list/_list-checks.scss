@@ -1,0 +1,30 @@
+.m-list--checks {
+  .a-listitem {
+    margin-bottom: $space-s;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    h4 {
+      display: none !important;
+    }
+
+    p {
+      margin-left: $space-m + $space-s;
+      text-indent: -$space-m - $space-s;
+
+      &::before {
+        content: '';
+        display: inline-block;
+        width: $space-m;
+        height: $space-m;
+        vertical-align: text-bottom;
+        margin-right: $space-s;
+        background-image: url('../assets/icons/check.svg');
+        background-position: center center;
+        background-repeat: no-repeat;
+      }
+    }
+  }
+}
