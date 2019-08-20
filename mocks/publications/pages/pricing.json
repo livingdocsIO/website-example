@@ -20,9 +20,137 @@
       "content": {
         "title": "Luctus venenatis lectus magna fringilla",
         "text": "Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Lobortis feugiat vivamus at augue. Duis at consectetur lorem donec massa sapien faucibus et molestie."
+      }
+    },
+    {
+      "identifier": "websiteexample.pricingtable",
+      "id": "doc-1dgcijl4tx",
+      "content": {
+        "title1": "Starter",
+        "price1": "Free",
+        "description1": "Lobortis feugiat vivamus at augue.",
+        "title2": "Service",
+        "price2": "$12 per editor/month",
+        "description2": "Lobortis feugiat vivamus at augue.",
+        "title3": "Enterprise",
+        "price3": "$45 per editor/month",
+        "description3": "Lobortis feugiat vivamus at augue."
       },
-      "styles": {
-        "pagehead-spacing": "m-pagehead--no-spacing"
+      "containers": {
+        "list-entries1": [
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Blandit aliquam etiam erat velit."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Nam libero justo laoreet sit amet cursus."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Ornare arcu odio ut sem."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Sem nulla pharetra diam sit."
+            }
+          }
+        ],
+        "button1": [
+          {
+            "identifier": "websiteexample.buttonblock",
+            "content": {
+              "link": "#",
+              "text": "Start Now"
+            },
+            "styles": {
+              "buttonblock-type": "m-buttonblock--primary"
+            }
+          }
+        ],
+        "list-entries2": [
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Blandit aliquam etiam erat velit."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Nam libero justo laoreet sit amet cursus."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Ornare arcu odio ut sem."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Sem nulla pharetra diam sit."
+            }
+          }
+        ],
+        "button2": [
+          {
+            "identifier": "websiteexample.buttonblock",
+            "content": {
+              "link": "#",
+              "text": "Start Now"
+            },
+            "styles": {
+              "buttonblock-type": "m-buttonblock--primary"
+            }
+          }
+        ],
+        "list-entries3": [
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Blandit aliquam etiam erat velit."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Nam libero justo laoreet sit amet cursus."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Ornare arcu odio ut sem."
+            }
+          },
+          {
+            "identifier": "websiteexample.listitem",
+            "content": {
+              "text": "Sem nulla pharetra diam sit."
+            }
+          }
+        ],
+        "button3": [
+          {
+            "identifier": "websiteexample.buttonblock",
+            "content": {
+              "link": "#",
+              "text": "Start Now"
+            },
+            "styles": {
+              "buttonblock-type": "m-buttonblock--primary"
+            }
+          }
+        ]
       }
     },
     {

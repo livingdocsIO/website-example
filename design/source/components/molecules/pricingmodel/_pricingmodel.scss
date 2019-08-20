@@ -1,0 +1,39 @@
+.m-pricingmodel {
+  width: 100%;
+  padding: $space-m;
+  margin-bottom: $space-m;
+  border: 1px solid $color-orange;
+
+  &__title {
+    text-align: center;
+    margin-bottom: $space-m;
+  }
+
+  &__price {
+    @extend %font-l;
+    text-align: center;
+  }
+
+  &__description {
+    @extend %font-xs;
+    text-align: center;
+  }
+
+  &__features {
+    margin: $space-m 0;
+  }
+
+  .m-buttonblock,
+  .m-list {
+    margin-bottom: 0;
+  }
+}
+
+@include media-query (tablet) {
+  .m-pricingmodel {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc((100% - 2 * #{$space-m}) / 3);
+    margin: 0 $space-m / 2;
+  }
+}

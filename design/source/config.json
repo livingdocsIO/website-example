@@ -391,7 +391,7 @@
         "components": ["buttonblock", "calltoaction", "newsletter", "productchoice"]
       }, {
         "label": "Showcase",
-        "components": ["testimonial", "logoblock", "video", "videoshowcase", "listicle", "producthighlights", "html"]
+        "components": ["testimonial", "logoblock", "video", "videoshowcase", "listicle", "pricingtable", "producthighlights", "html"]
       }, {
         "label": "Design Store",
         "components": ["designstore", "designstore-item"]
